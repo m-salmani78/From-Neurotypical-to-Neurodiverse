@@ -1,0 +1,1451 @@
+[
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "John was eagerly enjoying his vacation, finally unwinding after a long period of hard work. Suddenly, his phone rang, and he was asked to drive his boss, Mr. Thompson, to the airport. John was incredibly upset that his vacation plans were being ruined by this unexpected request. To subtly express his displeasure, he pressed the brakes harder than necessary while driving Mr. Thompson. Throughout the bumpy ride, Mr. Thompson, trying to maintain his composure, suddenly remarked, \"John, this city, with its... unique driving conditions, really takes me back. I feel like I'm back in the olden days, riding a horse-drawn carriage.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What is the real intention of Mr. Thompson when he says this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mr. Thompson is expressing his admiration for the city's historical preservation.",
+                    "Mr. Thompson is complaining that John drives too roughly.",
+                    "Mr. Thompson is expressing his deep love for ancient cultures and history.",
+                    "Mr. Thompson is indirectly expressing his longing for horse carriages."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "51cf08470aaba55d2aa860afa0f29f1d"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "One Tuesday afternoon, after meticulously grading the latest batch of homework assignments, Principal Thompson slumped back in his chair, a sigh escaping his lips. The results were dismal. He frowned, contemplating how to address this issue with the faculty. Finally, he decided to post a message in the school teachers' WeChat group. With a touch of sarcasm, he typed: \"Teachers, I've just finished reviewing the students' homework from today, and I must say, I'm truly impressed by their humility. Not a single student managed to get everything correct.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What is the real meaning behind Principal Thompson's statement?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Principal Thompson believes the students are genuinely humble.",
+                    "Principal Thompson is subtly urging the teachers to focus on improving their teaching strategies.",
+                    "Principal Thompson is highlighting his attentiveness and concern for the students' homework.",
+                    "Principal Thompson is expressing his disappointment that no student achieved a perfect score."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "939c6104067fe1060e45541a47df1de1"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Once upon a time, Michael took his son to the bustling shopping mall, eager to spend some quality time together. They headed straight for the colorful children's playground, filled with the joyous sounds of kids playing. As Michael watched his son climb and slide, he noticed a man strolling into the playground, casually leading a large dog on a leash. Michael, surprised and a little annoyed, approached the man. \"Excuse me,\" Michael said, pointing to a clearly visible sign, \"Didn't you see the sign that says 'No Pets Allowed'?\" The man just scoffed, a look of utter disdain on his face, and completely ignored Michael. At that moment, Michael's son, a bright and observant child, giggled and said to Michael, \"Dad, you're so silly! Dogs can't read!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does the son really mean when he says this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "The son is mocking the man for lacking social awareness and common courtesy.",
+                    "The son is joking with his father, trying to defuse the tension with humor.",
+                    "The son loves dogs and secretly wishes they could bring their own pet.",
+                    "The son is literally pointing out that dogs are illiterate and cannot understand written rules."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "a2861297d52483ab34a87ec267009468"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Mr. Smith works in the most high-powered team in the company, a team renowned for its exceptional talent and drive. He's a notorious perfectionist, utterly intolerant of even the slightest imperfections in any project. During a particularly intense work meeting, Mr. Smith meticulously detailed a long list of minor issues plaguing their current project, his voice dripping with barely-contained frustration. Suddenly, his subordinate, Sarah, piped up, a seemingly innocent question on her lips: \"Mr. Smith, do you like to eat fish?\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Sarah really mean when she asks this question?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah is genuinely curious about Mr. Smith's dietary preferences and intends to invite him for a meal in the future.",
+                    "Sarah is trying to build rapport with Mr. Smith by inviting him to a fish dinner.",
+                    "Sarah is subtly mocking Mr. Smith for being overly critical and nitpicky.",
+                    "Sarah wants to deflect from the tense atmosphere of the work meeting by changing the subject."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "8b95ad897dae8953fc1e61d87204a133"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Michael is a fifth-grade elementary school student who has recently become completely obsessed with a popular electronic game called 'Galaxy Warriors'. The vibrant graphics, challenging levels, and addictive gameplay have captured his attention, and he finds himself spending hours glued to the screen each day, neglecting his homework and chores. One afternoon, as Michael is deeply engrossed in a particularly intense battle, his mother, Sarah, walks into the living room. She observes him for a moment, the glow of the screen reflecting in his eyes, and says to Michael, with a slightly raised eyebrow and a hint of amusement in her voice, \"Your game level improves rapidly recently.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Sarah really mean when she says these words?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah really enjoys watching Michael play games.",
+                    "Sarah wants Michael to teach her how to play this game.",
+                    "Sarah feels happy about the improvement of Michael's game level.",
+                    "Sarah hints that Michael spends too much time on the game recently."
+                ]
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "c1a7add67407121a3cbba451338795f1"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Newly hired David had a rather relaxed approach to his job and was frequently absent from the office. He'd often arrive late and leave early, and his dedication was questionable. One day, his boss, Mr. Smith, known for his dry wit, calls David. With a hint of sarcasm in his voice, Mr. Smith says, \"Well, David, it seems like our company's time clock is malfunctioning, because I can't seem to find any record of you clocking in. It's quite a mystery!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Mr. Smith really mean when he says these words to David?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mr. Smith hopes David can repair the time clock.",
+                    "Mr. Smith suggests the company should invest in a new time clock system.",
+                    "Mr. Smith hopes David will start coming to work on time.",
+                    "Mr. Smith is genuinely concerned about the time clock's technical issues and their impact on company operations."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "c7b0dd588f6f06abc62b8a67d6e78e77"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "It was a beautiful, sunny Tuesday, and the office buzzed with excitement. Everyone at the company was huddled in small groups, animatedly discussing their shopping plans for the upcoming Black Friday sales. Spreadsheets were open, wishlists were being shared, and the air crackled with anticipation. Just then, Mr. Smith, the department head, strolled over to the group, a slight frown creasing his brow. He surveyed the scene – the chattering employees, the open shopping websites – and remarked dryly, \"Well, everyone certainly seems to be working hard!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Mr. Smith really mean when he says these words?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mr. Smith wants to join the Black Friday shopping discussion.",
+                    "Mr. Smith is genuinely happy that everyone is discussing shopping strategies together.",
+                    "Mr. Smith hopes everyone stops discussing shopping and gets back to work.",
+                    "Mr. Smith wants to understand the best shopping strategies for Black Friday."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "db399a3e04d79ea0b56a6c374a2c0772"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "After a long and tiring day at the office, John finally arrived home. His wife, Sarah, was relaxing on the sofa, engrossed in a reality TV show. John surveyed the overgrown lawn in their front yard, the grass reaching almost knee-high. With a sigh, he walked into the living room and said to Sarah, with a heavy dose of sarcasm, \"I see the lawn in the garden has transformed into a professional football field.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does John really mean when he says this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John is excited about football and wants to play a game on the lawn.",
+                    "John is hinting that Sarah should mow the lawn.",
+                    "John is genuinely impressed by the size of their garden and thinks it's perfect for football.",
+                    "John is planning to invite his friends over for a football match at their house."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "f88a6a00153a721d862799b07945e8d4"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "After a grueling day at the office, John trudged wearily through the front door, his stomach rumbling. He immediately beelined for the kitchen, hoping to find a tasty snack to quell his hunger. He opened the refrigerator door with anticipation, but his face quickly fell. The shelves were bare, save for a lone, wilted piece of lettuce and a half-empty jar of mustard. Turning to his wife, Sarah, who was reading in the living room, he sighed dramatically and said, \"Even ants passing by our refrigerator would starve to death!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does John really mean when he says this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John hopes his wife cleans the refrigerator.",
+                    "John thinks ants are in the home refrigerator.",
+                    "John implies that some items should be added to the refrigerator.",
+                    "John feels tired of today's work."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "efc33077bb2060490576b8bffd5dd0d0"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Little Timmy had just started elementary school. After a long day at work, his mother, Sarah, came to Timmy's room. She surveyed the scene: building blocks were strewn across the rug, stuffed animals were piled haphazardly on the bed, and coloring books lay open on the desk, crayons scattered like fallen leaves. With a sigh and a raised eyebrow, Sarah said, \"Timmy, it looks like you just hosted a wild party in here, didn't you?\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Sarah really want to say when she says this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah wants to know if Timmy actually hosted a party.",
+                    "Sarah wants to point out that Timmy's room is too noisy.",
+                    "Sarah implies that Timmy should tidy up his messy room.",
+                    "Sarah wants to praise Timmy's toy collection."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "8edf2c16a3db9ab35241880ca28b0be7"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "In the grand hall of the national library, John was deeply engrossed in a thick, leather-bound book. Sunlight streamed through the tall arched windows, illuminating the quiet space. Suddenly, a young woman, let's call her Sarah, strolled in and settled into the chair beside him. Without a second thought, she pulled out her phone and started playing music. The volume was surprisingly loud, shattering the peaceful atmosphere. John, startled, slowly lifted his head, peering over the top of his book at Sarah. He maintained a calm demeanor, then returned his gaze to the page and said, with a slight edge to his voice, \"Excuse me, is this the national library?\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does John really want to say when he asks, \"Excuse me, is this the national library?\"",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John is genuinely unsure of his current location.",
+                    "John wants Sarah to read books with him.",
+                    "John is curious about the music Sarah is playing on her phone.",
+                    "John is subtly asking Sarah to turn off the music on her phone."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "110d6333c1fd63d5d8dc758f053a481b"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "During a tense company meeting, Mr. Thompson, the project manager, was outlining the crucial details of the upcoming product launch. He had spent weeks preparing the presentation, and the success of the launch was paramount to the company's quarterly goals. Suddenly, a new employee, let's call him John, began peppering him with a barrage of questions, frequently interrupting the flow of Mr. Thompson's carefully constructed speech. John's questions, while perhaps well-intentioned, were often tangential and disruptive. Mr. Thompson, trying to maintain his composure and professional demeanor despite the mounting frustration, paused, looked directly at John, and with a strained smile, said, \"John, your enthusiasm really impresses people.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Mr. Thompson really mean when he says this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mr. Thompson thinks John loves his job very much and appreciates it.",
+                    "Mr. Thompson implies that John should ask questions at the right time and avoid interrupting.",
+                    "Mr. Thompson expects all employees to show such enthusiasm.",
+                    "Mr. Thompson encourages John to continue asking questions."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "38ee25d580dbcf23d55d9ef966c46e7f"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "In the quiet of the afternoon self-study class, Michael suddenly erupted in a hearty, booming laugh that echoed through the room. Sarah, who was seated at the same table, looked up from her textbook, a slight frown creasing her brow. She turned to him, a polite smile playing on her lips, and said, \"Michael, your laughter really has a unique character. It's certainly… memorable.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Sarah really want to say when she says this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah genuinely likes Michael's laughter and thinks it is very special.",
+                    "Sarah hints that Michael's laughter is too loud and he should be quieter.",
+                    "Sarah praises Michael, thinking his laughter has a unique attraction.",
+                    "Sarah finds Michael's laughter interesting and amusing."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "056cba1e1ed60b4e3ae8fd061c570131"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Ms. Johnson, a very meticulous and demanding English teacher, held her students to exceptionally high standards when it came to essay writing. One afternoon, while meticulously grading a stack of essays, she came across one particularly lackluster piece. Turning to the student, a young man named Kevin, she sighed dramatically and said, with a distinct edge in her voice, \"Kevin, your essay is as mysterious as the Book of Revelation.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Ms. Johnson really mean when she says this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Kevin's essay is extremely adventurous",
+                    "Kevin's essay is exceptionally profound",
+                    "Kevin's essay is very engaging",
+                    "Kevin's essay is vague"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "80825a0e6853fb79febf95b34d1c02d6"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Sarah and Michael were excitedly preparing for a picnic. It was Michael's idea, and he'd been particularly enthusiastic, declaring, \"Today is absolutely perfect for a picnic! The sun is shining, and there's a gentle breeze!\" They carefully packed sandwiches, fruit, and drinks, and found a nice spot in the park. However, just as they eagerly unwrapped their food, dark clouds gathered overhead, and a torrential downpour began. Within moments, they were completely drenched, their carefully prepared picnic ruined. Sarah, shivering and with her hair plastered to her face, turned to Michael, a wry smile playing on her lips, and said, dripping with sarcasm, \"Oh, yes, Michael, absolutely perfect weather for a picnic!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Sarah say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "She lies to agree with Michael that today is a good day for a picnic.",
+                    "She lies to comfort Michael that today is a good day for a picnic.",
+                    "She wants to mock herself for choosing this day for a picnic, implying it was not a wise choice.",
+                    "She wants to mock Michael for saying today is a good day for a picnic."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "f395e3726583b8d59bbe6be14f2d5a3c"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Sarah's mother spent a considerable amount of time preparing Sarah's favorite meal: crispy fried fish and golden, salty chips. She carefully arranged it on a plate and brought it to Sarah, who was engrossed in watching TV. Sarah didn't even glance up from the screen, nor did she offer a word of thanks. A wave of disappointment and frustration washed over her mother. With a hint of anger in her voice, she said, \"Oh, you are just so polite!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does the mother say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "She thinks Sarah is a very polite child.",
+                    "She is lying to encourage Sarah to be a very polite child.",
+                    "She wants to mock that her own food is not delicious.",
+                    "She wants to mock Sarah is a child without manners."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "e36f633fc7e958c852d4e1ffbe9d575e"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "At the annual company meeting, Sarah and Michael, who were colleagues, found themselves seated near the front. The highlight of the evening was the employee talent show. Sarah, known more for her administrative skills than her vocal prowess, took to the stage to sing a popular song. Unfortunately, her performance was noticeably off-key, with several strained notes and wavering pitches. Michael, watching her sing with exaggerated enthusiasm and a smirk playing on his lips, leaned over to another colleague and said, in a voice just loud enough for others to hear, \"Sarah, your singing is truly something! The boss should seriously consider promoting you to a professional singer, don't you think?\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Michael say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Michael wants to say that Sarah's singing performance at the annual meeting is very good.",
+                    "Michael mocks Sarah because he dislikes Sarah.",
+                    "Michael wants to mock Sarah for her bad singing.",
+                    "Michael wants to mock Sarah for wanting to get promoted through connections."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "f09b482c7574ce72a73b1cdc953bdb14"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Sarah was excited on her first day at the new office. The supervisor, Mr. Thompson, had proudly presented their company's new printer, boasting it was the best and most user-friendly model in the entire industry. Sarah eagerly anticipated using this \"super easy to use\" printer, just like the advertisements claimed. However, when Sarah attempted to print her first document, a cascade of error messages flashed across the printer's small screen. She spent a frustrating hour wrestling with the machine, poring over the confusing manual, and clicking through countless settings. Finally, after what felt like an eternity, the printer whirred to life and produced the document. Exhausted but relieved, Sarah couldn't help but look at the supervisor and say, with a hint of sarcasm, \"It really is a super easy to use printer, it is easy to use.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Sarah say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah wants to mock that the printer is not very easy to use.",
+                    "Sarah wants to agree with the supervisor that the printer is very good to use.",
+                    "Sarah wants to recommend the printer to her colleagues.",
+                    "Sarah thinks the printer is easy to use."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "89a9f7fc81520d3ddef5ece14229f0ad"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "In a fiercely contested technology innovation competition, John and Emily led opposing teams, each vying for the top prize. As the competition neared its climax, Emily's team unveiled their latest technological marvel, a product that sparked a whirlwind of debate and drew a mixed bag of reactions from the discerning panel of judges. Observing Emily's self-satisfied smirk, John leaned back, a wry smile playing on his lips, and remarked with a hint of sarcasm, \"Well, Emily, that innovation of yours must have been unearthed from some long-forgotten relic, a masterpiece gathering dust since the last century.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does John say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John is mocking Emily because he believes the technology innovation competition is a waste of time.",
+                    "John is mocking Emily because he believes Emily's team's work lacks originality and is outdated.",
+                    "John intends to commend Emily for her exceptional leadership of the team.",
+                    "John genuinely wants to praise the outstanding quality of Emily's team's work."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "84bb0c3c290a205f563a6dff313f6ec0"
+    },
+    {
+        "ability": "Non-Literal Communication: Irony/Sarcasm",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Mark Thompson was a typical high school student, except for his unhealthy obsession with social media. Every waking moment seemed to be spent glued to his phone, mindlessly scrolling through Instagram, watching countless hours of YouTube, and even sneaking peeks during Mr. Henderson's notoriously boring history lectures. His academic performance began a slow, agonizing nosedive, with test scores plummeting and homework assignments consistently incomplete. However, his follower count on various platforms continued its steady climb, a fact that seemed to bring him more satisfaction than a good grade ever could. One evening, Mark's father, a usually calm and collected accountant named David, examined Mark's latest report card. A slight smile played on his lips as he looked up at Mark and said, \"Well, son, it seems you're far more popular online than you are in school.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does David say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "David wants to exaggerate Mark's popularity on social media.",
+                    "David wants to encourage Mark to gain more followers' attention.",
+                    "David hopes Mark will study diligently.",
+                    "David is sarcastically criticizing Mark for not studying properly."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "5b380c2464830f2cdec6b6db095a1868"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Professor Smith, a highly respected historian, lectured at a prestigious university in London. He was known for his deep understanding of history and meticulous attention to detail. One day, the university requested that he deliver a keynote speech at a significant international conference. However, Professor Smith was not comfortable with public speaking and found the conference theme uninspiring. He secretly planned to find a way to withdraw from the commitment. When his colleague, Dr. Jones, inquired about his preparations for the upcoming speech, Professor Smith replied that he was diligently crafting a fascinating presentation on ancient British history and was immersed in extensive research, poring over old texts and historical documents.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Professor Smith say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Professor Smith says this because he is genuinely conducting extensive research but prefers to keep the speech's content a secret for now.",
+                    "Professor Smith recently accepted an urgent research grant, and he is dedicating all his time and energy to that project, leaving him with no time to prepare the speech.",
+                    "Professor Smith says this because he dislikes public speaking and lacks interest in the conference's theme, so he is looking for an excuse to avoid giving the speech at the conference.",
+                    "Professor Smith says this because he wants to project an image of professionalism and diligence to his colleagues."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "34e162e07b7e02352046a27d0cda752d"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Mr. Johnson, a busy lawyer, was constantly buried in work, often staying late into the night at the office. His old friend, Mr. Davis, enthusiastically invited him to a weekend fishing trip at the lake. Mr. Johnson, however, had absolutely no interest in fishing; the thought of sitting by the water for hours bored him to tears. So, instead of being honest, he told Mr. Davis that his wife, Sarah, had arranged a very important family gathering that weekend, one that he absolutely had to attend. He emphasized how much it meant to her. In reality, on that very weekend, Mr. Johnson spent the entire day relaxing at home, peacefully reading books and enjoying the quiet solitude.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Mr. Johnson say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mr. Johnson says this because he wants to give Mr. Davis a surprise; in fact, he plans to arrange a bigger party privately.",
+                    "Mr. Johnson says this because he does not want to participate in the fishing activity but does not want to directly refuse his friend, so he makes up the excuse of a family gathering.",
+                    "Mr. Johnson just found out that he is going to receive an important professional award; he says this to hide his success, so as not to appear too proud.",
+                    "Mr. Johnson previously promised his wife, Sarah, to reduce his workload; he makes up the excuse of the gathering to show that he is trying to change."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "c8d9ff7fd47d900a9ff3ea024e744b5f"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Ms. Johnson was a celebrated novelist, renowned for weaving her vivid life experiences into her captivating stories. Her novels were filled with passion and drama, leading many to believe she lived a life equally exciting. At a literary gathering, a particularly eager reader inquired if she had ever experienced the tempestuous love affairs she so eloquently described in her books. Ms. Johnson, with a gentle smile, responded that her inspiration primarily stemmed from the books and films she consumed, adding that her own life was relatively uneventful and ordinary. In reality, she had been involved in a brief but intense romance that had profoundly shaped her writing, providing the emotional depth that resonated with her readers. She kept this part of her life carefully guarded.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Ms. Johnson say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Ms. Johnson says this because she hopes to inspire readers to believe that compelling novels can be created purely from imagination, independent of personal experiences.",
+                    "Ms. Johnson has just been nominated for a prestigious literary award, and she says this to demonstrate her professionalism and unwavering commitment to her craft.",
+                    "Ms. Johnson says this because she wants to safeguard her privacy; she prefers not to publicly discuss her personal life, especially her romantic relationships.",
+                    "Ms. Johnson felt misunderstood in a previous interview, and she deliberately answers this way to prevent further misunderstandings or sparking unnecessary controversy."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "4f880a16f70ddcfb7ae5474756d973b9"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Mr. Smith is a highly respected historian, specializing in the intricate study of ancient military strategy. He's known for his meticulous research and insightful analysis. During a well-attended public lecture, a member of the audience inquisitively asks Mr. Smith if he ever provides strategic advice to the modern military. Mr. Smith, with a thoughtful expression, replies that his research is strictly confined to the academic realm and never extends to practical military applications. He elaborates, stating that his sole interest lies in the historical context, completely detached from contemporary affairs. What the audience doesn't know is that Mr. Smith secretly dedicates a significant portion of his time as a consultant on an important national defense project, advising on strategy based on historical precedent.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Mr. Smith say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mr. Smith says this because he is not actually interested in military strategy, preferring to study ancient culture and art.",
+                    "Mr. Smith just experienced a failed collaboration, he says this to avoid getting involved in unpleasant projects again.",
+                    "Mr. Smith is misunderstood as having a military background, he says this to clarify that he is just a scholar, unrelated to the military.",
+                    "Mr. Smith says this because he needs to cover up the truth of participating in the national defense project, to protect himself and the safety of the project."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "f346334f4a6c16d231c800e9663cc654"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Sarah was known throughout her high school as a brilliant student, especially in mathematics. However, one day, disaster struck. Her latest math test came back with a surprisingly low score, a significant departure from her usual performance. When her friends inquired about the unexpected result, Sarah, visibly flustered, explained that she hadn't been able to focus on studying due to a nasty cold she'd been battling. She elaborated, mentioning the persistent cough and headaches that had plagued her, preventing her from properly preparing for the exam. She quickly added that she was already back on track with her studies and was confident she would perform much better next time. The truth, however, was far more embarrassing: Sarah had attempted to cheat on the exam that day and had been caught red-handed by the teacher.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Sarah say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah says this because she fears the truth will ruin her reputation, so she makes up the excuse of having a cold.",
+                    "Sarah says this because she indeed has a cold, which prevents her from concentrating during the exam.",
+                    "Sarah just experiences a family dispute, she says these to avoid showing her family problems in front of her friends.",
+                    "Sarah says this because she does not want others to worry about her health condition due to a previous accident."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "61977f40980c3b559d5867c27795e2b9"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Ms. Emily Carter, a well-known social activist in town, was renowned for hosting lavish and extravagant parties at her beautiful Victorian home. The parties were always the talk of the town. At one such gathering, amidst the lively music and clinking glasses, her close friend, Mr. David Miller, approached her with a curious expression. He inquired about her opinion of a new guest, a rather flamboyant gentleman named Mr. Sterling. Emily, ever the gracious hostess, turned to David with a warm smile that didn't quite reach her eyes. She replied that she greatly admired Mr. Sterling's sophisticated demeanor and engaging conversation, emphasizing his wit and charm. She added that she sincerely hoped to have more opportunities to interact with him in the future, perhaps at a charity gala or a local fundraiser. However, later that evening, while in a more private conversation with a small group of her closest friends in the library, Emily confided that she actually found Mr. Sterling's behavior quite boorish and his attempts at humor rather tiresome.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Ms. Emily Carter say she admires Mr. Sterling's demeanor and conversation?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Ms. Emily Carter says this because she truly admires Mr. Sterling, especially his demeanor and conversation.",
+                    "Ms. Emily Carter just recovers from a failed business cooperation, she answers this way to avoid showing her true emotions in social situations.",
+                    "Ms. Emily Carter previously has unpleasant contact with Mr. Sterling, she says this to cover up past contradictions and maintain her image.",
+                    "Ms. Emily Carter says this because of social etiquette; she does not want to show dissatisfaction with Mr. Sterling at the party, so she chooses a polite answer."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "25b1ce04035310db970629d39308a68a"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Sarah is a seasoned professional thriving in the cutthroat advertising world. At a bustling industry event, a colleague inquired about the specifics of a groundbreaking advertising strategy her company was poised to unveil. With a confident smile, Sarah responded that her team was pioneering a revolutionary marketing approach destined to reshape the industry, though she couldn't divulge further details at that moment. She underscored that this was a monumental leap forward. Buoyed by her own pronouncements, Sarah, after the event, instructed her team to begin brainstorming this 'innovative strategy' within the week, despite no such strategy actually existing.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Sarah say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah says this because her team is genuinely developing a new marketing method that will change the industry landscape.",
+                    "Sarah is still reeling from a recent project failure, so she answers this way to conceal her team's inadequacies.",
+                    "Sarah says this because she wants to assert her company's dominance among its competitors, even though her team hasn't developed any innovative strategies.",
+                    "Sarah had faced skepticism from industry insiders previously, and she says this to bolster the public's confidence in her professional capabilities."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "473d95b5e3e3674fedd228f215f5c0fa"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Dr. Smith was a brilliant scientist, renowned throughout the academic community for his groundbreaking work in biotechnology. He had dedicated years to his research, earning him a stellar reputation. At a prestigious international academic conference, during a Q&A session, a fellow researcher inquired whether Dr. Smith was currently involved in any clandestine research projects. Dr. Smith, with a confident smile, responded that his sole focus was on projects with publicly available data and published results. He emphasized that transparency and open collaboration were cornerstones of his research philosophy, essential for scientific progress. Unbeknownst to his colleagues, Dr. Smith was, in reality, deeply immersed in a highly classified, government-funded initiative, shrouded in secrecy and requiring the utmost discretion. The details of this project were strictly confidential, and its existence was known only to a select few.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Dr. Smith make that statement?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Dr. Smith is telling the truth; he is only working on publicly available projects and not involved in any secret research.",
+                    "Dr. Smith is concealing the highly confidential, government-funded project to protect its security and maintain its secrecy.",
+                    "Dr. Smith is experiencing a career setback and is trying to avoid further scrutiny and suspicion by making this statement.",
+                    "Dr. Smith is unhappy with his current research direction and is attempting to distract his peers and conceal his professional struggles."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "c3683f1b78edf3672d8ab3bc6e93bb7b"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Mr. Johnson, a seasoned senior manager at a large corporation, sat at the head of the conference table. During a particularly tense company meeting, Sarah, the head of the marketing department, directly asked Mr. Johnson if he supported the recently proposed, and rather controversial, restructuring plan. Mr. Johnson, without hesitation, replied that he fully and wholeheartedly supported the plan. He elaborated, stating his belief that it was absolutely the right direction for the company's future development, emphasizing that change, even if difficult, was crucial for the company's long-term success and competitiveness in the market. However, unbeknownst to most, Mr. Johnson's assistant, Emily, knew that, due to the sensitive nature of the upcoming board of directors meeting, Mr. Johnson actually harbored serious and significant concerns about the viability and potential negative impacts of this very plan.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Mr. Johnson say he supports the restructuring plan when his assistant knows he has serious concerns?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mr. Johnson says this because he fears expressing his real concerns about the restructuring plan, worrying that this may cause him to lose his position or affect his status in the company.",
+                    "Mr. Johnson says this because he truly believes that the restructuring plan is crucial for the company's long-term success.",
+                    "Mr. Johnson just completed a successful project; he says these things to maintain his leadership position in the company.",
+                    "Mr. Johnson previously had a dispute with the colleagues who proposed the plan; he answers this way to publicly support them and mend the relationship."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "7851468617860d8185f13de67a3b212c"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "At a high school class reunion, an old classmate, Sarah, asks Michael if he enjoyed the recent alumni event organized by David, who wasn't very popular back in school. Michael, forcing a smile, replies that he found the event quite interesting, emphasizing that it was a valuable team-building experience and that everyone deserves a chance to showcase their organizational talents. In reality, Michael only attended the first event and deliberately skipped all subsequent gatherings. He found it tedious and poorly planned, but he didn't want to say that out loud.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Michael say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Michael says this because he genuinely thinks the event was interesting and a good experience for him.",
+                    "Michael is experiencing a personal setback and says this to cover up his dissatisfaction with his own life.",
+                    "Michael says this because he doesn't want to hurt David's feelings and wants to maintain harmonious social relations among his classmates.",
+                    "Michael wants to create the impression that he is an active participant among his classmates, answering this way to improve his social standing."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "89e922501ffc23450f1ab288aac29018"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "One sunny afternoon, Aunt Carol decided to visit her nephew, Alex. Alex always looked forward to Carol's visits; she was a kind and generous aunt. However, today was different. Carol was sporting a brand new hat, a rather flamboyant and, in Alex's honest opinion, quite hideous creation. He thought it looked utterly ridiculous on her, and secretly wished she had worn her old, much more stylish hat instead. As Carol beamed at him, she twirled slightly and asked, \"So, Alex, what do you think of my new hat?\" Alex hesitated for a split second, then plastered on a smile and replied, \"Oh, it looks wonderful, Aunt Carol!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Alex say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Alex convinces Aunt Carol because the new hat looks good.",
+                    "Alex convinces Aunt Carol to consider her own feelings.",
+                    "Alex tells a white lie because the new hat is expensive.",
+                    "Alex tells a white lie to consider Aunt Carol's feelings."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "82e5b832558353e75a49a2c42f552d67"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Emily eagerly anticipated Christmas every year, because she knew it was her best chance to ask her parents for a pet rabbit. More than anything in the world, Emily dreamed of having a fluffy bunny of her own. Finally, Christmas morning arrived, and Emily raced to tear open the large, brightly wrapped box her parents had placed under the tree. In her heart, she was absolutely certain she would find a small, adorable rabbit nestled in a cozy cage inside. However, when she ripped away the last of the wrapping paper in front of her entire family, her face fell. Instead of a rabbit, her gift was a set of heavy, old encyclopedias. Emily couldn't hide her disappointment; this was the last thing she wanted! However, when Emily's parents, beaming with pride, asked her if she liked her Christmas gift, she forced a smile and said, \"It is very cute, thank you. This is exactly what I want.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Emily say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Emily convinces her parents because she really likes the encyclopedia.",
+                    "Emily convinces her parents so as not to disappoint them.",
+                    "Emily tells a white lie because the encyclopedia is indeed better than a rabbit.",
+                    "Emily tells a white lie so as not to disappoint her parents."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "ffd86ffb5c767f5946d1a617e23eb402"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "The fluorescent lights of the office hummed softly as the weekly meeting dragged on. A palpable tension filled the air, thick enough to cut with a knife. The new boss, Mr. Harrison, a man whose tie was always slightly askew and whose jokes consistently missed the mark, had just finished presenting the quarterly goals. Sarah sat amongst her colleagues, trying to maintain a neutral expression. Finally, Mr. Johnson, the senior manager, turned to her directly, a knowing glint in his eye. \"Sarah,\" he began, his voice carrying across the room, \"what are your thoughts on Mr. Harrison? Do you like him?\" Sarah hesitated. She didn't particularly care for Mr. Harrison's management style, finding it disorganized and somewhat condescending. However, she also valued the collaborative atmosphere of the office and knew that expressing her true feelings could create unnecessary friction and awkwardness. After a brief pause, a smile stretched across her face, and she replied, with as much sincerity as she could muster: \"Yes, I like him very much! He's a great addition to the team.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Sarah say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah actually likes the new boss very much, her answer is completely sincere.",
+                    "Sarah tells everyone that she likes them, regardless of how she actually feels.",
+                    "Sarah is planning to leave the company, so her answer does not matter.",
+                    "Sarah wants to maintain the harmony of the office, avoiding unnecessary conflicts by expressing dislike for the new boss."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "dad1b0defa996d7d506479dc3caeca07"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "During a lively family gathering on Christmas Eve, young Timmy approached his older cousin, Michael, with wide, hopeful eyes. \"Michael,\" he asked, his voice filled with anticipation, \"do you really, truly believe in Santa Claus?\" Michael paused, considering his response. He knew Timmy was at an age where the magic of Christmas was incredibly important. He didn't want to be the one to crush that innocent belief, to extinguish the spark of wonder in Timmy's eyes. So, with a warm smile and a twinkle in his own eye, Michael replied, \"Of course, Timmy! Santa Claus is absolutely real!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Michael say this to Timmy?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Michael convinces Timmy because Santa Claus is real.",
+                    "Michael convinces Timmy because he does not want to shatter his illusion.",
+                    "Michael tells a white lie because he wants to give Timmy a surprise.",
+                    "Michael tells a white lie because he does not want to shatter Timmy's illusion."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "493afb2fd44b74898c17a341e6e233e9"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "The residents of the quiet town all knew that Emily had grown up with her grandmother, and the bond between them was exceptionally strong. One sunny afternoon, the grandmother carefully retrieved a traditional cheongsam from her wardrobe, a garment she had lovingly sewn herself many years ago. With a twinkle in her eye, she asked Emily to try it on. While Emily secretly thought the color was a bit faded and the style somewhat outdated compared to current fashion, she couldn't bring herself to say so. Instead, with a warm smile, she told her grandmother that the cheongsam was absolutely beautiful and fit her perfectly, twirling slightly to emphasize her point.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Emily say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Emily praises the cheongsam as beautiful because she wants to please her grandmother in order to gain an advantage in her grandmother's will.",
+                    "Emily does not want to disappoint or embarrass her grandmother, which shows Emily's deep love and respect for her grandmother.",
+                    "Emily says this because she is threatened by her grandmother; if she does not praise the cheongsam, she will be punished.",
+                    "Emily thinks the cheongsam is truly beautiful, and her praise is completely sincere and reflects her true feelings."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "ac6dea14be6e5265a0fa0a5ac7cecaf1"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "For years, Sarah, the General Manager, and David, a Manager, had been locked in a fierce competition. This time, the company offered a single, coveted promotion, and both poured their heart and soul into securing it. When Sarah learned that she had been chosen, leaving David behind, she addressed the company during the announcement meeting. With a measured tone and a slight smile, she stated that David's work ethic and capabilities were in no way inferior to her own. In fact, she elaborated, in several key areas, David's skills and contributions actually surpassed hers. She emphasized his dedication to the team and his innovative approach to problem-solving, painting a picture of a highly valued and respected colleague.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does General Manager Sarah say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "General Manager Sarah says this to maintain harmony within the company and the team, preventing David from feeling dissatisfied or envious due to not being selected, thereby ensuring the company's stability.",
+                    "General Manager Sarah genuinely believes that David's work ability is stronger than her own, and her evaluation stems from sincerity and respect.",
+                    "General Manager Sarah says these words because she wants to make David feel ashamed and disappointed.",
+                    "General Manager Sarah wants to show off her victory in front of David, so she deliberately says this to provoke him."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "9c283e067939d6e3e8d027d3ec1625d7"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Mr. Smith, the CEO, invited his business partner, Mr. Johnson, a senior manager, to an upscale restaurant for a business dinner. The restaurant was known for its elegant ambiance and exquisite cuisine. As they were enjoying their meal, Mr. Smith observed that Mr. Johnson seemed particularly interested in a specific dish, a delicately prepared fish. However, Mr. Smith subtly detected that the dish was slightly too salty for his liking. Despite this, Mr. Smith, with a warm smile, immediately complimented the chef, remarking that the dish was perfectly seasoned and the taste was just right.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Mr. Smith say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mr. Smith genuinely believes the dish is delicious and expresses his honest opinion.",
+                    "Mr. Smith aims to impress Mr. Johnson to secure a favorable advantage in upcoming business negotiations.",
+                    "Mr. Smith is a frequent patron of the restaurant, and out of respect, consistently compliments every dish served.",
+                    "Mr. Smith acts out of courtesy and adheres to social etiquette to prevent awkwardness and foster a pleasant dining atmosphere, therefore choosing to praise the dish."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "ecbd17effd2c4fcd257c2fbef027fd86"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "John received a formal invitation to the wedding of a very important client, Mr. Smith. John knew that Mr. Smith had a penchant for extravagance, but even he was taken aback by the sheer opulence of the wedding. The venue was dripping in gold, the flowers were ridiculously expensive orchids, and the ice sculptures were melting faster than John could comprehend the cost. He thought the whole affair was far too luxurious and ultimately impractical. Later, at the reception, Mr. Smith, beaming with pride, approached John. \"So, John,\" he asked, clearly eager for validation, \"what do you think of the wedding?\" John, carefully weighing his words, smiled warmly and responded, \"Mr. Smith, it's absolutely wonderful! Truly unforgettable!\" His answer visibly delighted Mr. Smith, who had indeed invested a considerable amount of time, effort, and money into meticulously planning every detail of this extravagant celebration.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does John say the wedding is 'absolutely wonderful and unforgettable'?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John genuinely believes the wedding is exciting and unforgettable.",
+                    "John is attempting to gain additional business advantages from Mr. Smith by complimenting the wedding.",
+                    "John had prior disagreements with Mr. Smith and is trying to compensate for past unpleasantness.",
+                    "John is being socially polite to avoid hurting Mr. Smith's feelings and maintain a positive client relationship."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "3273c2d6102cc293431e006b3f534ef8"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Uncle John, known for his culinary enthusiasm, prepared a special casserole dish for the community's annual Spring Festival gathering. He spent hours carefully selecting ingredients and meticulously following his grandmother's recipe. At the party, Aunt Mary, a notoriously honest woman, cautiously tried a spoonful of the casserole. Her face subtly winced; something was definitely off about the taste – perhaps too much salt, or maybe the spices were old. When Uncle John, beaming with pride, eagerly approached her and asked for her opinion about the dish, Aunt Mary forced a warm smile. \"John,\" she said, her voice laced with a delicate diplomacy, \"this is truly one of the most... unique and delicious dishes I've ever eaten!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Aunt Mary say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Aunt Mary says this because she respects Uncle John and considers maintaining positive community relationships; she doesn't want to make Uncle John feel embarrassed or disappointed after all his hard work.",
+                    "Aunt Mary says this because she genuinely believes it is one of the most delicious dishes she has ever eaten.",
+                    "Aunt Mary wants to cultivate a reputation as a kind and agreeable person within the community, so she chooses to compliment Uncle John's dish.",
+                    "Aunt Mary says this because she worries that if she tells the truth about the dish, it will damage her standing and popularity in the community."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "76eebd32b81dc4ccdeb5865e5dffaee8"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "In a formal business meeting held in a sleek, modern conference room, the representative of Company A, let's call him John, confidently proposes a detailed cooperation suggestion, complete with charts and projections. After carefully listening to John's presentation, the representative of Company B, let's call her Sarah, realizes this direction doesn't align with their current strategic goals. However, instead of a blunt refusal, which could damage the relationship, she responds diplomatically, stating that they will 'seriously consider' the proposal. Following the meeting, Sarah privately approaches John in a more informal setting. She explains that while they appreciate the thought and effort put into the proposal, it doesn't quite match the long-term strategy of Company B.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Sarah, the representative of Company B, say they will 'seriously consider' the proposal instead of directly refusing it during the meeting?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah says this because she is afraid of John, the representative of Company A, and doesn't dare to directly refuse his proposal.",
+                    "Sarah says this because she wants to maintain the harmony between the two companies and avoid causing embarrassment or conflict by directly refusing the proposal at the meeting.",
+                    "Sarah says this because she has no interest in the proposal and just wants to end the meeting quickly.",
+                    "Sarah says this because she wants to please Company A, hoping they can give more support on other projects."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "2d702950fb5f12bf6e4273018819453a"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "John Smith was a highly respected painter, known throughout the art community for his incredible talent and discerning eye. His good friend, David Miller, although passionate about painting, possessed only average skills. One sunny afternoon, David excitedly showed John his latest work, a rather chaotic landscape filled with clashing colors and awkward brushstrokes, anxiously seeking John's opinion. John, after a moment of careful consideration, praised the unique color palette and David's undeniable creativity, focusing on the painting's unconventional aspects rather than its technical flaws. He highlighted the boldness of the color choices and the originality of the composition, carefully choosing his words to be encouraging.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does John Smith say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John Smith, out of kindness, does not want to hurt David Miller's self-esteem. He knows that frankness may dampen David Miller's enthusiasm and confidence.",
+                    "John Smith really thinks that David Miller's work is superb, his praise comes from the heart.",
+                    "John Smith hopes to introduce more friends in the art world to him in the future by praising David Miller's paintings.",
+                    "John Smith praises David Miller because he wants to flatter David Miller, so he deliberately pleases him."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "1385e7e74c5b10bc1ec5e9a93ed1f830"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Michael's good friend, Ashley, proudly showed him a short story she'd been working on at her writing desk, eager for his honest opinion. Michael read through it carefully. He noticed that Ashley's novel, while well-intentioned, lacked the kind of spark that grabs a reader. The plot felt predictable and the characters somewhat flat. When she finally turned to him, her eyes shining with anticipation and asked for his thoughts, Michael smiled warmly. Instead of pointing out the flaws, Zhang Hao praised her novel, highlighting its 'unique creativity' and enthusiastically encouraged her to keep practicing and developing her writing skills. He emphasized the potential he saw in her work, hoping to inspire her without crushing her spirit.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Michael say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Michael says this because he truly thinks Ashley's novel is very creative and greatly appreciates her writing talent.",
+                    "Michael says this because he maintains a friendly relationship with Ashley out of politeness, avoiding direct criticism that hurts feelings.",
+                    "Michael is participating in the same competition, he says this to avoid forming a competitive relationship with Ashley in the competition.",
+                    "Michael does not have much insight into literary creation, he says this just to casually deal with Ashley's question."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "f763034f06d44222e34b0cb18f3539b9"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "David was well-liked by both teachers and students, a popularity stemming from his consistently excellent grades and genuinely friendly demeanor. One gloomy afternoon, his roommate, Michael, was visibly downcast, the reason being his disappointing final exam results. With a sigh, Michael hesitantly showed his report card to David, a plea for an opinion etched on his face. David carefully examined the report card. While he privately suspected that Michael's lackluster performance was due to a lack of dedicated study, he chose his words carefully. Instead of stating the obvious, David offered a reassuring smile and said, \"Hey, these grades aren't terrible, Michael. With a little extra effort, I'm sure you can significantly improve next time.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does David say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "David says this because he genuinely believes Michael's grades are acceptable and only require a bit more effort to improve.",
+                    "David has just been elected as the class representative, and he is trying to cultivate an image of being supportive and encouraging to his classmates.",
+                    "David says this because he wants to encourage Michael, maintain their friendly relationship, and preserve the harmonious atmosphere of their dormitory.",
+                    "David is also dissatisfied with his own exam results, and he is using these words to mask his own feelings of disappointment."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "83c211782c65f328b3b5ceb48f47a392"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Mark and his good friend David participated in the school's annual art competition. When the results were announced, David's painting didn't receive any recognition, while Mark's work won first place. David, feeling a little downcast, showed his painting to Mark and asked for his honest opinion. Mark carefully examined the artwork. He thought that David's painting skills were adequate, but the creativity was rather uninspired and the composition lacked impact. However, wanting to spare his friend's feelings, Mark smiled and said, \"Your painting has a really interesting and unique style! I think it has a good chance of standing out and potentially winning an award in the next competition. It's definitely got something special!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Mark say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mark, considering his friendship with David, doesn't want him to feel more discouraged, so he chooses encouraging words to comfort him.",
+                    "Mark truly believes David's painting has the potential to win; his praise comes from a genuine recognition of David's artistic talent.",
+                    "Mark says this because he wants to motivate David to work harder, so as to outperform more competitors in future competitions.",
+                    "Mark appreciates David's painting out of dissatisfaction with the competition results; he thinks David's work should have received a higher evaluation."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "1169c9e47aa56680b800023434e42789"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "David was diligently preparing a speech about environmental protection for his university club's upcoming meeting. He spent hours researching and crafting his presentation. After the speech, feeling a mix of anticipation and anxiety, David nervously approached Michael and asked for his honest opinion. Michael had noticed a few factual inaccuracies and some awkwardly phrased sentences in David's delivery. However, knowing it was David's first time giving a public speech and seeing how much effort he had put in, Michael decided to be encouraging. He smiled and said, \"Your speech was great, David! It really gave me a new perspective on environmental protection and some things to think about.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Michael say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Michael genuinely believes David's speech was outstanding, and his praise is based on a sincere appreciation of the content and delivery.",
+                    "Michael says this because he wants to encourage David to continue practicing public speaking and improve his skills.",
+                    "Michael is trying to impress people in the club, hoping to gain their support in the future.",
+                    "Michael chooses to give positive feedback to maintain social etiquette and a harmonious club atmosphere, even though he noticed some problems in the speech."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "ffa847177366810b356a1041a7a8a12b"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Aunt Carol proudly displayed her new variety of vegetables at the farmer's market, arranging them meticulously on her stall. However, a closer look revealed that these vegetables weren't exactly fresh; some were slightly wilted, and others showed signs of being past their prime. David noticed the true condition of the vegetables, but seeing Aunt Carol's obvious hard work and genuine enthusiasm as she chatted with potential customers, he decided to say, \"These vegetables look really good, Carol! I'll definitely buy some when I come next time.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does David say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "David thinks Aunt Carol's vegetables are indeed fresh, and his praise is based on a genuine evaluation of the vegetable quality.",
+                    "David says this because he hopes to get a discount from Aunt Carol by flattering her.",
+                    "David thinks the vegetables are fresh and also wants to maintain a good relationship with Aunt Carol, so he chooses to praise her vegetables.",
+                    "David praises Aunt Carol's vegetables out of politeness, even though he does not actually plan to buy them."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "f7990db0e0b9a331256db68545d2cabc"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "In the bustling hospital ward, Nurse Emily was diligently attending to a visibly anxious patient named Sarah. Sarah was scheduled for surgery later that day, and her fear was palpable. She voiced her concerns about the procedure, questioning its success rate. Emily, fully aware of the surgery's complexity and inherent risks, knelt beside Sarah's bed, took her hand, and offered a reassuring smile. \"Don't you worry, Sarah,\" she said gently. \"This is a very routine procedure. You're in excellent hands, and everything will go smoothly.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Emily say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Emily says this to make Sarah trust the hospital more, even if she has doubts about the success rate of the surgery.",
+                    "Emily truly believes that the risk of this surgery is low, her words are based on trust in the hospital and the medical team.",
+                    "Emily says this because she wants to hide the real risks of the surgery, to avoid the patient refusing the surgery.",
+                    "Emily says this to relieve Sarah's tension and anxiety, and at the same time maintain a harmonious relationship between the hospital and the patient, she chooses comforting words."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "0eefd1ac638d77530d9c95f08f6dfdcf"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "A local amateur basketball game was underway in the bustling gymnasium. Spectators filled the bleachers, their cheers echoing through the air. Mark sat among them, watching intently as his friend, John, played for one of the teams. The game was closely contested, filled with fast breaks and tense moments. When the final buzzer sounded, John's team had unfortunately lost by a narrow margin. John himself hadn't had his best game; his shots weren't falling, and he seemed a little out of sync with his teammates. As Mark approached John after the game, he could see the disappointment etched on his friend's face. Despite knowing John's performance was subpar, Mark clapped him on the shoulder and said with a genuine smile, \"Hey John, you played great out there today! It was a really exciting game to watch!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Mark say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mark truly believes John's performance was excellent, and his praise is an honest assessment of the game.",
+                    "Mark says this to offer support and maintain politeness towards his friend, preserving their friendly relationship.",
+                    "Mark says this because he wants John to represent their team in the next game.",
+                    "Mark praises John to make himself appear more optimistic and positive to the other spectators."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "426122c04627b89c36ba4cf4fa7a1bc9"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "Sarah and her close friend Emily went to the local amusement park on a sunny Saturday afternoon. Emily had just finished working on a brand new roller coaster, her first ever amusement park game design. After Emily excitedly hopped off the ride, a nervous look on her face, she turned to Sarah and eagerly asked for her opinion. Sarah, however, found the roller coaster a little bland. The drops weren't very steep, the turns weren't particularly thrilling, and overall it lacked that special spark. Knowing that this was Emily's first attempt and seeing the hope in her eyes, Sarah plastered on a bright smile and said, \"Wow, Emily! This game is really interesting; you designed it very well! I especially loved the [insert specific detail that wasn't *terrible*]!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Sarah say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah thinks the roller coaster game is genuinely interesting; her praise reflects her true evaluation of the game design.",
+                    "Sarah praises Emily's design to appear more optimistic and supportive to their mutual friends.",
+                    "Sarah says this because she wants to encourage Emily to continue working hard in game design, even though she believes the game needs improvement.",
+                    "Although Sarah and Emily are not very close, she chooses positive, encouraging words to avoid disappointing Emily."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "760dba4e2e81680839e3e0a45ade32aa"
+    },
+    {
+        "ability": "Non-literal communication: White lies",
+        "task": "Strange Stories",
+        "story": {
+            "en": "The cheerleading captain, Sarah, was meticulously guiding Emily, a new member, through the intricate dance routine. The gym floor vibrated with the energy of the squad. After one particularly grueling rehearsal, Emily, her face flushed with exertion, nervously asked Sarah for her honest opinion on her performance. Sarah observed Emily carefully. She could see that Emily, being new to the team, was struggling to keep up. Her movements were somewhat clumsy and lacked the fluidity and precision of the more experienced cheerleaders. However, wanting to encourage her and avoid discouraging her so early on, Sarah smiled warmly and said, \"You're doing really well, Emily! You've got a great spirit. As long as you keep practicing and working hard, you'll be perfectly in sync with everyone in no time.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Sarah say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah thinks Emily's performance is indeed very good; her praise is based on a real evaluation of Emily's dance skills.",
+                    "Sarah says this because she thinks Emily really performs well, and she wants Emily to work harder to achieve better results in future competitions.",
+                    "Sarah encourages Emily to continue to work hard, while avoiding hurting her self-esteem.",
+                    "Sarah praises Emily in order to show her positive and encouraging attitude as a captain."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "13bbadd19ebc1ae75fdfa20f3ac31a8a"
+    }
+]

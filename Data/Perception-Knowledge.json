@@ -1,0 +1,922 @@
+[
+    {
+        "id": "652c68b9ef717de93e464f8c5f305103",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Emily were idly wandering around inside the bustling bank, observing the various customers and tellers. Suddenly, they spotted a discarded handbag and a small, unassuming cardboard box sitting near a bench. Upon closer inspection, they discovered a stick of chalk inside the handbag. Emily, feeling unwell, decided to leave the bank. John, curious about the box, carefully moved the chalk from the handbag and placed it inside the cardboard box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Emily see in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Does not see",
+                "Handbag",
+                "Tote Bags",
+                "Chalk"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "6c96e97cc97c2055865ad78c1c32a724",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Sarah and Michael were idly wandering through the grand hall of the old mansion. Sunlight streamed through the tall windows, illuminating dust motes dancing in the air. They noticed an antique cabinet standing against one wall and a sturdy wooden box resting nearby. Upon closer inspection of the cabinet, they discovered neatly folded vests and cozy sweaters inside. Michael, feeling a bit tired, decided to leave the hall to rest. Sarah, curious and energetic, then carefully moved the vests and sweaters from the cabinet and placed them into the wooden box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Michael see in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Vest",
+                "Sweater",
+                "Box",
+                "Sees nothing"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "1710d29fe32f24d1c955d9a9fdf376ba",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Sarah and Michael were leisurely wandering through the grand hall, admiring the ornate decorations. They noticed a beautifully crafted cabinet and a sturdy wooden box tucked away in a corner. Upon closer inspection of the cabinet, they discovered a collection of vests and sweaters, neatly folded and stacked. Michael, feeling a bit tired, decided to leave the hall for a short rest. While he was gone, Sarah, being helpful, decided to move all the vests and sweaters from the cabinet and carefully placed them inside the wooden box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael returns to the hall, does Michael know where the vest is now?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Knows, in the briefcase",
+                "Knows, in the box",
+                "Knows, in the cabinet",
+                "Does not know new location"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "d76c0e14bc9818a4729f8b40ea80bf93",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Emily were idly wandering around the quiet, towering aisles of the library, the scent of old paper heavy in the air. They stumbled upon a forgotten suitcase and a stylish handbag sitting near a table. Curious, they peeked inside the suitcase and found a neatly folded sweater and a warm vest. After a moment, Emily decided to leave the library. John, still intrigued, carefully moved the sweater from the suitcase into the handbag, zipping it closed.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Emily see in the handbag?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sweater",
+                "Book",
+                "Vest",
+                "Sees nothing"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "0a7d0bcb87b7bf42f7a1d4faf9713d37",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Mike were wandering around in the grand, old library, surrounded by towering shelves filled with books. They stumbled upon a forgotten suitcase and a stylish handbag tucked away in a quiet corner. Curious, they opened the suitcase and discovered a neatly folded sweater and a warm vest inside. After a while, Mike decided to leave the library to grab a coffee. While Mike was gone, John, being a bit mischievous, moved the sweater from the suitcase to the handbag, carefully placing it amongst its other contents.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mike returns to the library, does Mike know where the sweater is now?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Knows, in the suitcase",
+                "Knows, in the handbag",
+                "Knows, in the suitcase",
+                "Does not know new location"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "cf8ed01311de2873674b6dc3d177b700",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Mike were leisurely strolling around the old, weathered farm, enjoying the fresh air and sunshine. They came across a woven wicker basket sitting near a dusty, wooden storage cabinet. Inside the basket, they discovered a thick, woolen coat and a pair of worn leather gloves. Mike, after a brief visit, decided to leave the farm. Shortly after Mike departed, John, thinking the coat would be better protected, carefully moved the coat from the basket to the storage cabinet, placing it neatly inside.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mike returns to the farm, does Mike know where the coat is now?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Knows, in the basket",
+                "Knows, in the storage cabinet",
+                "Knows, in the basket",
+                "Does not know new location"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "5629a6b22ca48e4820483819640ce759",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Mike were idly wandering through the dimly lit bar, the scent of stale beer and peanuts hanging heavy in the air. Their attention was drawn to a dusty, old wooden box sitting near a heavy, steel safe tucked away in a corner. Upon closer inspection of the box, they discovered a vintage glass bottle and a chipped ceramic teapot nestled inside. After a moment, Mike, looking bored, decided to leave the bar. John, intrigued, carefully picked up the bottle and moved it over to the safe, placing it gently on top.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Mike see in the safe?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Bottle",
+                "Teapot",
+                "Safe",
+                "Sees nothing"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "7f361547e7628525e1afdae55d5f832f",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and David were leisurely strolling down a long, brightly lit hallway. As they walked, they noticed a handbag and a cardboard box sitting near a bench. Intrigued, they stopped to investigate. Upon opening the handbag, they discovered a cleaning sponge and a worn-out rag inside. After examining the contents, David decided to leave the hallway to make a phone call. John, remaining near the items, carefully picked up the sponge and placed it inside the cardboard box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does David see in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sponge",
+                "Does not see",
+                "Box",
+                "Rag"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "88a13cd94d46549d58ee3fb3dabb06ff",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Michael were leisurely strolling through the brightly lit hallway of their apartment building. As they walked, they noticed a discarded handbag and a cardboard box sitting near the mailboxes. Curious, they approached and peeked inside the handbag, discovering a damp sponge and a well-worn rag. After a brief chat, Michael decided to head outside to grab some coffee. While Michael was gone, John, feeling a bit bored, picked up the sponge and moved it from the handbag into the cardboard box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael returns to the hallway, does Michael know where the sponge is now?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Knows, in the handbag",
+                "Does not know new location",
+                "Knows, in the box",
+                "Knows, in the cupboard"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "c1082b131d129fdc081867cacfdcffc7",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Mary were leisurely strolling through the parking lot on a sunny afternoon. Their eyes scanned the rows of parked cars when they noticed a collection of discarded boxes and woven baskets near a dumpster. Curious, they approached and peered inside one of the boxes. To their surprise, they discovered a mix of ripe bananas and shiny red apples. Mary, feeling a bit tired, decided to leave the parking lot and head home. John, however, remained behind, carefully moving the bananas from the box into one of the empty baskets.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Mary see in the basket?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Bananas and apples",
+                "Bananas",
+                "Apples",
+                "Sees nothing"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "118fd377b0eeed845edb880b84f8b9d3",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Emily were leisurely strolling through the parking lot on a sunny afternoon. As they walked, they noticed several cardboard boxes and wicker baskets scattered around. Upon closer inspection, they discovered a box filled with bright yellow bananas and crisp red apples. Emily, having finished her walk, left the parking lot. Shortly after, John decided to move the bananas from the box into one of the empty baskets, carefully placing them inside.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily returns to the parking lot, does Emily know where the bananas are now?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Does not know new location",
+                "Knows, in the box",
+                "Knows, in the handbag",
+                "Knows, in the basket"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "c9df3e99530a5c2b303babaff3ada3c6",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "David was tidying up the bedroom when he spotted a handbag. He noticed the label on the handbag read 'cabbage'. Curious, David tried to peek inside, but he couldn't see what was inside without opening it. He unzipped the handbag and discovered a stylish hat nestled inside. To his surprise, there was no cabbage to be found. David zipped the handbag closed again and carefully placed it back where he found it. A few minutes later, Michael walked into the bedroom and saw the handbag sitting there.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Michael see in the handbag?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sees nothing",
+                "Cabbage",
+                "Zucchini",
+                "Hat"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "058b678518a4f63a32ee0faf8a466ce6",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and David were exploring their grandmother's old house when they stumbled upon a dusty, leather handbag in the master bedroom. Curiosity piqued, David and John carefully opened the handbag. Inside, nestled amongst old photographs and trinkets, they discovered a stylish, wide-brimmed hat. David, having seen enough, decided to leave the bedroom to explore the attic. John, intrigued by the hat, gently took it out of the bag, admired it for a moment, then carefully closed the handbag and placed it back exactly where they had found it on the antique vanity.",
+            "fa": ""
+        },
+        "question": {
+            "en": "David returns to the bedroom. Does David know what is in the handbag now?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "He knows, there is corn",
+                "He knows, there is cabbage",
+                "He Does not know new location",
+                "He knows, there is a hat"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "c7e530a888fd5f1a701f776655b8d512",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "David was tidying up the cluttered garage when he stumbled upon a cardboard box tucked away in a corner. The label on the box, written in faded marker, read 'Hats'. Curious, David tried to peek inside, but the box was sealed shut. He carefully opened the flaps, anticipating a collection of headwear, but instead, he found a worn, leather-bound notebook. Disappointed that there were no hats as advertised, David closed the box, taped it back up, and returned it to its original spot. A few minutes later, Sarah walked into the garage, her eyes scanning the shelves and various items stored within, and noticed the box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Sarah see inside the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Notebook",
+                "Sees nothing",
+                "Hat",
+                "Scarf"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "1ad4701a368edf0e09041662319aab53",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Emily and David were idly wandering through the old, dusty lounge. Sunlight streamed through the grimy windows, illuminating swirling dust motes. They noticed a couple of antique cabinets and a battered suitcase tucked away in a corner. Peering inside the cabinet, they discovered a collection of colorful, mismatched buttons. David, feeling bored, decided to leave the lounge to explore other rooms. After David left, Emily carefully moved all the buttons from the cabinet and placed them inside the suitcase.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does David see anything in the suitcase?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A notebook",
+                "Does not see",
+                "Button",
+                "A scarf"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "c4ba54b8cf197270198c29ed0ee53493",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Sarah and Michael were wandering through the quiet, towering aisles of the library. Sunlight streamed through the large windows, illuminating dust motes dancing in the air. They noticed several old, leather briefcases sitting near a row of tall, wooden cabinets. Curious, they opened one of the briefcases and, nestled inside amongst some papers, they found a delicate porcelain cup. Michael, feeling tired, decided to leave the library. After he left, Sarah carefully moved the porcelain cup from the briefcase and placed it inside one of the cabinets.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does Michael see anything in the cabinet?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A cup",
+                "Does not see",
+                "A briefcase",
+                "A Book"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "8d2ac76edafd1fabf6fdac48085fb217",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Mary were leisurely wandering around the old, weathered farm with their handbags swinging gently. As they explored, they noticed several backpacks scattered near some worn cabinets. Peering inside one of the backpacks, they discovered a bright red marker pen. Mary, feeling tired, decided to leave the farm. After she left, John carefully moved the marker pen from the backpack and placed it inside the cabinet.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does Mary see anything in the cabinet?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A marker pen",
+                "Does not see",
+                "A backpack",
+                "A handbag"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "615eeafde51883bfeb8167b9365fb550",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Sarah were leisurely wandering around the old, weathered farm with their small handbags swinging gently. The air was thick with the scent of hay and damp earth. They spotted a couple of forgotten backpacks leaning against a fence and an old wooden cabinet tucked away in the corner of the barn. Curious, they peeked inside one of the backpacks and discovered a bright red marker pen. Sarah, feeling tired, decided to leave the farm. After she left, John, on a whim, moved the marker pen from the backpack to the cabinet, closing the cabinet door securely.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Sarah returns to the farm later. Does she know where the marker is now?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Does not know the new location",
+                "Knows, it's in the cabinet",
+                "Knows, it's in the backpack",
+                "Knows, it's in the cupboard"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "f7302b12780fe94361d059f776d3c15e",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Emily were relaxing at a dimly lit bar, enjoying the quiet atmosphere. They observed various items scattered around – handbags resting on the chairs and briefcases tucked neatly beside them. Peeking inside one of the handbags, they noticed a delicate china cup. After a while, Emily decided to leave the bar. As soon as she was gone, John swiftly moved the cup from the handbag and placed it inside the briefcase.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does Emily see anything in the briefcase?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A cup",
+                "Does not see",
+                "A wine glass",
+                "A handbag"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "ca6d3e21beea540855ac18661575d371",
+        "ability": "Knowledge: Percepts-knowledge links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "John and Mike were relaxing at their favorite dimly lit bar, enjoying a quiet evening. Scattered around the room were various wooden boxes and sturdy-looking safes. John noticed a box sitting on a table and peered inside, discovering a vintage-looking glass bottle. After a while, Mike excused himself and left the bar. Once he was gone, John carefully picked up the bottle and, after considering his options, decided to move it to one of the safes for safekeeping.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does Mike see anything in the safe?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A bottle",
+                "Does not see",
+                "A wine glass",
+                "A box"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "270a8966d19a5ac26b517e3e9dc8b5a0",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "It was a cozy winter evening, and Sarah, Michael, and Emily were enjoying their vacation by playing with toys indoors. They started with a fascinating light and shadow projector, casting whimsical shapes on the walls. Next, they moved on to a sleek, wireless remote control car, expertly navigating it around the living room furniture. After a while, Sarah announced, \"I'm going to adjust the curtains,\" and she got up, walked over to the window, and subtly observed Michael and Emily as they continued playing. Michael, noticing her, commented, \"Oh, she's over there, it doesn't really matter if she watches us, let's just keep playing.\" Michael and Emily then excitedly grabbed an intelligent flyer, sending it soaring through the air. When they were finished, they carefully placed all three toys back in a decorative plate on the table. After a few moments, Sarah returned to the table, her eyes widened as she looked at the toys. \"Oh, look! Look at that toy!\" she exclaimed excitedly. \"Emily, could you pass it to me, please?\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Emily most likely do?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily randomly picks a toy from the three toys and gives it to Sarah",
+                "Emily picks out the wireless remote control car and gives it to Sarah",
+                "Emily picks out the intelligent flyer and gives it to Sarah",
+                "Emily picks out the light and shadow projector and gives it to Sarah"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "9dc48095b845e4dd1c928a4668bebcf9",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "On a chilly winter evening during vacation, Michael, Jessica, and David were having a blast playing with toys at home. They started with a brand new transforming robot, its metallic parts gleaming under the warm lamplight. Next, they moved on to a set of vibrant, colorful balloons, batting them around and laughing as they bounced off the furniture. Suddenly, Michael announced, \"I'm going to adjust the room's air conditioning; it's getting a bit stuffy in here.\" He got up and strolled over to the thermostat, keeping an eye on Jessica and David as they continued their game. Jessica remarked, \"Oh, he's just over there; it doesn't matter. He's still watching us, so let's keep playing!\" Jessica and David then discovered a fascinating electric airplane, zooming it around the room and making airplane noises. After they were done playing, they carefully placed all three toys – the robot, the balloons, and the airplane – on a large plate on the coffee table. A few minutes later, Michael returned, his eyes widening as he spotted the toys. He exclaimed excitedly, \"Oh, look! Look at that toy! David, can you pass it to me?\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does David most likely do?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "David picks out the transforming robot and gives it to Michael",
+                "David randomly picks a toy from the three toys and gives it to Michael",
+                "David picks out the electric airplane and gives it to Michael",
+                "David picks out the colorful balloon and gives it to Michael"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "9a10759efa6143e2bf52cfe2cd3fdd62",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "One warm Spring evening, Michael, Emily, and Jessica were happily playing with toys together in the cozy living room. They started with a challenging jigsaw puzzle, spreading the colorful pieces across the coffee table. Next, they moved on to a fascinating musical toy that played cheerful melodies. Suddenly, Michael announced, \"I'm going to adjust the curtains in the room.\" He got up and walked towards the window, but even from there, he kept an eye on Emily and Jessica. Emily commented, \"Oh, he's just over there; it doesn't matter. He's still watching us, so let's keep playing!\" Emily and Jessica then excitedly opened and played with a brand new blind box doll. After they were done playing, they carefully placed all three toys - the puzzle, the musical toy, and the blind box doll - on a decorative plate on the table. A little while later, Michael returned, his eyes immediately drawn to the plate. He exclaimed excitedly, \"Oh, look! Look at that toy! Jessica, could you pass it to me?\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Jessica most likely do?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Jessica picks out the puzzle and gives it to Michael",
+                "Jessica picks out the musical sound toy and gives it to Michael",
+                "Jessica randomly picks a toy from the three toys and gives it to Michael",
+                "Jessica picks out the blind box doll and gives it to Michael"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "032c9987f5118fddb039a5102b73955b",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "It was a cozy Sunday evening. Sarah, Michael, and Emily were happily playing together in the living room. Their parents had bought them some new toys to keep them entertained. First, they gathered around a colorful sand painting board, carefully creating intricate designs with the vibrant grains of sand. Next, they zoomed around the room on a twist car, giggling as they propelled themselves forward with twisting motions. After a while, Sarah said, \"I'm going to adjust the thermostat; it's getting a little warm in here.\" She got up and walked towards the thermostat across the room, glancing back at Michael and Emily as they continued to play. Michael commented, \"It's okay, she's still watching us, so we can keep playing!\" With Sarah occupied, Michael and Emily eagerly unwrapped the third new toy: a dazzling crystal puzzle. They spent a good amount of time piecing together the sparkling fragments. When they were finished playing, they neatly placed all three toys - the sand painting board, the twist car, and the crystal puzzle - onto a large, round plate on the coffee table. A few minutes later, Sarah returned from adjusting the thermostat. Her eyes widened as she spotted the collection of toys on the plate. \"Oh, wow! Look at that!\" she exclaimed excitedly. \"Emily, could you pass it to me, please?\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Emily most likely do?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily picks out the sand painting board and gives it to Sarah.",
+                "Emily picks out the twist car and gives it to Sarah.",
+                "Emily picks out the crystal puzzle and gives it to Sarah.",
+                "Emily randomly picks one toy from the three toys and gives it to Sarah."
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "2d201c8aa541a949128caa35e6e4727a",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "One sunny weekend afternoon, Michael, David, and Emily were playing together in Emily's brightly decorated bedroom. Sunlight streamed through the window, illuminating the colorful toys scattered across the floor. Suddenly, Michael remembered an errand he had to run. He announced, \"I have to head out now. See you later!\" He waved goodbye to Emily and left the room, closing the door gently behind him. David, eager to continue playing, pulled out a brand new toy--a sleek, blue airplane. A small, intricately designed cloud pattern sticker was carefully placed on the bottom of the airplane. The two friends began to simulate airplane flight, zooming the toy around the room, making airplane noises. During this playful activity, Emily carefully observed the cloud pattern sticker on the back of the airplane, noticing its delicate details. After playing for a while, David carefully put the toy airplane away on a high shelf, out of reach. Emily could still see the sticker from where she was sitting, but she couldn't touch it. Just then, Michael returned to the room and immediately noticed the cloud pattern sticker on the bottom of the airplane. His eyes widened with excitement. He stared at the sticker and excitedly shouted, \"Oh, that's great, look!\" Then he briefly glanced at Emily.",
+            "fa": ""
+        },
+        "question": {
+            "en": "How does Emily most likely react?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily says \"This is an airplane\"",
+                "Emily says \"This is a cloud\"",
+                "Emily clearly points to the cloud pattern sticker",
+                "Emily clearly checks it for anything special, including the side with the cloud sticker."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "c89655d6bc2875ba6b66c2c9a68861c0",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "It was a beautiful, sun-drenched summer afternoon. In the brightly lit living room, filled with the soft glow of sunlight streaming through the windows, John, Mary, and Emily, a close-knit family, were enjoying some quality time together. Laughter echoed through the room as they played. Suddenly, John remembered an important errand. He announced, \"I have to step out for a bit. See you all later!\" With a cheerful wave goodbye to Emily, he left the room. Mary then produced a brand new toy – a vibrant rainbow balloon. Affixed to the bottom of the balloon was a cheerful sticker featuring a simple smiley face. The two of them began tossing the balloon gently back and forth, their laughter filling the air. As they played, the bottom of the balloon, with its smiley face sticker, was visible to both of them at various times, but neither paid it any particular attention. After a while, Mary carefully placed the balloon on a shelf, positioning it so that Emily could see the sticker, but not reach it. Just then, John returned to the living room. His eyes immediately fell upon the smiley face sticker at the bottom of the balloon. He stared at it for a moment, and then exclaimed excitedly, \"Oh, that's wonderful, look at that!\" He then glanced briefly at Emily.",
+            "fa": ""
+        },
+        "question": {
+            "en": "How does Emily most likely react?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily says \"This is a rainbow balloon\"",
+                "Emily says \"This is a smiley face\"",
+                "Emily clearly points to the sticker with the smiley face pattern",
+                "Emily clearly checks whether it has anything special, including the side with the smiley face sticker."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "952b54c13674e438b9c448abcf285f9b",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "On a bright and cheerful autumn day, bathed in warm sunlight, Michael, Emily, and Jessica are playing together in the brightly lit living room. Laughter fills the air as they engage in their games. Suddenly, Michael remembers an important errand he has to run and announces, \"I am leaving now. See you later!\" He waves a cheerful goodbye to Jessica and exits the living room. Emily, with a twinkle in her eye, retrieves a brand new toy--a beautifully crafted wooden horse. Affixed to the back of the wooden horse is a vibrant rainbow pattern sticker, catching the light. The two of them gleefully spin the wooden horse around in the living room, each taking turns and experiencing the thrill and fun of imaginary horse riding. During this playful activity, Jessica catches a glimpse of the sticker on the back of the wooden horse. After a little while, Emily carefully puts the wooden horse away on a shelf, placing it just out of reach. Jessica can still see the sticker, but she is unable to touch it. Just then, Michael returns to the living room, and his eyes immediately fall upon the rainbow pattern sticker now visible on the base of the wooden horse. He stares intently at the sticker, a look of recognition and excitement spreading across his face, and he excitedly shouts, \"Oh, this is great, look!\" He then glances briefly at Jessica.",
+            "fa": ""
+        },
+        "question": {
+            "en": "How does Jessica most likely react?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Jessica clearly points to the rainbow pattern sticker",
+                "Jessica says \"This is a rainbow\"",
+                "Jessica says \"This is a wooden horse\"",
+                "Jessica clearly checks it for any special features, including the side with the rainbow sticker."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "cee80319f54d7e103d9164d8777d2fd4",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "It was a lazy Saturday afternoon, and in the brightly lit living room, John, Emily, and David were playing together. Suddenly, John remembered an errand he needed to run. \"I have to head out for a bit. See you later!\" he announced, waving goodbye to David as he left the room. Emily, eager to entertain, pulled out a brand new toy – a large, plush doll. Affixed to the doll's back was a colorful flower-patterned sticker. The two of them spent the next few minutes engaging in imaginative play, acting out different scenarios with the doll and filling the room with laughter. During their play, David noticed the sticker on the doll's back. After a while, Emily gently placed the large doll on the sofa. From his position, David could clearly see the flower-patterned sticker, but it was just out of his reach. At that moment, John returned, his eyes immediately drawn to the flower pattern on the doll. He stared at it intently, and then excitedly exclaimed, \"Oh, that's great, look!\" He then glanced briefly at David.",
+            "fa": ""
+        },
+        "question": {
+            "en": "How does David most likely react?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "David carefully examines the flower pattern, paying close attention to all sides, including the one with the flower pattern.",
+                "David says \"This is a flower.\"",
+                "David clearly points to the flower pattern sticker.",
+                "David points in the direction of the big cloth doll, but does not point to the sticker."
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "fba11f240d7cb3010be627f00f0e58d2",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "It was a bright and cheerful morning, sunlight streaming into the living room where Emily, Michael, and Jessica were playing. Suddenly, Emily realized she had an errand to run. \"I have to head out for a bit. See you later!\" she announced, waving goodbye to Jessica as she left the room. Michael, eager to entertain, pulled out a brand new toy – a shiny red race car. Affixed to the back of the car was a vibrant, colorful dinosaur sticker. The two of them zoomed the car around the living room floor, each taking turns showcasing their impressive driving skills and making engine noises. Jessica, captivated, watched the dinosaur sticker bob and weave as the car sped past. After a while, Michael carefully put the car away on a high shelf, just out of Jessica's reach, so she could see the sticker but couldn't touch it. Just then, Emily returned, bursting back into the room. Her eyes immediately landed on the dinosaur sticker on the back of the race car. She stared at it intently, and then excitedly exclaimed, \"Oh, that's great, look!\" She then glanced briefly at Jessica.",
+            "fa": ""
+        },
+        "question": {
+            "en": "How does Jessica most likely react?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Jessica says \"This is a small car\"",
+                "Jessica says \"This is a dinosaur\"",
+                "Jessica clearly points to the dinosaur pattern sticker",
+                "Jessica clearly checks whether it has any special features, including the side with the dinosaur sticker."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "ee21cbb76ec4187ca86dcc518b2285d6",
+        "ability": "Knowledge: Knowledge-attention links",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "It was a lazy Saturday afternoon, and John, David, Emily, and a few other friends were having fun in the playroom. John excitedly pulled out a brand new toy – a small gong drum, complete with a bright, star-shaped sticker affixed to the back. Everyone crowded around the drum, eagerly taking turns beating it and making a joyful racket. Throughout this lively play, the back of the gong drum, with its star sticker, was constantly facing the group, but no one seemed to particularly notice or comment on it. Suddenly, John announced, \"I'm going to adjust the air conditioning; it's getting a little warm in here.\" He got up and walked towards the thermostat. David carefully placed the gong drum on a nearby table. From her position, Emily could clearly see the star sticker, though she couldn't reach out and touch it. John then turned back towards the group, and his eyes immediately landed on the star-shaped sticker on the back of the gong. He stared at it for a moment, and then exclaimed with delight, \"Oh, that's fantastic, look at that!\" He then glanced briefly at Emily.",
+            "fa": ""
+        },
+        "question": {
+            "en": "How does Emily most likely react?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily points at the toy and says \"It is a gong drum\"",
+                "Emily points at the sticker and says \"It is a star\"",
+                "Emily points to the gong drum, but does not point to the sticker",
+                "Emily looks left and right without a fixed direction"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "35a826c99aca70da185b48182b7e1471",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Ella, Aiden, Jack, Benjamin and Emma entered the attic. The spinach is in the red bottle. Ella moved the spinach to the green basket. Ella exited the attic. Aiden made no movements and stayed in the attic for 1 minute. Aiden exited the attic. Jack made no movements and stayed in the attic for 1 minute. Jack exited the attic. Benjamin moved the spinach to the green envelope. Aiden dislikes the turnip. Benjamin exited the attic. Emma made no movements and stayed in the attic for 1 minute. Emma exited the attic. Ella, Aiden, Jack, Benjamin and Emma entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Aiden think Ella thinks Emma thinks the spinach is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green basket",
+                "green drawer",
+                "red drawer",
+                "red crate"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "9d828868e99f323f0a74a76f7201c0f4",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Mila, Carter, Isla, Amelia and Emma entered the staircase. The peas is in the green treasure chest. Mila moved the peas to the blue bucket. Mila exited the staircase. Carter moved the peas to the green bucket. Carter exited the staircase. Isla made no movements and stayed in the staircase for 1 minute. Isla exited the staircase. Amelia dislikes the spinach. Amelia moved the peas to the blue cupboard. Amelia exited the staircase. Emma made no movements and stayed in the staircase for 1 minute. Emma exited the staircase. Mila, Carter, Isla, Amelia and Emma entered the waiting room. Amelia, Carter and Isla entered the staircase. Mila likes the red basket. The watermelon is in the blue bucket. Amelia made no movements and stayed in the staircase for 1 minute. Amelia exited the staircase. Carter moved the watermelon to the green bucket. Carter exited the staircase. Isla made no movements and stayed in the staircase for 1 minute. Isla exited the staircase. Amelia, Carter and Isla entered the waiting room. Emma, Amelia, Isla and Carter entered the study. The lemon is in the red basket. Emma made no movements and stayed in the study for 1 minute. Emma exited the study. Amelia made no movements and stayed in the study for 1 minute. Amelia exited the study. Isla moved the lemon to the green cupboard. Isla exited the study. Carter made no movements and stayed in the study for 1 minute. Carter exited the study. Emma, Amelia, Isla and Carter entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Carter think Amelia thinks Isla thinks the peas is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "blue bucket",
+                "green bucket",
+                "blue cupboard",
+                "green treasure chest"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "036c0fbe312f9fc17ac94d267b9af5a0",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "William, Emily, Emma, Isla and Jackson entered the pantry. The corn is in the green bathtub. William moved the corn to the green cupboard. Emma likes the blue crate. William exited the pantry. William dislikes the corn. Emily moved the corn to the red envelope. Emily exited the pantry. Emma made no movements and stayed in the pantry for 1 minute. Emma exited the pantry. Isla moved the corn to the green bottle. Isla exited the pantry. Jackson moved the corn to the green bathtub. Jackson exited the pantry. William, Emily, Emma, Isla and Jackson entered the waiting room. William, Emily and Isla entered the crawlspace. The asparagus is in the green bucket. William moved the asparagus to the green drawer. William lost his watch. William exited the crawlspace. Emily made no movements and stayed in the crawlspace for 1 minute. Emily exited the crawlspace. Isla made no movements and stayed in the crawlspace for 1 minute. Isla exited the crawlspace. William, Emily and Isla entered the waiting room. William, Isla, Emily and Emma entered the pantry. The corn is in the green bathtub. William made no movements and stayed in the pantry for 1 minute. William exited the pantry. Isla moved the corn to the green cupboard. Isla exited the pantry. Emily moved the corn to the blue crate. Emily saw a mouse. Emily exited the pantry. Emma moved the corn to the green bottle. Emma exited the pantry. William, Isla, Emily and Emma entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Jackson think Emma thinks Emily thinks William thinks the corn is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green bathtub",
+                "red drawer",
+                "blue bottle",
+                "red bottle"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "9777633352efe99c777c4ea7ce5673eb",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Liam, Sophia, Lily, Carter and Amelia entered the hallway. The corn is in the red basket. Liam moved the corn to the red container. Liam exited the hallway. Sophia made no movements and stayed in the hallway for 1 minute. Sophia exited the hallway. Lily made no movements and stayed in the hallway for 1 minute. Lily exited the hallway. Carter made no movements and stayed in the hallway for 1 minute. Carter exited the hallway. Amelia moved the corn to the red basket. Amelia exited the hallway. Liam, Sophia, Lily, Carter and Amelia entered the waiting room. Liam, Lily and Carter entered the hallway. The melon is in the blue bucket. Liam moved the melon to the red basket. Liam exited the hallway. Lily moved the melon to the green pantry. Lily exited the hallway. Carter moved the melon to the red container. Carter exited the hallway. Sophia dislikes the corn. Liam, Lily and Carter entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Sophia think Lily thinks Amelia thinks the corn is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red basket",
+                "blue bucket",
+                "blue bathtub",
+                "red container"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "c8d6c633b0dd49ef104e2c139a75a6c0",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Chloe, Benjamin, Alexander, Ella and Elizabeth entered the study. The orange is in the red box. Chloe made no movements and stayed in the study for 1 minute. Alexander lost his phone. Chloe exited the study. Benjamin moved the orange to the red envelope. Benjamin exited the study. Alexander made no movements and stayed in the study for 1 minute. Alexander exited the study. Ella made no movements and stayed in the study for 1 minute. Benjamin saw a cat. Ella exited the study. Elizabeth moved the orange to the red box. Elizabeth exited the study. Chloe, Benjamin, Alexander, Ella and Elizabeth entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Alexander think Chloe thinks Elizabeth thinks Ella thinks the orange is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red bottle",
+                "blue suitcase",
+                "red box",
+                "red basket"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "894c368dc3345b0e843509e98069e204",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Jackson, Elizabeth, Evelyn, Liam and Noah entered the living room. The spinach is in the green drawer. Jackson made no movements and stayed in the living room for 1 minute. Jackson exited the living room. Elizabeth moved the spinach to the green pantry. Elizabeth exited the living room. Evelyn moved the spinach to the red container. Evelyn lost his phone. Evelyn exited the living room. Liam made no movements and stayed in the living room for 1 minute. Liam exited the living room. Noah moved the spinach to the green drawer. Noah exited the living room. Elizabeth lost his watch. Jackson, Elizabeth, Evelyn, Liam and Noah entered the waiting room. Liam, Jackson and Evelyn entered the dining room. The sweet potato is in the red crate. Liam moved the sweet potato to the blue bucket. Evelyn saw a cat. Liam exited the dining room. Jackson moved the sweet potato to the blue container. Jackson exited the dining room. Evelyn made no movements and stayed in the dining room for 1 minute. Evelyn exited the dining room. Liam, Jackson and Evelyn entered the waiting room. Liam, Jackson, Elizabeth and Evelyn entered the living room. The spinach is in the green drawer. Liam made no movements and stayed in the living room for 1 minute. Liam exited the living room. Jackson moved the spinach to the green cupboard. Jackson likes the blue bathtub. Jackson exited the living room. Elizabeth moved the spinach to the blue treasure chest. Elizabeth exited the living room. Evelyn made no movements and stayed in the living room for 1 minute. Evelyn exited the living room. Evelyn likes the green pantry. Liam, Jackson, Elizabeth and Evelyn entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Liam think Jackson thinks Evelyn thinks the spinach is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "blue bathtub",
+                "green drawer",
+                "red pantry",
+                "green envelope"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "395ae67edf247bbd2bcb1efdc75b9490",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Hannah, Alexander, Carter, Avery and William entered the bedroom. The persimmon is in the red basket. Hannah moved the persimmon to the blue crate. Hannah exited the bedroom. Alexander made no movements and stayed in the bedroom for 1 minute. Alexander exited the bedroom. Carter moved the persimmon to the green basket. Carter exited the bedroom. Avery made no movements and stayed in the bedroom for 1 minute. Avery exited the bedroom. William moved the persimmon to the red basket. William exited the bedroom. Hannah, Alexander, Carter, Avery and William entered the waiting room. William, Alexander and Hannah entered the bathroom. The banana is in the red bucket. William moved the banana to the red crate. William exited the bathroom. Alexander made no movements and stayed in the bathroom for 1 minute. Alexander exited the bathroom. Hannah made no movements and stayed in the bathroom for 1 minute. Hannah exited the bathroom. William, Alexander and Hannah entered the waiting room. Alexander, Avery, William and Hannah entered the garage. The plum is in the red drawer. Alexander moved the plum to the green cupboard. Alexander exited the garage. Avery moved the plum to the blue treasure chest. Avery exited the garage. William moved the plum to the green bottle. William exited the garage. Hannah moved the plum to the blue bathtub. Hannah exited the garage. Alexander, Avery, William and Hannah entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Alexander think Avery thinks Hannah thinks William thinks the persimmon is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red crate",
+                "red box",
+                "red bucket",
+                "red basket"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "b49269448b5dde1fdb2167691941376b",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Hannah, Jack, Lily, Logan and Aiden entered the closet. The apple is in the green bathtub. Hannah moved the apple to the blue cupboard. Hannah exited the closet. Jack moved the apple to the green drawer. Jack exited the closet. Lily moved the apple to the red box. Hannah likes the blue drawer. Lily exited the closet. Logan made no movements and stayed in the closet for 1 minute. Logan exited the closet. Logan likes the green pantry. Aiden made no movements and stayed in the closet for 1 minute. Aiden exited the closet. Hannah, Jack, Lily, Logan and Aiden entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Jack think Hannah thinks Lily thinks the apple is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "blue bottle",
+                "green pantry",
+                "blue treasure chest",
+                "blue cupboard"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "94084d1ea4d66a3f93b7ed57680c676e",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Evelyn, Chloe, Charlotte, Logan and Mila entered the staircase. Chloe lost his gloves. The watermelon is in the green cupboard. Evelyn made no movements and stayed in the staircase for 1 minute. Chloe lost his watch. Evelyn exited the staircase. Chloe made no movements and stayed in the staircase for 1 minute. Chloe exited the staircase. Charlotte made no movements and stayed in the staircase for 1 minute. Charlotte exited the staircase. Logan made no movements and stayed in the staircase for 1 minute. Logan exited the staircase. Mila moved the watermelon to the green cupboard. Mila exited the staircase. Evelyn, Chloe, Charlotte, Logan and Mila entered the waiting room. Charlotte, Logan and Chloe entered the staircase. The lemon is in the red pantry. Charlotte made no movements and stayed in the staircase for 1 minute. Charlotte exited the staircase. Logan made no movements and stayed in the staircase for 1 minute. Logan exited the staircase. Chloe moved the lemon to the green cupboard. Chloe exited the staircase. Charlotte, Logan and Chloe entered the waiting room. Evelyn, Mila, Logan and Chloe entered the staircase. The watermelon is in the green cupboard. Evelyn made no movements and stayed in the staircase for 1 minute. Evelyn exited the staircase. Mila made no movements and stayed in the staircase for 1 minute. Mila exited the staircase. Logan moved the watermelon to the red bottle. Logan exited the staircase. Chloe made no movements and stayed in the staircase for 1 minute. Chloe exited the staircase. Evelyn, Mila, Logan and Chloe entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Chloe think Logan thinks Evelyn thinks the watermelon is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green cupboard",
+                "green box",
+                "red container",
+                "blue drawer"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "ab2e03e6a42b063484a8cb2d8860f02e",
+        "ability": "High Order Perception",
+        "task": "Perception-Knowledge",
+        "story": {
+            "en": "Logan, Ava, Evelyn, Charlotte and William entered the kitchen. The sweet potato is in the red container. Ava saw a mouse. Logan made no movements and stayed in the kitchen for 1 minute. Logan exited the kitchen. Ava moved the sweet potato to the blue cupboard. Ava exited the kitchen. Evelyn made no movements and stayed in the kitchen for 1 minute. Evelyn exited the kitchen. Charlotte moved the sweet potato to the green drawer. Charlotte exited the kitchen. William moved the sweet potato to the red container. William exited the kitchen. Logan, Ava, Evelyn, Charlotte and William entered the waiting room. Ava, Logan and Evelyn entered the hallway. The peas is in the red basket. Ava made no movements and stayed in the hallway for 1 minute. Ava exited the hallway. Logan made no movements and stayed in the hallway for 1 minute. Logan exited the hallway. Evelyn moved the peas to the green bathtub. Evelyn exited the hallway. Ava, Logan and Evelyn entered the waiting room. Logan lost his phone. William, Logan, Evelyn and Charlotte entered the bedroom. Charlotte likes the green bathtub. The banana is in the green cupboard. William moved the banana to the green bottle. William exited the bedroom. Logan moved the banana to the green envelope. Logan exited the bedroom. Evelyn moved the banana to the red crate. Evelyn exited the bedroom. Charlotte moved the banana to the green pantry. Charlotte exited the bedroom. William, Logan, Evelyn and Charlotte entered the waiting room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Charlotte think Logan thinks Evelyn thinks the sweet potato is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "blue pantry",
+                "green bathtub",
+                "red container",
+                "red basket"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    }
+]

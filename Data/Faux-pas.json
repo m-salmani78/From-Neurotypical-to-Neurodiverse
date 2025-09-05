@@ -1,0 +1,922 @@
+[
+    {
+        "id": "8b27f3fa994d8e5fb9e097d4f978376c",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Last Friday, the fifth-grade class held their annual writing competition. Michael had been working tirelessly, dreaming of taking home the first-place prize. When the results were announced, Sarah emerged as the victor. Unfortunately, Michael had to miss school that day due to a prior appointment. On Monday morning, Sarah spotted Michael near the entrance. Beaming, she approached him and said, \"Michael, I read your story, and it wasn't bad at all, though it was a bit... regrettable.\" Michael, taken aback by her comment, frowned and asked, \"What do you mean by 'regrettable'? Could you be a little clearer?\" Sarah, noticing his confusion and perhaps a hint of hurt in his eyes, quickly dismissed the comment, saying, \"Oh, never mind, it's nothing. Let's head to class.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael, I read your story, and it wasn't bad at all, though it was a bit... regrettable.",
+                "What do you mean by 'regrettable'? Could you be a little clearer?",
+                "Oh, never mind, it's nothing. Let's head to class.",
+                "No one in the story says anything inappropriate."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "396df670ae70f6dc3a048fac6e3dcf73",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "It was Sarah's first day at Northwood High, and she was feeling a bit nervous. As she sat down in her first class, she turned to the boy next to her, Michael, and said, \"My mom works here at the school; she's one of the cafeteria ladies.\" Michael simply nodded, offering a small, polite smile. Just then, another classmate, Emily, breezed over, her face slightly contorted in a grimace. \"Ugh,\" she exclaimed, \"I really don't like the cafeteria ladies at this school. They always seem so grumpy and intimidating!\" Sarah fell silent, a slight blush creeping up her neck. After an awkward pause, Michael glanced at Sarah and then said to Emily, \"Hey, Emily, want to head to the arcade after school?\" Emily replied, \"Hmm, I'm not feeling so great right now. Let's plan for another day.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "My mom works here at the school; she's one of the cafeteria ladies.",
+                "I really don't like the cafeteria ladies at this school. They always seem so grumpy and intimidating!",
+                "I think the ladies are all quite nice.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "12c51808e7a541e436048fcf38559475",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "On a crisp Friday afternoon, inside the hallowed halls of the school library, Michael was completely absorbed in a captivating novel. Seated at the adjacent table were Sarah and David, both classmates of Michael. Sarah, leaning slightly towards David, remarked in a hushed tone, \"Did you notice Michael comes to read here every single day? I'm starting to think he's a little peculiar.\" Unbeknownst to them, Michael overheard their conversation. He quietly marked his page, closed the book with a soft thud, and began gathering his belongings, preparing to leave. David, oblivious to Michael's presence, chimed in, \"Yeah, he always sits alone in that same spot. Maybe he's just incredibly shy.\" Michael, feeling a wave of embarrassment wash over him, paused and, trying to maintain a polite demeanor, said, \"Actually, I just really enjoy the quiet atmosphere for reading.\" Sarah and David exchanged amused glances and chuckled softly. Then, David, attempting to smooth things over, asked, \"Hey Michael, are you heading out to play football now?\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Did you notice Michael comes to read here every single day? I'm starting to think he's a little peculiar.",
+                "Yeah, he always sits alone in that same spot. Maybe he's just incredibly shy.",
+                "Actually, I just really enjoy the quiet atmosphere for reading.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "e6fad01d4928be21335ddf6ef629b85e",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "The Thanksgiving holiday was fast approaching, and Mom asked Emily to help bake some pumpkin pies, mentioning that Uncle David would be visiting on Sunday at noon. Emily was thrilled and carefully crafted some elaborate pumpkin pies with a spiced cream cheese filling. Mom also baked pecan pies and apple pies. She planned to present these pies to Uncle David when he arrived. On Sunday at noon, Uncle David arrived promptly. Emily, beaming, carried a large platter of her pumpkin pies from the kitchen and said to Uncle David, \"Uncle David, here are the pumpkin pies I made especially for you!\" Uncle David glanced at the assortment of pies and chuckled, \"I do enjoy pies, but I'm not a big fan of pumpkin.\" Emily, a little flustered, insisted, \"Uncle David, please try these! I hope you'll like them.\" Mom quickly brought out more pies and interjected, \"We have a variety of pies here, including pecan and apple. Please try some that you enjoy, David.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Uncle David, here are the pumpkin pies I made especially for you!",
+                "We have a variety of pies here, including pecan and apple. Please try some that you enjoy, David.",
+                "I do enjoy pies, but I'm not a big fan of pumpkin.",
+                "There are no inappropriate statements"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "5250af4e3d8b7e8d8f2572d555459a2c",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "It was a bright Saturday morning, around 10 o'clock, when Emily arrived at her Aunt Susan's house for a visit. Emily, a lively girl with short, bouncy hair and a cheerful disposition, was wearing a sunny yellow dress. She was engrossed in a book in Aunt Susan's comfortably furnished living room. Suddenly, the melodic chime of the doorbell echoed through the house. Aunt Susan, with a welcoming smile, opened the door to find her neighbor, Mrs. Davis, standing on the porch. \"Susan, hello!\" Mrs. Davis greeted warmly. Aunt Susan returned the smile, saying, \"Mrs. Davis, please come in, it's been too long!\" As Mrs. Davis stepped inside, her eyes fell upon Emily, who was still seated on the sofa. \"Hello there,\" Mrs. Davis said, peering at Emily. \"I don't believe I've seen this little boy before. What's your name, young man?\" Emily looked up, a slight frown creasing her brow, and remained silent. Just then, Aunt Susan bustled over, offering a distraction. \"Come, let's have some tea,\" she said brightly. \"The weather is absolutely lovely today.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Susan, hello!",
+                "Come, let's have some tea, the weather is absolutely lovely today.",
+                "Hello there, I don't believe I've seen this little boy before. What's your name, young man?",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "28c6133c9297e859ab0894ff6b97f171",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "The clock struck 9:00 AM on a crisp Monday morning. Inside a bustling third-grade classroom, Mrs. Davis, a teacher known for her calm demeanor, prepared to begin the day's lesson. She gazed thoughtfully at her students and announced, \"Children, I have some grave news. One of our classmates, a young boy named Michael, is seriously ill and currently hospitalized.\" A hush fell over the room as the students somberly lowered their heads, absorbing the information. Moments later, the classroom door burst open, and a young girl named Emily rushed in, breathless. \"I'm so sorry I'm late, Mrs. Davis!\" she exclaimed, still catching her breath. Mrs. Davis, maintaining her composure, replied, \"Please take your seat, Emily.\" As Emily made her way to her desk, she loudly inquired of her classmates, her voice filled with excitement, \"Did you hear the hilarious joke I just heard at the hospital?\" Mrs. Davis, her brow furrowing slightly, firmly stated, \"Emily, please sit down and begin your work quietly. This is not the time for chatter.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Children, I have some grave news. One of our classmates, a young boy named Michael, is seriously ill and currently hospitalized.",
+                "Did you hear the hilarious joke I just heard at the hospital?",
+                "Emily, please sit down and begin your work quietly. This is not the time for chatter.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "561024444dbe3f53a6a29825f6f6d4fc",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "It was a Wednesday, right at the stroke of noon, when Michael walked into a small, bustling diner for lunch. He found a table and, when the waiter approached, said, \"I'll take a coffee and a hamburger, please.\" The waiter, a friendly young man, smiled and replied, \"Coming right up!\" Soon, Michael's order arrived. As he reached for his coffee, his hand slipped, and the hot liquid splashed onto the floor near his table, creating a small puddle. Just then, another customer, David, was finishing paying his bill at the cashier, preparing to leave. Michael, flustered, approached David and said, \"Oh, I'm terribly sorry, I spilled my coffee. Could you possibly wipe that up?\" David frowned, clearly taken aback, and remained silent. The waiter, noticing the awkward situation, quickly intervened, saying to Michael, \"Sir, please don't worry about it. I'll take care of it.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Oh, I'm terribly sorry, I spilled my coffee. Could you possibly wipe that up?",
+                "Sir, please don't worry about it. I'll take care of it.",
+                "I'll take a coffee and a hamburger, please.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "d324de25154257905fe3cbd913bb07c6",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Over the weekend, Emily and her mother moved into a charming new house with a small garden. Eager to personalize their space, they went to the shopping center together to buy some vibrant blue curtains. On Monday afternoon, Emily carefully hung the new curtains on the windows of her cozy bedroom, stepping back to admire her handiwork. After hanging them up, she turned to her mother, her face beaming, and said: \"Mom, the new curtains look really good! They really brighten up the room.\" Her mother smiled warmly and replied: \"Yes, the blue perfectly complements Emily's bedroom. It's such a cheerful color!\" A little later, Emily's best friend, Sarah, came to the new house to play. After a cursory glance at the curtains, Sarah wrinkled her nose and exclaimed: \"Oh, the color of these curtains is just awful! I really think you should buy new ones. These don't suit the room at all.\" Emily, taken aback by Sarah's bluntness, didn't say anything for a moment, then cautiously asked: \"So, do you think the other parts of my bedroom are okay? Or do you hate everything?\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Mom, the new curtains look really good!",
+                "Oh, the color of these curtains is just awful! I really think you should buy new ones.",
+                "So, do you think the other parts of my bedroom are okay? Or do you hate everything?",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "9c8e0517ba72ac5992b9dbd866371f4f",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "It was 6 pm on a Friday, and the company's annual meeting was in full swing in the brightly decorated hotel banquet hall. John had just received a Bluetooth speaker as one of the annual meeting prizes. Beaming with excitement, he turned to his colleague, David, and exclaimed, \"This year's prize is fantastic! I especially love this speaker; the sound quality seems excellent. I can't believe my luck!\" David replied, \"Yes, the sound quality of this speaker is probably top-notch; you must be thrilled to have won it!\" Just then, another colleague, Michael, chimed in, \"Honestly, I think this speaker is just alright. The prizes at other companies I know are far more advanced and valuable. Our company is being pretty cheap this year.\" David immediately countered, \"Michael, that's not the right thing to say. You should be grateful for receiving a gift, and you shouldn't be so picky. The company puts thought and effort into arranging whatever prizes they can.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael, that's not the right thing to say. You should be grateful for receiving a gift, and you shouldn't be so picky. The company puts thought and effort into arranging whatever prizes they can.",
+                "Yes, the sound quality of this speaker is probably top-notch; you must be thrilled to have won it!",
+                "Honestly, I think this speaker is just alright. The prizes at other companies I know are far more advanced and valuable. Our company is being pretty cheap this year.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "62819421a37ca5ef5d0b5c10005cc465",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "After school on Wednesday, Michael and his deskmate Emily were chatting about Tuesday's math exam in their brightly lit classroom. Emily sighed, saying, \"The design of this exam was incredibly difficult; I think I only managed to get about half of the questions right.\" Michael nodded in agreement, rubbing his temples. \"Yes, I found it very challenging as well. I'm worried about my score.\" Just then, their classmate David strolled over, a smug look on his face, and interrupted their conversation. \"I heard a rumor that someone in the class scored exceptionally low on the exam, perhaps even failed. It must be incredibly embarrassing for them.\" Emily paused, a flicker of discomfort crossing her face. After a moment of awkward silence, she said, \"Well, I really need to head home now. Goodbye, both of you.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "The design of this exam was incredibly difficult; I think I only managed to get about half of the questions right.",
+                "Well, I really need to head home now. Goodbye, both of you.",
+                "I heard a rumor that someone in the class scored exceptionally low on the exam, perhaps even failed. It must be incredibly embarrassing for them.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "0e5b41a8861750090a286fbeebb350ef",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "On a crisp Wednesday morning, Professor Thompson, a man known for his rigorous standards, was lecturing his university physics class on a particularly intricate concept involving quantum entanglement. He spoke with precision and a logical flow, meticulously outlining each step of the process. David, a student who had always struggled with physics and felt his foundational knowledge was lacking, hesitantly raised his hand. \"Professor Thompson,\" he began, \"would you mind going over that again? I'm afraid I didn't quite grasp all of it.\" Professor Thompson, without pausing, responded, \"I believe I explained it quite clearly. The other students seem to understand. Perhaps you should review the material at home.\" Undeterred, David persisted, \"But I'm still having trouble understanding. Could you possibly elaborate a little further?\" Professor Thompson simply ignored David's plea and continued with his lecture, moving on to the next topic without addressing David's confusion.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Professor Thompson, would you mind going over that again? I'm afraid I didn't quite grasp all of it.",
+                "I believe I explained it quite clearly. The other students seem to understand. Perhaps you should review the material at home.",
+                "But I'm still having trouble understanding. Could you possibly elaborate a little further?",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "25b2b1bfb0e710ed27e1d70c7af9b921",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "The grand ballroom of the Cityview Hotel was buzzing with activity. It was 7 pm on Friday night, and the company's annual dinner was in full swing. Tables were laden with food, and conversation flowed freely. However, Mr. Johnson, the CEO, was conspicuously absent; he was reportedly working late on a crucial report. Across the room, Sarah looked around the table and noticed that Mr. Davis, the Marketing Manager's, seat was empty. Curious, she leaned towards Ms. Miller, the company's finance officer, who was seated diagonally opposite her. \"Ms. Miller,\" Sarah inquired, \"why isn't Mr. Davis at the dinner tonight?\" Ms. Miller paused, placing her fork carefully on her plate. She glanced pointedly at the empty chair, a slight frown creasing her forehead. \"Maybe he thinks we ordinary employees aren't worthy of his presence, so he decided not to grace us with his attendance.\" Sarah, taken aback by the sharp tone, simply replied, \"I see,\" and quietly focused on her meal. An uncomfortable silence descended between them.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Ms. Miller, why isn't Mr. Davis at the dinner tonight?",
+                "Maybe he thinks we ordinary employees aren't worthy of his presence, so he decided not to grace us with his attendance.",
+                "I see.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "ef62f042125cbe0477aa85eeb122be7c",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "On a sunny Saturday afternoon, Sarah received two complimentary tickets for a newly released romance movie at the local cinema. Excited, she immediately invited her good friend Emily to join her. Emily took a look at the movie synopsis and trailers on Sarah's phone. After a moment, she said, with a slight frown, \"I don't really like this kind of movie, I don't recognize any of the actors, and honestly, the movie looks very boring to me.\" Sarah, trying to remain positive, replied, \"Actually, I thought the plot seemed promising, and even if it's not great, we can always chat and catch up while watching it, it'll still be a good time.\" Emily, however, remained unconvinced and responded, \"I really have no interest in this kind of movie, let's just forget about it. Watching this boring movie would be a complete waste of time.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "I don't really like this kind of movie, I don't recognize any of the actors, and honestly, the movie looks very boring to me.",
+                "Actually, I thought the plot seemed promising, and even if it's not great, we can always chat and catch up while watching it, it'll still be a good time.",
+                "I really have no interest in this kind of movie, let's just forget about it. Watching this boring movie would be a complete waste of time.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "5153018ee227a284cb43d1e7e0857c3c",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "It was a sunny Friday afternoon, and a small, impromptu celebration was underway in the office. The occasion? Their boss, Mr. Thompson, had just received a well-deserved promotion. Sarah, who had secretly been hoping for the same promotion, quietly joined the festivities, a polite smile masking her disappointment. As her colleagues buzzed with excitement, discussing the good news, Michael raised his glass to propose a toast. With a wide grin, Michael announced, \"A toast to Mr. Thompson! Thank you for being such an inspiring leader and showing us what hard work can achieve! And Sarah, you're always so incredibly talented, it's only a matter of time before you're leading the team!\" Mr. Thompson simply replied, with a slightly strained smile, \"Thank you, everyone. We all work hard together.\" The party continued, though the laughter seemed a little less genuine after that.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A toast to Mr. Thompson! Thank you for being such an inspiring leader!",
+                "Sarah, you're always so incredibly talented, it's only a matter of time before you're leading the team!",
+                "Thank you, everyone. We all work hard together.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "b04e555de321fa460704890f67535558",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "It was a typical Friday afternoon, and a palpable sense of anticipation for the weekend hung in the air of the office building. The department manager, hoping to foster a stronger sense of camaraderie within the team, decided to initiate a casual sharing of weekend plans. Sarah, a known animal enthusiast, eagerly volunteered first: \"Tomorrow, I'm planning a visit to that brand new cat cafe downtown; I've heard the kittens there are absolutely adorable!\" With a bright smile, she turned to Michael and exclaimed, \"Michael, you should totally join me! It's the perfect place to unwind, and I'm sure your cat at home would love for you to make some new feline friends!\" Michael responded with a slightly uncomfortable tone: \"Well... it does sound interesting, but I probably won't be able to make it.\" Sensing the awkwardness, the department manager smoothly transitioned the conversation: \"Cats are undeniably charming creatures. This weekend, I'm planning to experiment with a few new recipes in the kitchen.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Tomorrow, I'm planning a visit to that brand new cat cafe downtown; I've heard the kittens there are absolutely adorable!",
+                "Michael, you should totally join me! It's the perfect place to unwind, and I'm sure your cat at home would love for you to make some new feline friends!",
+                "Cats are undeniably charming creatures. This weekend, I'm planning to experiment with a few new recipes in the kitchen.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "db53dc1118f7c4e7661b089f6e4cbc6b",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Emily is severely allergic to latex. David borrows a scientific calculator from Emily to use in an important math competition. After the competition, during Mr. Johnson's biology class, David wants to show his gratitude. He carefully selects a bunch of colorful latex balloons as a thank you gift. Beaming with pride, David presents the gift to Emily, saying, \"Emily, thank you so much for lending me the calculator; I specifically picked out this awesome set of balloons for you!\" Emily manages a polite smile and responds, \"David, that's very kind of you, thank you.\" Mr. Johnson, noticing the exchange, reminds the class to begin the lesson, \"Alright class, let's get started. Today, we're studying the ecosystem, so please pay attention to the lecture.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily, thank you so much for lending me the calculator; I specifically picked out this awesome set of balloons for you!",
+                "Alright class, let's get started. Today, we're studying the ecosystem, so please pay attention to the lecture.",
+                "David, that's very kind of you, thank you.",
+                "No one in the story says anything inappropriate."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "9364155ef1bf2532228c7a5f761bbd1f",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "In the annual Secret Santa gift exchange at school, Emily eagerly anticipated giving a gift she had carefully chosen for her classmate, Michael. Mr. Thompson, the teacher, organized the activity and encouraged the students to give thoughtful gifts to each other. In her excitement, Emily completely missed the moment when Mr. Thompson reminded everyone to be mindful of food allergies. Consequently, she selected a beautifully wrapped box of gourmet peanut brittle, a local favorite. During the gift exchange, Emily presented the gift to Michael with a bright smile, saying, \"This peanut brittle is a specialty from my hometown; I remember you mentioning you enjoy trying regional treats!\" Michael hesitated, a flicker of discomfort crossing his face, before politely replying, \"Oh, thank you, Emily. I'll be sure to try it.\" Mr. Thompson, noticing the slight awkwardness, smoothly interjected, \"Every gift is a kind gesture from the giver. Let's move on and see what other students have received.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "This peanut brittle is a specialty from my hometown; I remember you mentioning you enjoy trying regional treats!",
+                "Oh, thank you, Emily. I'll be sure to try it.",
+                "Every gift is a kind gesture from the giver. Let's move on and see what other students have received.",
+                "No one in the story says anything inappropriate."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "23cc453a1f25384c73728839787bf850",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "The school cafeteria was a hive of activity, buzzing with the chatter of students enjoying their lunch break. Mark, known for his boundless energy, piled his tray high with his favorite foods before heading over to sit beside Sarah. On his overflowing tray sat a massive, crispy chicken wrap, a thick-cut meat sandwich dripping with sauce, and a steaming bowl of savory braised beef. In stark contrast, Sarah's plate held only a simple vegetable salad and a few slices of fruit. Mark, practically vibrating with enthusiasm, exclaimed, \"Sarah, you absolutely HAVE to try this chicken wrap; it's out of this world!\" He eagerly offered her half of his wrap. Just then, Mrs. Davis, the biology teacher, walked by and joined them, setting down her own lunch. \"Oh, Sarah,\" she said cheerfully, \"you're always so knowledgeable about plants, aren't you? You should share your vegan experiences with us!\" Sarah glanced down at her salad, a faint blush rising on her cheeks, and nodded. \"Yes, Mrs. Davis, ever since that science project on plants, I've been trying to eat vegan.\" Mark chuckled, slapping his leg with amusement. \"Hey, I hope you're just 'trying,' because this braised beef,\" he gestured emphatically towards his tray, \"is seriously too delicious to pass up!\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sarah, you absolutely HAVE to try this chicken wrap; it's out of this world!",
+                "Oh, Sarah, you're always so knowledgeable about plants, aren't you? You should share your vegan experiences with us!",
+                "Yes, Mrs. Davis, ever since that science project on plants, I've been trying to eat vegan.",
+                "No one in the story says anything inappropriate."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "b9b33ccb6e9ac64a98206c884cd60434",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "It was a typical Monday morning when Sarah noticed Mr. Thompson, the manager, and David hurrying into the office. The door clicked shut behind them, creating an air of secrecy. Intrigued, Sarah turned to her colleague, Michael, who sat beside her. \"Any idea what that's about?\" she whispered, but Michael simply shook his head, equally clueless. Later, during the lunch break, Sarah spotted David in the break room, microwaving his lunch. A mischievous grin spread across her face as she approached him. \"So, what exciting news were you discussing with Mr. Thompson this morning? Did you finally get that promotion and raise you've been hoping for?\" David gave a curt reply, avoiding eye contact. \"No, it's nothing important,\" he mumbled before quickly grabbing his food and leaving the room.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Any idea what that's about?",
+                "So, what exciting news were you discussing with Mr. Thompson this morning? Did you finally get that promotion and raise you've been hoping for?",
+                "No, it's nothing important.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "b52750492a0ae32c8bee913f98d48322",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Manager Johnson usually prefers light and healthy food, like salads and grilled chicken. His birthday was fast approaching, and the office decided to throw a small, surprise birthday party for him. Assistant Emily was put in charge of organizing the party and diligently asked everyone about their food preferences to ensure there was something for everyone. Director Michael, ever the enthusiastic one, suggested, \"We can order some special dishes to make it memorable.\" On the day of the party, as everyone gathered around the table laden with food, Director Michael beamed and announced with pride, \"The extra-spicy chili dish I highly recommend is here! Manager Johnson definitely likes it!\" Manager Johnson, taken aback but wanting to be polite, smiled weakly and said, \"Thank you for your thoughtful arrangement, I'll certainly try some later.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "We can order some special dishes to make it memorable.",
+                "The extra-spicy chili dish I highly recommend is here! Manager Johnson definitely likes it!",
+                "Thank you for your thoughtful arrangement, I'll certainly try some later.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "9ce23858ee9afea427d99fb04c05534c",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "In the bustling project meeting, Sarah, the assistant, was diligently reporting to Mr. Johnson, the project manager. Suddenly, Mrs. Davis, a senior director, breezed into the room, interrupting the flow. With a confident tone, she suggested, \"I think we should completely change the project direction and adopt far more innovative methods.\" Mr. Johnson, knowing full well that this decision had already been made at a higher level and was non-negotiable, responded politely, though with a hint of resignation, \"Thank you for your suggestion, we will certainly consider it.\" Another colleague, Michael, who was also part of the core decision-making team, exchanged a knowing look with Sarah and quickly steered the conversation, saying, \"Alright, let's move on and discuss the next topic on the agenda.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "I think we should completely change the project direction and adopt far more innovative methods.",
+                "Thank you for your suggestion, we will certainly consider it.",
+                "Alright, let's move on and discuss the next topic on the agenda.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "902972f05bd36ce0597d79af70977668",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Last Saturday, Michael was taking a leisurely stroll through Central Park when he bumped into his old friend David, someone he hadn't seen in ages. They were both genuinely surprised and delighted to see each other, and soon they were reminiscing about old times. Michael, caught up in the nostalgia, chuckled and said, \"Remember how we used to go hiking every weekend when we were both single and carefree? Those were the days!\" David laughed in agreement, \"Yes, we were really happy back then, weren't we?\" A moment of silence passed before Michael, trying to make conversation, asked, \"So, by the way, are you married now?\" David's face fell slightly, and he replied with a hint of embarrassment, \"Actually, I got married three years ago, Michael, and you even gave us a lovely gift at the wedding.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "So, by the way, are you married now?",
+                "Remember how we used to go hiking every weekend when we were both single and carefree? Those were the days!",
+                "Actually, I got married three years ago, Michael, and you even gave us a lovely gift at the wedding.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "23f49b595181680c42010e0f0febf00c",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "On a bright Saturday morning, Sarah and Emily met just outside the school's main gate. Emily, bubbling with excitement, announced, \"My birthday party is this afternoon! Are you coming?\" Sarah's face fell slightly. She vividly remembered that she had already promised to attend a concert for another friend that very same day. After a brief, awkward pause where she weighed her options, she replied, \"Oh, I'm probably going to a concert. I'm so sorry, I promised them before your party came up.\". Emily's cheerful demeanor dimmed a little. \"Oh, that's alright,\" she said, trying to sound unfazed. \"Maybe next time then.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "My birthday party is this afternoon! Are you coming?",
+                "Oh, that's alright. Maybe next time then.",
+                "Oh, I'm probably going to a concert. I'm so sorry, I promised them before your party came up.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "3ed0a4436c41c18e5133299bdae641fe",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Over the weekend, Emily and Jessica decided to enjoy the crisp autumn air with a leisurely walk in the park. As they strolled along a winding path, Jessica confided in Emily, speaking in a hushed tone: \"My father has possibly been experiencing some changes recently, but this is our family's little secret, so please don't mention it to anyone.\" Emily, wanting to reassure her friend, responded with a sincere nod: \"Don't worry, Jessica, I won't tell anyone. Your secret is safe with me.\" The next day, back at school, Emily, while chatting with a group of classmates during lunch break, unintentionally blurted out: \"So, how does everyone feel recently? I heard some families are going through changes lately.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "My father has possibly been experiencing some changes recently, but this is our family's little secret, so please don't mention it to anyone.",
+                "Don't worry, Jessica, I won't tell anyone. Your secret is safe with me.",
+                "So, how does everyone feel recently? I heard some families are going through changes lately.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "fe36afed0942d073bb646ca38ec3daf4",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Mark was getting ready to move because he had landed a fantastic new job. On a sunny Saturday afternoon, Mark was preparing for a final get-together at his place and invited his good friend, David. When David arrived at Mark's apartment, he noticed a stack of cardboard boxes piled high in the living room. \"Wow, so many boxes! Are you doing a massive spring cleaning or something?\" David asked, a hint of amusement in his voice. Mark chuckled, a little evasive, and avoided mentioning the move directly. \"Oh, I've just been sorting through some things lately,\" he replied vaguely. David, oblivious to the real reason for the boxes, then joked, \"You have way too much stuff! It'll be much easier for me to come over and hang out in the future – I won't need to bring anything every time!\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Wow, so many boxes! Are you doing a massive spring cleaning or something?",
+                "Oh, I've just been sorting through some things lately.",
+                "You have way too much stuff! It'll be much easier for me to come over and hang out in the future – I won't need to bring anything every time!",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "e6d0885e881cd5f5a65ec1b02d716d6d",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "On a crisp Saturday evening, Emily brought her boyfriend, David, to a family gathering at her aunt's house. As they stepped inside, David, eager to make a good impression, announced, \"I'm really happy to be here!\" Aunt Susan, bustling around the dining room, replied warmly, \"Oh, I made some of my very best dishes especially, so be sure to have plenty!\" As they sat down at the dinner table laden with food, David carefully selected only dishes that were clearly without cilantro. Aunt Susan, a keen observer, noticed this and, with a slightly raised eyebrow, said, \"You really must try this cilantro beef; it's my absolute specialty!\" David smiled politely and responded, \"Thank you so much for your kindness, Aunt Susan,\" but he still refrained from picking up any of the cilantro beef.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Oh, I made some of my very best dishes especially, so be sure to have plenty!",
+                "You really must try this cilantro beef; it's my absolute specialty!",
+                "Thank you so much for your kindness, Aunt Susan.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "5eb1a746a592c9faa8392029badb225d",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "At the elegantly set dining table, Michael turned to his parents and said with enthusiasm, \"How about we go to the beach this summer vacation? I hear there's a newly opened resort nearby that's supposed to be fantastic, with all sorts of amenities.\" His dad paused, considering the suggestion. After a moment of thoughtful silence, he replied softly, \"The beach is a good place, certainly, but there are other options we could consider as well.\" Michael's mom chimed in, adding, \"Yes, like the mountains! The air is so fresh and clean up there, it would be a nice change of pace.\" Michael, undeterred, continued, \"I still think the beach is the better choice. We could try some new water activities, maybe even learn to surf!\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something potentially inappropriate or ill-timed in this story? If so, which sentence is it?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "How about we go to the beach this summer vacation? I hear there's a newly opened resort nearby that's supposed to be fantastic, with all sorts of amenities.",
+                "The beach is a good place, certainly, but there are other options we could consider as well.",
+                "I still think the beach is the better choice. We could try some new water activities, maybe even learn to surf!",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "47f4472d0f2cd163a30b275b4eb36196",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "It was Christmas Eve, and Emily rushed home from school, her heart filled with anticipation for the holiday festivities. As she stepped inside, she found her mother bustling about in the kitchen, the aroma of spices and baking filling the air. Her father was settled in his favorite armchair in the living room, engrossed in a book. Emily approached them tentatively and said softly, \"Mom and Dad, would you be open to trying something different this Christmas? Maybe we could put up some Christmas lights, or share some Christmas stories together.\" Her father, without even looking up from his book, replied casually, \"Emily, our family has always celebrated our traditional holidays, like Thanksgiving. Christmas just isn't something we typically focus on.\" A wave of disappointment washed over Emily as she quietly responded, \"Okay, I understand.\" She then turned and slowly made her way to her room, the festive spirit slightly dimmed.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Mom and Dad, would you be open to trying something different this Christmas? Maybe we could put up some Christmas lights, or share some Christmas stories together.",
+                "Emily, our family has always celebrated our traditional holidays, like Thanksgiving. Christmas just isn't something we typically focus on.",
+                "Okay, I understand.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "e10b3b3d8cae6d7a19e1185706ce9fd7",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "As the fall semester was rapidly approaching, both Emily and David found themselves in need of roommates. They were good friends, having met in college and frequently attending the same classes. One sunny afternoon, Emily and David bumped into each other in the university library, surrounded by towering bookshelves and the quiet rustle of turning pages. David, with a hopeful glint in his eyes, asked, \"So, Emily, who are you thinking of having as a roommate this semester?\" Emily paused, considering her options, and replied somewhat awkwardly, \"I'm actually considering a few different people. I think I might choose someone I haven't lived with before, just to try something new.\" David was silent for a moment, a slight flicker of disappointment crossing his face. He then said, trying to sound nonchalant, \"Okay, well, I wish you the best of luck with your choice.\" He quickly changed the subject, launching into a discussion about their upcoming history class. Later, Emily ended up sharing an apartment with another classmate named Michael.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "So, Emily, who are you thinking of having as a roommate this semester?",
+                "Okay, well, I wish you the best of luck with your choice.",
+                "I'm actually considering a few different people. I think I might choose someone I haven't lived with before, just to try something new.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "556661075366046d1097b0174d3b5a6e",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Sarah and her parents were sitting in their cozy living room, deep in discussion about the plans for her upcoming wedding. Her mom, brimming with excitement, clasped her hands together and declared, \"Oh, I think the wedding should absolutely be a pink theme! It would be so romantic and dreamy, just like a fairytale!\" Sarah was quiet for a moment, a slight frown creasing her brow. Then, she subtly attempted to steer the conversation in a different direction, saying, \"Maybe we should discuss the guest list first? That seems like a good place to start.\" Her dad, ever the diplomat, chimed in, \"Pink sounds nice, honey, but let's make sure we really consider Sarah's opinion and what she envisions for her special day.\" Unfortunately, Mom, caught up in her own vision, seemed to disregard her husband's gentle suggestion and continued to enthusiastically elaborate on the intricate details of the pink theme, oblivious to Sarah's hesitation.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "I think the wedding should absolutely be a pink theme! It would be so romantic and dreamy, just like a fairytale!",
+                "Maybe we should discuss the guest list first? That seems like a good place to start.",
+                "Pink sounds nice, honey, but let's make sure we really consider Sarah's opinion and what she envisions for her special day.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "7d9e7580d3f4dfd3f2551222be11d046",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "On a quiet Sunday evening, the Johnson family gathered in their cozy living room to discuss the future of their family business, a successful local bakery. Mr. Johnson, the father, cleared his throat and began, \"The future of our family business is very important to all of us. I'm constantly pondering how we should choose the successor to take over when I retire.\" Mrs. Johnson nodded in agreement, her gaze sweeping across her family. Mr. Johnson then turned his attention to his son, Michael, and continued, \"Michael, you have a remarkable talent for art and design. We've always admired your creativity, and we believe you can truly flourish in that field in the future.\" Michael, who had been sketching in his notebook, looked up, a hint of disappointment in his eyes. He replied, \"Actually, I am also very interested in the family business. I've been learning a lot about baking and management in my spare time.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "The future of our family business is very important to all of us. I'm constantly pondering how we should choose the successor to take over when I retire.",
+                "Actually, I am also very interested in the family business.",
+                "Michael, you have a remarkable talent for art and design. We've always admired your creativity, and we believe you can truly flourish in that field in the future.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "69197679bcce64b0dbb38561eb98955d",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Sarah and Michael were chatting in their dorm room, making plans for the upcoming weekend. Sarah, bubbling with enthusiasm, suggested, \"We could go to the amusement park this weekend! It should be a blast!\" Michael responded with a somewhat subdued, \"Hmm, that works, I guess.\" Sarah, noticing his lack of excitement, asked curiously, \"What's been up with you lately, Michael? You seem a bit down.\" Michael replied softly, almost wistfully, \"Nothing much, just...sometimes I miss home.\" Sarah, without thinking, laughed dismissively and said, \"Miss home? We're so swamped with college life, who even has time to miss home!\" Michael heard this, his expression clouding over, and fell silent, offering no further response.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "We could go to the amusement park this weekend! It should be a blast!",
+                "Nothing much, just...sometimes I miss home.",
+                "Miss home? We're so swamped with college life, who even has time to miss home!",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "44b610b5de88b99846307b4a6712b9db",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "On a crisp Saturday evening, Emily brought her boyfriend, David, to her parents' house for the very first time. The atmosphere was filled with both excitement and a touch of nervous anticipation. During dinner, Emily's father, a keen amateur chef, had lovingly prepared the meal himself. David, after taking a bite of a vibrant, colorful dish, enthusiastically exclaimed, \"This dish has a really nice color!\" Emily's mother, a warm and welcoming woman, was busy ensuring everyone's plates were full, saying, \"I hope you eat more, David!\" After the satisfying dinner, David, wanting to impress, turned to Emily's father and said, \"You really have a knack for cooking! I can teach you some of my secret recipes next time.\" Emily's father simply smiled politely, but remained silent, a flicker of something unreadable in his eyes.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "This dish has a really nice color!",
+                "You really have a knack for cooking! I can teach you some of my secret recipes next time.",
+                "I hope you eat more, David!",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "997ffe8e7dc02300490d0834702efe0a",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "It was a sunny Thursday afternoon when Emily bumped into David and the class president in the school hallway. The class president was animatedly discussing the upcoming school basketball team tryouts with David. Emily, eager to join the conversation, chimed in, \"David, are you just here to watch the basketball team tryouts? I heard the competition is incredibly fierce this year!\" David smiled politely. The class president glanced subtly at Emily before replying, \"Actually, David is here to participate in the tryouts himself.\" Emily, realizing her mistake, responded somewhat awkwardly, \"Oh, really? I didn't expect you to be so interested in basketball, David.\" David remained silent, a slight hint of amusement playing on his lips.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "David, are you just here to watch the basketball team tryouts? I heard the competition is incredibly fierce this year!",
+                "Actually, David is here to participate in the tryouts himself.",
+                "Oh, really? I didn't expect you to be so interested in basketball, David.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "eece15da4fcd8f5f7ca8a27a5163da42",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Sarah and Emily were excitedly planning the wedding. Sarah suggested, \"We can choose June 15th or July 20th for the big day.\" Emily paused, considering the options carefully. \"Hmm, how about June 15th?\" she finally offered. Sarah's face fell slightly, though she tried to hide it. \"Actually, I was really hoping for July 20th,\" she replied, a little too brightly. \"The weather should be absolutely perfect that day, warm and sunny!\" Emily didn't say anything, but her mother, who was sitting nearby, quietly interjected, with a slightly strained voice, \"That day is... well, a special day for our family.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "How about June 15th?",
+                "I was really hoping for July 20th, the weather should be absolutely perfect that day!",
+                "That day is... well, a special day for our family.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "a37ea1596c35387accb146d7f1acb11c",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Sarah and Michael remained good friends even after their breakup. One evening, while casually chatting, Sarah reminisced about their past, saying, \"Remember that little seaside coffee shop we used to go to? The coffee was absolutely divine, especially with the ocean view.\" Michael replied somewhat vaguely, \"Hmm, yes, that shop was pretty good, I suppose.\" Just then, Michael's current girlfriend, Emily, walked over and overheard their conversation, a slight frown appearing on her face. Michael, sensing the awkwardness, quickly changed the subject, asking Sarah, \"So, have you been going to any new places lately?\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Remember that little seaside coffee shop we used to go to? The coffee was absolutely divine, especially with the ocean view.",
+                "But the taste is not good now.",
+                "So, have you been going to any new places lately?",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "2778dcb7478037a4688720974dfe4612",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Emily and Michael are a couple, and they've been dating for over a year. Recently, Michael has been facing significant financial difficulties due to problems at his company, causing him considerable stress. One weekend, Emily, seemingly unaware of Michael's situation, enthusiastically suggests celebrating their anniversary at a very expensive, upscale restaurant. During dinner, Emily raises her glass and says cheerfully, \"I hope we live a good life every day!\" Michael manages a weak smile and replies, \"I listen to you.\" After the elaborate meal, Emily, clearly enjoying herself, proposes, \"Life needs more enjoyment! Next time, we should definitely go to an even more luxurious restaurant!\" Michael simply nods, his expression unreadable.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If so, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "I hope we live a good life every day!",
+                "I listen to you.",
+                "Life needs more enjoyment! Next time, we should definitely go to an even more luxurious restaurant!",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "16eb8c70a8f53e82a286c7b55c383efe",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "Michael was carefully planning a surprise date for Sarah for the upcoming weekend. He wanted it to be perfect. On Friday night, Michael and David were chatting on the phone, catching up after a long week. Michael, excited about his plans, said, \"I have a plan for the weekend, let's go together! It'll be fun!\" David replied, \"Oh, I might be going out with my friends this weekend. We're planning a big basketball game and have been looking forward to it all week.\" Michael was silent for a moment, a little disappointed, and then said, with a slightly strained tone, \"It sounds like you are very busy.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "I have a plan for the weekend, let's go together! It'll be fun!",
+                "Oh, I might be going out with my friends this weekend. We're planning a big basketball game and have been looking forward to it all week.",
+                "It sounds like you are very busy.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "20f646dc1182fee0e7310b5474cabe1e",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "On weekend nights, Emily and Michael often went to their friend's lively parties together. At one such gathering, surrounded by friends chatting and laughing, someone inquired, \"How have you two been lately?\" Emily, beaming, responded enthusiastically, \"We're doing wonderfully! We're planning a beach vacation next month, and I've got all sorts of romantic surprises in store!\" Michael simply added, with a more reserved tone, \"Yes, we're both really looking forward to it.\" Another friend, intrigued, exclaimed, \"Oh, I'd love to hear all the details!\" Emily, seizing the opportunity, launched into a detailed description of their meticulously planned itinerary and even shared some of Michael's more private preferences. As the party went on, Michael seemed to withdraw, becoming noticeably quieter.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Did anyone say something inappropriate in this story? If so, which sentence was inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "We're doing wonderfully! We're planning a beach vacation next month, and I've got all sorts of romantic surprises in store!",
+                "Yes, we're both really looking forward to it.",
+                "Oh, I'd love to hear all the details!",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "6b45188686430bb43fabf998b71458db",
+        "ability": "Non-Literal Communication: Faux pas",
+        "task": "Faux-pas",
+        "story": {
+            "en": "John and Mary are college classmates, and they have been dating for a year. One sunny Saturday, they are sitting together in a cozy coffee shop, discussing their hopes and dreams for the future. John, gazing into Mary's eyes, says softly, \"I am thinking, we can do a lot of things together after graduation, such as traveling to Europe or...\" He pauses, a nervous flutter in his chest, then continues, \"Or other longer-term plans, like... settling down somewhere nice.\" Mary listens with a warm smile playing on her lips, but she doesn't offer any comment. John, feeling the pressure, adds, \"For example, planning a special... um, you know, like our wedding or something like that.\" Mary is silent for a long, awkward moment, her smile fading slightly, then she quickly changes the subject to the new art exhibit downtown.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Does anyone say something inappropriate in this story? If there is, which sentence is inappropriate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "I am thinking, we can do a lot of things together after graduation, such as traveling to Europe or...",
+                "Or other longer-term plans, like... settling down somewhere nice.",
+                "For example, planning a special... um, you know, like our wedding or something like that.",
+                "There is no inappropriate sentence."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    }
+]

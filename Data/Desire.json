@@ -1,0 +1,1446 @@
+[
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "John and Emily are a couple, but recently they have been experiencing some friction. Little disagreements have escalated into full-blown arguments, making open communication a challenge. One sunny Saturday, they decide to visit the local street market, hoping a change of scenery might help. As they strolled past a flower stall, a kind-faced old woman noticed them. Sensing the tension, she gently suggested that they exchange a bouquet of flowers as a symbol of reconciliation and a fresh start. John glanced at Emily, a flicker of hope in his eyes, and gave a subtle nod. He carefully surveyed the various bouquets, his gaze lingering on each one before finally selecting a vibrant, blooming sunflower. The old woman smiled warmly as she handed him the sunflower. John, clutching the flower, turned back to present it to Emily, but at that moment, she was engrossed in browsing the colorful pottery at a nearby stall, seemingly oblivious to his gesture. With a sigh, John silently and discreetly placed the sunflower into her open shopping bag, hoping she would notice it later.",
+            "fa": "امیر و سارا یک زوج هستند، اما اخیراً به‌خاطر برخی مسائل جزئی دچار سوتفاهم‌هایی شده‌اند و ارتباط بین آن‌ها سخت شده است. در یک روز، هر دو به بازار محلی دست‌فروشان می‌روند. پیرزنی امیر را می‌بیند و پیشنهاد می‌دهد که آن‌ها یک دسته گل را به‌عنوان نماد آشتی با هم تعویض کنند. امیر نگاهی به سارا می‌اندازد، پنهانی سرش را تکان می‌دهد و از بین دسته‌گل‌های مختلف، یک گل آفتابگردان شکوفا را انتخاب می‌کند. پیرزن گل آفتابگردان را به او می‌دهد، و او پس از گرفتن آن، دوباره به سارا نگاه می‌کند، اما در آن لحظه سارا مشغول نگاه کردن به سایر غرفه‌هاست. امیر بی‌صدا گل را در کیف خرید او می‌گذارد."
+        },
+        "question": [
+            {
+                "en": "Why does John choose sunflowers?",
+                "fa": "چرا امیر گل آفتابگردان را انتخاب می‌کند؟"
+            },
+            {
+                "en": "What do you think Emily’s reaction is when she sees the sunflower?",
+                "fa": "به نظر شما واکنش سارا وقتی گل آفتابگردان را می‌بیند چیست؟"
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John chooses sunflowers possibly because he knows that Emily likes them and hopes to eliminate misunderstandings.",
+                    "John chooses sunflowers because he wants to save money; sunflowers are cheaper than other flowers.",
+                    "John chooses sunflowers because his favorite flower is the sunflower.",
+                    "John chooses sunflowers because they look very fresh and healthy."
+                ],
+                "fa": [
+                    "امیر ممکن است گل آفتابگردان را انتخاب کند چون می‌داند سارا آن را دوست دارد و امیدوار است سوتفاهم‌ها برطرف شوند.",
+                    "امیر گل آفتابگردان را انتخاب می‌کند چون می‌خواهد صرفه‌جویی کند؛ گل آفتابگردان ارزان‌تر از بقیه گل‌هاست.",
+                    "امیر گل آفتابگردان را انتخاب می‌کند چون گل مورد علاقه خودش است.",
+                    "امیر گل آفتابگردان را انتخاب می‌کند چون آن‌ها بسیار تازه و سالم به‌نظر می‌رسند."
+                ]
+            },
+            {
+                "en": [
+                    "Emily sees the sunflower and thinks John is too stingy, and she gets even more angry.",
+                    "Emily sees the sunflower and feels confused; she does not understand John's intention.",
+                    "Emily sees the sunflower and understands John's intention; she may be moved.",
+                    "Emily sees the sunflower and doesn't care, because she does not like flowers."
+                ],
+                "fa": [
+                    "سارا گل آفتابگردان را می‌بیند و فکر می‌کند امیر خسیس است، و حتی بیشتر عصبانی می‌شود.",
+                    "سارا گل آفتابگردان را می‌بیند و گیج می‌شود، متوجه منظور امیر نمی‌شود.",
+                    "سارا گل آفتابگردان را می‌بیند و منظور امیر را می‌فهمد، ممکن است تحت تأثیر قرار بگیرد.",
+                    "سارا گل آفتابگردان را می‌بیند و اهمیتی نمی‌دهد، چون علاقه‌ای به گل ندارد."
+                ]
+            }
+        ],
+        "answer": [
+            "A",
+            "C"
+        ],
+        "id": "fd800487d14d724088249ad4a7f7e591"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Mr. Smith is the CEO of the company, David and Emily are employees. The company's crucial project is nearing its deadline. Mr. Smith and David are working overtime, burning the midnight oil to ensure everything is on track. Emily, however, due to some personal matters, asked David to help her submit a leave request. During a brief rest break, David casually mentions Emily in his conversation with Mr. Smith. Upon hearing this, Mr. Smith appears somewhat surprised, his gaze drifting towards Emily's unoccupied desk. Noticing the subtle shift in Mr. Smith's expression, David quickly and quietly closes his desk drawer, where Emily's leave slip is carefully tucked away. Mr. Smith, seemingly oblivious to David's actions, furrows his brow slightly and resumes his work, concern etched on his face.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Mr. Smith look at Emily's empty seat?",
+                "fa": ""
+            },
+            {
+                "en": "What does David possibly think now?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mr. Smith wants to find the leave slip on Emily's seat.",
+                    "Mr. Smith is thinking about whether Emily's personal reasons affect the progress of work.",
+                    "Mr. Smith wants to confirm what David says.",
+                    "Mr. Smith wants David to help Emily take a leave."
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "David feels very anxious, afraid that Mr. Smith blames Emily.",
+                    "David feels very happy, Mr. Smith finds out that Emily is not at work.",
+                    "David feels very calm, the matter has nothing to do with him.",
+                    "David feels very angry, Emily often does not come to work."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C",
+            "B"
+        ],
+        "id": "fe4cc0826cd5d70f9c4606d919a6a3c5"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Michael and David are Sarah's sons. Today is Sarah's birthday. Michael and David have been whispering to each other in the living room all day, being careful not to let Sarah get close. Whenever Sarah wanders into the room, they quickly turn off the laptop screen, then offer her bright, slightly nervous smiles, as if nothing unusual is happening. At dinner, David secretly glances at Michael, then excuses himself from the table and leaves the dining room, pretending there is an urgent matter to deal with. Sarah observes the mysterious behavior of her sons and is understandably confused and a little concerned.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does David secretly look at Michael at dinner and then leave?",
+                "fa": ""
+            },
+            {
+                "en": "What do you think Sarah thinks?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "David suddenly receives a call from a friend and needs to leave to answer it.",
+                    "David is preparing a surprise birthday party that Sarah doesn't know about.",
+                    "David is hinting to Michael that they need to secretly play on the computer later.",
+                    "David finds out that Michael has a secret, and he signals to Michael that he knows."
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Sarah feels curious about her sons' actions, possibly a bit confused.",
+                    "Sarah thinks her sons are hiding a bad secret, and feels a bit worried.",
+                    "Sarah thinks her sons are addicted to computer games and do not study, and feels a bit angry.",
+                    "Sarah feels at ease, because she trusts her sons."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "A"
+        ],
+        "id": "04e3406b41d09f48c1f10e74680045dd"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Emily, David, and Michael are classmates working on a group report. Emily, the designated team leader, was in charge of assigning tasks. However, Emily and David had secretly discussed beforehand, hoping Michael would take on a larger portion of the work. During their discussion, Emily carefully explained the skills required for a particular task, pointedly looking at David. \"David,\" she said with emphasis, \"this part is crucial and quite challenging. Do you think you can handle it?\" David quickly responded, \"I'm already committed to other sections and have started working on them.\" At this moment, Michael noticed Emily and David were both staring at him expectantly, but remained silent, leaving the unspoken request hanging in the air.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why do Emily and David look at Michael together after discussing the task?",
+                "fa": ""
+            },
+            {
+                "en": "What do you think Michael feels at that time?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because they believe Michael excels at this specific task and will complete it exceptionally well.",
+                    "Because Emily and David intend to subtly manipulate Michael into volunteering for this part of the task.",
+                    "Because Emily and David want Michael to actively participate in the meeting instead of remaining silent.",
+                    "Because Emily and David assume Michael enjoys this particular task and want to assign it to him."
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Michael feels delighted and self-assured about being entrusted with such an important task.",
+                    "Michael feels overlooked and isolated by Emily and David's pre-arranged plan.",
+                    "Michael feels somewhat taken aback, not expecting this complex task to be assigned to him.",
+                    "Michael feels indignant, harboring resentment towards Emily and David for conspiring against him beforehand."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "C"
+        ],
+        "id": "0bbddfc32c7485515adc03e7ec09d547"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "John, Emily, and David are the best of friends, and they're excitedly planning a road trip together. They haven't decided on a destination yet, so they're currently hashing out the details. Of all the available tourist attractions, destinations A and B are the most popular, drawing huge crowds, while destination C is a bit of a hidden gem, less frequented by tourists. Suddenly, Emily and David exchange a knowing glance. Emily reaches out and gently taps John, who is facing away from them, on the shoulder. Then, she looks back at David, before showing John a screenshot on her phone – a netizen's post about attraction C, which she had saved earlier. \"Take a look at this,\" she says to John, her voice filled with anticipation. David glances back at Emily and then smiles warmly at John. John takes the phone, and a smile slowly spreads across his face.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Emily show John the screenshot of the netizen's share of attraction C?",
+                "fa": ""
+            },
+            {
+                "en": "What do you think John thinks?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Emily found attraction C appealing through the screenshot shared by the netizen, so she recommends it to John.",
+                    "Emily and David intend to go to attraction C, and are subtly seeking John's agreement.",
+                    "Emily hopes that John will also appreciate the pictures taken by the netizen.",
+                    "Emily is just casually showing John a picture; there is no hidden meaning."
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "John is shocked by Emily's behavior because they are discussing where to go, but they are not directly telling him their preference.",
+                    "John feels confused and doesn't understand why Emily suddenly shows him the screenshot of attraction C.",
+                    "John thinks Emily is sharing a great attraction with him, and he is happy to go.",
+                    "John feels uneasy because he originally hoped to go to attractions A or B."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "C"
+        ],
+        "id": "7708889383f0bd96b6bbed4874764c69"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "John and David are the co-captains of the football team, a team known for its rigorous training and high expectations. They still need one more player to complete their roster. Earlier, in a moment of frustration, they had joked that the remaining unselected players were, sarcastically, \"the best players\" available. After a moment of thoughtful silence, David subtly winks at John, then glances over at Michael, who is one of the players still waiting to be chosen. David then turns his head back towards John, a faint smile playing on his lips. John, understanding the unspoken message, nods in agreement, signaling that he's prepared to select Michael for the team. Michael, observing the wink and the subsequent exchange of smiles between David and John, feels a mix of emotions.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does David turn his head to look at John and smile?",
+                "fa": ""
+            },
+            {
+                "en": "What do you think Michael thinks?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "David and John had a joke about choosing team members before, and David is reminded of that joke.",
+                    "David smiles because he genuinely thinks Michael is the best remaining player.",
+                    "David smiles at John because they both know Michael is the only player they can realistically choose.",
+                    "David and John have a secret plan involving Michael, so he smiles knowingly."
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Michael feels surprised and confused by their behavior.",
+                    "Michael feels he is being teased and mocked by their actions.",
+                    "Michael feels he is being recognized and is proud of it.",
+                    "Michael is full of hope and eager to demonstrate his skills."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C",
+            "A"
+        ],
+        "id": "7a4c91e6a4be2006b617650fac9ece6c"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "John and Mike were the best of friends, sharing a bond strengthened by countless adventures and frequent travels together. Their acquaintance, Emily, had recently expressed a keen interest in joining one of their trips. One sunny Saturday afternoon, John and Mike found themselves at their favorite coffee shop, nestled in comfortable armchairs, maps spread out as they debated destinations for a quick weekend getaway. Just then, Emily unexpectedly walked in, her face lighting up as she spotted them. John, caught slightly off guard, subtly winked at Mike, and quickly opened a document on his laptop, pretending to be engrossed in work, hoping to deflect the conversation. Emily approached their table, greeting them with a cheerful smile.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does John wink at Mike?",
+                "fa": ""
+            },
+            {
+                "en": "What do you think Emily is thinking?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John winks at Mike because he sees their friend Emily who they often spend time with.",
+                    "John winks at Mike because he doesn't want Emily to find out they are planning a trip without her.",
+                    "John winks at Mike because he wants to hint at the travel plan to Emily in a non-verbal way.",
+                    "John winks at Mike because he sees Emily suddenly appear and feels surprised."
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Emily feels happy to meet John and Mike in the coffee shop.",
+                    "Emily is probably very happy, seeing their travel photos, because she also looks forward to traveling.",
+                    "Emily may be a bit envious, seeing their photos, feeling that she should also be included in their plans.",
+                    "Emily may feel worried, fearing they are hinting that she should contribute to their travel expenses."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "A"
+        ],
+        "id": "2c8735c24034bba81271999c95cd6b68"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "John and Michael were neighbors, both living on the sixth floor of their apartment building. One sunny afternoon, a new neighbor named Emily moved into the seventh floor apartment; she was quite striking. Michael, on his way out, saw Emily struggling downstairs with a large, heavy bag of rice. He clearly intended to offer assistance, his eyes betraying his helpful inclination. Just then, John was heading upstairs and witnessed the scene. He immediately approached Emily, offering a warm greeting before swiftly taking the heavy bag and carrying it up to her apartment. Emily expressed her sincere gratitude. As John turned to leave, he glanced back at Michael, a subtle smile playing on his lips. Michael's expression shifted slightly, a hint of annoyance crossing his face. John, seemingly unfazed, simply turned and walked to his own apartment.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does John turn his head to look at Michael?",
+                "fa": ""
+            },
+            {
+                "en": "What do you think Michael feels when he sees John greet and help Emily?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John wants to happily share his good deed with Michael.",
+                    "John confronts Michael face to face, asking why he only watches and does not help.",
+                    "John looks at Michael, showing off that he does what Michael wanted to do first.",
+                    "John is seeking Michael's approval for his act of helping Emily."
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Michael possibly feels regret and a bit of frustration.",
+                    "Michael feels relieved because he does not have to help himself.",
+                    "Michael praises John's behavior.",
+                    "Michael admires John for having such strong initiative."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C",
+            "A"
+        ],
+        "id": "4f1edc830369aaff47d5fab30c63d9ff"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Michael was consistently the top performer in the department, celebrated for his sharp insights and dedication. However, he recently faced significant hurdles in his latest project, leading to a noticeable dip in his performance metrics. David, the department manager, had always been a strong advocate for Michael, recognizing his potential and work ethic. He was determined to secure the best possible year-end evaluation for him, despite the recent setback. Meanwhile, Kevin, a colleague of Michael's, also harbored ambitions for a promotion during the year-end review. This afternoon, David was in his office, rapidly reviewing Michael's evaluation form, his brow furrowed in concentration. As Michael walked past David's open office door, David looked up, caught his eye, and gave him a reassuring nod. Michael responded with a slight, polite smile and continued on his way. Kevin, observing the entire interaction from the nearby tea room, watched with a keen interest, a slight frown creasing his forehead.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does David nod to Michael?",
+                "fa": ""
+            },
+            {
+                "en": "What do you think Kevin thinks after seeing this scene?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "David just sees Michael's review form and thinks his performance is good.",
+                    "David wants to subtly indicate to Michael that he will receive a high evaluation.",
+                    "David is simply greeting Michael in a friendly manner.",
+                    "David nods to Michael unintentionally, lost in thought."
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Kevin thinks that David is giving everyone a good evaluation, including him.",
+                    "Kevin possibly feels worried and suspicious, suspecting that David is showing favoritism towards Michael.",
+                    "Kevin thinks that David and Michael are discussing the details of the project.",
+                    "Kevin thinks this is a normal, unremarkable daily interaction between colleagues."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "B"
+        ],
+        "id": "823fcf23107bf315a15a861bda949a29"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Sarah and Mr. Johnson meet at a cozy coffee shop downtown. Sarah is deeply troubled and considering resigning from her job. With a sigh, she tells Mr. Johnson, \"I really can't stand working at that company anymore. The boss is always criticizing me, nitpicking every little thing I do. I've had enough!\" Mr. Johnson is well aware that their boss frequently and unfairly targets Sarah, making her work life difficult. However, wanting to keep Sarah at the company, he puts on a reassuring smile and says, \"Don't take it too personally, Sarah. The boss just cares deeply about the quality of your work.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Is what Mr. Johnson says true?",
+                "fa": ""
+            },
+            {
+                "en": "Why does Mr. Johnson say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Yes",
+                    "No"
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Mr. Johnson thinks Sarah should resign because the boss criticizes her.",
+                    "Mr. Johnson tries to keep Sarah from resigning because he thinks the boss just cares about her work.",
+                    "Mr. Johnson thinks Sarah takes it too personally and should not resign.",
+                    "Mr. Johnson deliberately says that the boss just cares about her in order to persuade Sarah not to resign."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "D"
+        ],
+        "id": "774f71c64fd3e6d27a0bd4de3f38d58f"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "John, a sharply dressed businessman in a tailored suit, entered a quaint bakery. The aroma of freshly baked goods filled the air as he purchased a box of chocolate chip cookies. Stepping aside near a small, round table, his phone rang. After a brief conversation, he ended the call. Turning back, he noticed the box of cookies sitting on the table. Assuming they were his, he sat down and began to enjoy them. Just then, an elderly gentleman, dressed in worn and faded clothing, sat opposite him and also started eating the cookies from the same box. John, visibly annoyed and with a disdainful look, assumed the old man was stealing his cookies. He snapped, \"If you can't afford them, don't eat them.\" He finished the remaining cookies and briskly walked out of the bakery. As he reached the door, he reached into his briefcase to retrieve some documents, and his hand bumped against a familiar cardboard box. He pulled it out and realized it was the box of cookies he had purchased. A wave of guilt washed over him.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Does the elderly gentleman feel surprised when he hears what John says?",
+                "fa": ""
+            },
+            {
+                "en": "Why does John immediately feel guilty?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Yes",
+                    "No"
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Seeing his cookies in the bag, he immediately understands that he misunderstood the elderly gentleman. The cookies he just ate were the old man's, and he scolded him.",
+                    "John dislikes the elderly gentleman in ragged clothes for eating his cookies.",
+                    "John forgets to put the cookies in the bag while making a phone call, and knows that the cookies on the table are not his.",
+                    "John's conscience finds out when he goes out, he feels he should not say that to the elderly gentleman, so he feels guilty."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A",
+            "A"
+        ],
+        "id": "ce97252d868436c822f8854af82c8012"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Emily had just graduated from university and was eager to begin her career. To make her daily commute easier, she decided to rent a place close to her new office. One sunny afternoon, she met with a real estate agent, and together they embarked on a house-hunting adventure, visiting several properties. After a tiring search, she finally found a house that seemed relatively suitable. However, the high rent gave her pause, and she hesitated. The astute agent, noticing Emily's uncertainty, decided to employ a subtle tactic. He exclaimed, \"I have another showing scheduled for this house tomorrow. If you don't sign the contract today, someone else might snatch it up!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Is what the agent says true?",
+                "fa": ""
+            },
+            {
+                "en": "Why does the agent say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Yes",
+                    "No"
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "The agent hopes that Emily signs the contract quickly to ensure that the house is not taken by others.",
+                    "The agent knows that someone is coming to see the house tomorrow, so he wants to urge Emily to decide quickly.",
+                    "The agent hopes that Emily signs the contract for this house by making up lies.",
+                    "Because the agent is tired from looking at many houses with Emily."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "C"
+        ],
+        "id": "4f70b038ad5725facd487a9f615eac94"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "A nervous thief, having just robbed a convenience store, was frantically running towards his apartment. As he hurried down the street, a police officer on patrol noticed him drop a leather glove. The officer, completely unaware of the man's recent crime, simply intended to return the lost item. He called out, \"Hey, you! Stop right there!\" The thief, startled and assuming the officer knew about the robbery, whirled around, his face pale with fear. Seeing the police officer in uniform, he immediately surrendered. He raised his hands high above his head, effectively admitting to the crime of robbing the local store, his heart pounding in his chest.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Is the police officer surprised by what the thief does?",
+                "fa": ""
+            },
+            {
+                "en": "Why does the thief surrender when the police officer just wants to return his glove?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Yes",
+                    "No"
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "The thief thinks the police officer knows he robbed the store.",
+                    "The thief wants to show his goodwill and honesty",
+                    "The thief wants to give the police officer a surprise and unexpected gain.",
+                    "The thief thinks because he dropped a glove the police officer might want to arrest him."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A",
+            "A"
+        ],
+        "id": "01231d4a9f69fc19b0ccb63e34cfb4e3"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "One sunny afternoon, David decided to take a leisurely walk through the park, enjoying the fresh air and the vibrant scenery. As he strolled along a winding path, he noticed something glinting on a park bench. Upon closer inspection, he realized it was a mobile phone. David, a kind-hearted and helpful individual, immediately felt a desire to return it to its owner. He knew how frustrating it could be to lose such a valuable item. Meanwhile, Sarah, the phone's owner, had just realized her phone was missing. A wave of panic washed over her as she retraced her steps, fearing the worst – that it had been stolen. As she frantically scanned the area, she spotted David holding her phone. Jumping to conclusions, she rushed towards him, her voice filled with anger and suspicion. \"That's my phone! Your behavior is despicable! Give it back right now!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Does David feel surprised by what the owner of the phone says?",
+                "fa": ""
+            },
+            {
+                "en": "Why does the owner of the phone say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Yes",
+                    "No"
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "The owner of the phone thinks David stole her phone and angrily demands it back.",
+                    "David prepares to hide the found phone and the owner of the phone sees it.",
+                    "The owner of the phone feels happy because she finds her phone, so she says that sentence in a happy tone.",
+                    "The owner of the phone sees David holding her stolen phone."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A",
+            "A"
+        ],
+        "id": "e086aa26ce4eebf14679894362e9aa85"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Mr. Smith was in the middle of teaching his history class when he noticed a student, let's call him David, rummaging through his backpack. David carefully pulled out a chocolate bar, unwrapped it stealthily, and then proceeded to extract a small bag of spicy chips. He was clearly trying to hide behind his textbook as he indulged in his secret snack. Mr. Smith observed all of this with a knowing smile. After a moment, he strolled over to David's desk and, with a twinkle in his eye, remarked, \"Well, David, it seems your backpack has transformed into a miniature convenience store.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Is Mr. Smith's statement literally true?",
+                "fa": ""
+            },
+            {
+                "en": "Why does Mr. Smith make this comment?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Yes",
+                    "No"
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Mr. Smith is using a metaphor to subtly point out that he saw David secretly eating snacks. He's tactfully criticizing and warning him.",
+                    "Because the teacher sees that David's backpack is full of various items, which could be sold.",
+                    "Mr. Smith knows that David's backpack was purchased from a convenience store and is designed to hold many items.",
+                    "Because Mr. Smith is teaching the class, and David is constantly holding his backpack."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "A"
+        ],
+        "id": "feb4035c542ffe37a26156eb8f80563f"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Michael had a perpetual feeling of hunger. It was always on his mind, a gnawing emptiness he constantly sought to fill. Today at school, lunchtime brought a small measure of joy: sausages and beans, one of his favorite meals. He was, truth be told, a rather greedy boy. He harbored a secret desire to consume more sausages than anyone else, a desire fueled by the fact that even though his mother prepared delicious meals for him when he arrived home, he still craved more! However, the rules were clear: everyone was limited to two sausages, and no exceptions were made. When it was Michael's turn to be served, a mischievous glint sparkled in his eyes as he spoke to the lunch lady. \"Oh, could you possibly give me four sausages? The thing is, I never eat dinner when I get home!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Is what Michael says true?",
+                "fa": ""
+            },
+            {
+                "en": "Why does Michael say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Yes",
+                    "No"
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Michael tries to arouse sympathy, is deceptive, in order to eat more sausages.",
+                    "Michael is a very greedy person, he wants more sausages.",
+                    "His mother cooks a delicious dinner for him, so Michael does not need extra sausages.",
+                    "Michael does not get to eat sausages when he goes home."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "A"
+        ],
+        "id": "5a70cf5e57b9be00e2ddee5c9ad33f5f"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "One evening, very late, Grandma Carol was making her way home. She disliked walking alone after dark, a deep-seated fear gripping her that someone might attack and rob her. She was, by nature, a very anxious person! The streetlights cast long, dancing shadows that only heightened her unease. Suddenly, a figure emerged from the inky blackness of an alleyway. It was a young man. He simply wanted to ask Mrs. Carol what time it was, so he started walking towards her. But as Grandma Carol saw the man approaching, her heart leaped into her throat. She began to tremble uncontrollably, her voice wavering as she blurted out, \"Take my wallet, just please don't hurt me!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Does the man feel surprised by what Grandma Carol says?",
+                "fa": ""
+            },
+            {
+                "en": "Why does Grandma Carol say this when the man just wants to ask her what time it is now?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Yes",
+                    "No"
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Grandma Carol mistakenly thinks the man wants to rob her, not understanding the man's intention.",
+                    "Because the man wants to rob her, so she persuades the man not to hurt her.",
+                    "The man wants to rob her wallet, she is scared and nervous.",
+                    "Grandma Carol, not knowing what time it is now, fears the man will attack her."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A",
+            "A"
+        ],
+        "id": "e2c92059a6324204a4271842cbbc991e"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Emily was a picky eater. She would often turn up her nose at the delicious meals her parents prepared. Observing other children happily devouring their food only amplified her parents' worry; they were increasingly concerned about how to nourish her properly. After many attempts, they discovered that Emily had a deep attachment to her mother and couldn't bear to be separated from her. One day, when Emily stubbornly refused to eat her vegetables, her mother, with a gentle but firm tone, said, \"If you don't eat properly and take care of yourself, I might have to become someone else's mother.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Is Emily's mother telling the literal truth?",
+                "fa": ""
+            },
+            {
+                "en": "Why does Emily's mother say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Yes",
+                    "No"
+                ],
+                "fa": []
+            },
+            {
+                "en": [
+                    "Emily doesn't like to eat, and her mother is angry and doesn't want to be a mother anymore.",
+                    "Emily's mother is angry because she sees other children enjoying their meals and wants to become their mother instead.",
+                    "Emily's mother is trying to maintain a warm and humorous parent-child relationship.",
+                    "She is using Emily's dependence on her mother, trying to make Emily eat properly."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B",
+            "D"
+        ],
+        "id": "bb5f1cf9f88d6a12b002857e743e985e"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Mark was nearing his graduation from university. Aside from a few essential textbooks for his future career that he planned to ship home, he intended to pack up and sell all his other general subject books. The campus was always bustling with vendors eager to buy used books. He randomly selected a vendor to sell his collection. The vendor weighed a bag of books, announcing it was 40 pounds and offering half a dollar per pound. Mark received 20 dollars, and the vendor moved to toss the books onto his truck. Just then, Mark's friend, Emily, happened to walk by. She paused, looked at the books, and exclaimed, \"Wow, how did I lose so much weight lately!\", before continuing on her way without a backward glance.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Emily really mean when she says this sentence?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Emily implies that she is losing weight recently.",
+                    "Emily implies that the vendor's scale might be tampered with.",
+                    "Emily implies that Mark needs to keep his figure at all times.",
+                    "Emily implies that she might be sick recently."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "2c05dab86dbdfdaaf88c5550cce1f745"
+    },
+    {
+        "ability": "Intention: Intentions explanations",
+        "task": "Desire",
+        "sub_task": "Ambiguous Story Task",
+        "story": {
+            "en": "Sarah, a dedicated fitness coach known for her healthy lifestyle, made a rare mistake one sunny afternoon. Running late for a client appointment, she hopped into her car and drove off without fastening her seatbelt. A vigilant traffic cop, Officer Miller, noticed the infraction and pulled her over. Approaching the car, Officer Miller leaned down and, with a slightly raised eyebrow, asked Sarah, \"Ma'am, why aren't you wearing your seatbelt? Are you pregnant?\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What is the real intention of Officer Miller when he asks this question?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Officer Miller wants to know about Sarah's personal life.",
+                    "Officer Miller wants to confirm if Sarah is pregnant, because pregnant people do not need to wear seatbelts.",
+                    "Officer Miller hopes Sarah goes to the hospital for a pregnancy test.",
+                    "Officer Miller implies that Sarah can say she is pregnant to avoid a fine."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "5f468a21ade29bb052a507d77d5dd487"
+    },
+    {
+        "ability": "Desire: Discrepant desires",
+        "task": "Desire",
+        "sub_task": "Discrepant desires",
+        "story": {
+            "en": "John is a photographer with an insatiable thirst for outdoor adventures. He dedicates most weekends to exploring nature, often hiking through dense forests or scaling rugged mountains, always searching for that perfect, untouched landscape to capture with his lens. His friend, Emily, is a talented interior designer who finds solace and inspiration in the indoors. She much prefers the refined atmosphere of art galleries and the cutting-edge displays at design expos. This weekend, Emily is hoping to spend some quality time with John and wants to find an activity they can both enjoy.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "To make this weekend enjoyable for both of them, where should Emily suggest going?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Natural Scenic Area",
+                    "Natural Landscape Photography Exhibition",
+                    "Interior Design Expo",
+                    "City Shopping Center"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "6b489b3a4a8205b0e290cef8a7b2ad34"
+    },
+    {
+        "ability": "Desire: Discrepant desires",
+        "task": "Desire",
+        "sub_task": "Discrepant desires",
+        "story": {
+            "en": "John is a real outdoor enthusiast, always seeking adventure. Every weekend, he's either on the basketball court, hiking up a challenging mountain trail, or rock climbing, constantly pushing his limits and chasing that adrenaline rush. Sarah, on the other hand, is his polar opposite. A true homebody, she finds joy and contentment within the four walls of her cozy apartment. Weekends for her mean curling up with a captivating novel, diving into immersive video games, or simply enjoying the quiet solitude and peaceful atmosphere of her home. John is quite smitten with Sarah and wants to win her over. This weekend, he decides to take a leap and invite Sarah out on a date. To make it as appealing as possible, he puts the ball entirely in her court, proposing that she gets to choose where they go.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Given John's invitation and Sarah's preferences, where is Sarah most likely to choose to go?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Shopping center",
+                    "Exhibition",
+                    "Library",
+                    "Play games at home"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "e0f8817cf7a133802934b76119674e1d"
+    },
+    {
+        "ability": "Desire: Discrepant desires",
+        "task": "Desire",
+        "sub_task": "Discrepant desires",
+        "story": {
+            "en": "Sarah is a dedicated fitness enthusiast. Her life revolves around healthy eating and rigorous exercise routines. Every weekend, she meticulously plans her time, either hitting the gym for intense workouts or engaging in invigorating outdoor sports like hiking and cycling. On the other hand, David is a true foodie, and his life is a constant exploration of culinary delights. He's particularly drawn to decadent desserts and comforting fast food. David firmly believes that the joy of life lies in savoring a wide array of flavors and indulging in delicious treats. This holiday season, Sarah decides to extend an invitation to David, hoping to bridge their differing lifestyles.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What activity is Sarah most likely to invite David to participate in?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Outdoor barbecue",
+                    "Tasting at a newly opened fried chicken shop",
+                    "Dessert shop tasting",
+                    "City exploration activity"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "ffccb10b373749a4f5760dfe3795ce41"
+    },
+    {
+        "ability": "Desire: Discrepant desires",
+        "task": "Desire",
+        "sub_task": "Discrepant desires",
+        "story": {
+            "en": "Sarah is an avid traveler with a deep love for nature and the tranquility of camping in the wilderness. She finds immense joy in hiking through lush forests and exploring the breathtaking landscapes of national parks, feeling a profound connection to the natural world. On the other hand, her suitor, Michael, is drawn to the vibrant energy of city travel and the enriching experience of cultural exploration. He is particularly keen on visiting historic cities, immersing himself in the stories they hold, and spending hours wandering through museums and art exhibitions, appreciating human creativity and ingenuity. He believes that the true meaning of travel lies in understanding diverse cultures and histories, broadening one's perspective and fostering empathy. This holiday season, Michael, eager to share his passion and spend quality time with Sarah, extends an invitation for them to travel together.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Michael most likely invite Sarah to go?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Hiking in the national park",
+                    "Touring historic cities",
+                    "Visiting art museums",
+                    "City cultural festival activities"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "dd0e175bac6c5e9661c97d3e8ab41d1d"
+    },
+    {
+        "ability": "Desire: Discrepant desires",
+        "task": "Desire",
+        "sub_task": "Discrepant desires",
+        "story": {
+            "en": "David Miller is a dedicated volunteer with an unwavering passion for environmental protection. He pours his heart and soul into promoting sustainable lifestyles, deeply convinced that conserving precious resources and protecting the natural world are humanity's most crucial responsibilities. He spends his weekends cleaning up parks and educating children about recycling. On the other hand, Sarah Johnson is a highly successful editor at a prominent fashion magazine. Her world is a whirlwind of the latest trends, exclusive parties, and outrageously expensive designer brands. She firmly believes that fashion and personal expression are indispensable and vital components of a fulfilling modern life. This weekend, David, hoping to bridge their disparate worlds, plans to invite Sarah to a special event he thinks might open her eyes.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What type of event does David most likely invite Sarah to?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "International designer fashion show",
+                    "Sustainable fashion exhibition",
+                    "Environmental protection themed seminar",
+                    "Luxury brand launch event"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "8e847da5a52e2a06dccedacaf4f71860"
+    },
+    {
+        "ability": "Desire: Discrepant desires",
+        "task": "Desire",
+        "sub_task": "Discrepant desires",
+        "story": {
+            "en": "Emma is a professional ballet dancer, dedicated to her craft. She trains rigorously and performs with unwavering passion every day, believing that the ethereal beauty of dance and the discipline it demands are the very essence of her life. Her world is one of precision and grace. On the other hand, Alex is a vibrant street graffiti artist. His works explode with color and unrestrained expression, a bold reflection of his belief that art should be liberated and unbound by convention. He sees the world as his canvas, a space for spontaneous creativity. One sunny afternoon, Alex, captivated by Emma's dedication and grace, decides to invite her to an event.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What type of event does Alex most likely invite Emma to?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Ballet performance",
+                    "Street dance flash mob event",
+                    "Exciting modern dance performance",
+                    "Street graffiti event"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "ee796cb60ad35bc5b5bd9c7bd676ba9c"
+    },
+    {
+        "ability": "Desire: Discrepant desires",
+        "task": "Desire",
+        "sub_task": "Discrepant desires",
+        "story": {
+            "en": "David is a huge fan of TV dramas, with a particular fondness for suspenseful crime series. He loves the intricate plots and the thrill of solving mysteries. On the other hand, his roommate Sarah is a devoted follower of reality shows. She enjoys watching various reality competitions and lifestyle programs, finding them more relatable, relaxing, and entertaining. When it comes to choosing what to watch on TV, David usually defers to Sarah. However, tonight, as they both settle into the living room, David announces that he really wants to watch something he's interested in. The problem is, there's only one TV, and they're faced with the dilemma of which type of program to watch. The air is thick with unspoken negotiation as they consider their options.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "That night, what type of TV program are David and Sarah most likely to watch together?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Challenge obstacle course reality show",
+                    "Suspense crime TV drama",
+                    "Exciting knowledge quiz program",
+                    "News report on criminal cases"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "55489143be0ec0dec35cf32203753841"
+    },
+    {
+        "ability": "Desire: Discrepant desires",
+        "task": "Desire",
+        "sub_task": "Discrepant desires",
+        "story": {
+            "en": "Emily is a ten-year-old girl with a bright, imaginative mind. Recently, while window shopping downtown, she spotted a beautiful doll in the toy store window, a porcelain beauty with elaborate clothing and sparkling eyes. It was the toy of her dreams, the kind she had always longed for. Her eyes widened and sparkled with pure joy as she gazed at it, picturing herself playing with it for hours. She desperately wanted to have it. On the other hand, her father, Mr. Smith, is a hardworking, ordinary construction worker. His income is limited and carefully budgeted, barely enough to maintain their basic life and cover essential expenses. Although Mr. Smith always tries his best to satisfy his daughter's wishes and make her happy, he currently cannot afford the significant cost of this particular doll. Emily, in her innocent naivete, doesn't fully grasp the family's financial situation. She simply looks forward to the possibility of owning this wonderful doll, unaware of the challenges her father faces.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Mr. Smith most likely respond to Emily's desire for the doll?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Promises that he will buy it when Emily gets good grades in the future, to comfort her current disappointment",
+                    "Tells Emily that they can hardly afford food at home, and he cannot afford this toy at the moment, suggesting they talk about it later",
+                    "Buys a similar but cheaper toy as a substitute",
+                    "Tells Emily that there are more important things in life than toys"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "0339193ed80a0a824cbf0f57e0a9c44e"
+    },
+    {
+        "ability": "Desire: Discrepant desires",
+        "task": "Desire",
+        "sub_task": "Discrepant desires",
+        "story": {
+            "en": "Emma was thrilled to be starting junior high school. More than anything, she wanted to participate in the summer camp activity organized by the school. It was a whole week of outdoor adventure and team building, held in the picturesque mountains just outside of town. She envisioned herself making new friends around a crackling campfire, learning survival skills, and forging unforgettable memories. She looked forward to this activity, thinking it a fantastic opportunity to broaden her horizons and step outside her comfort zone. However, her father, Mr. Davis, a kind but inherently cautious man, was filled with worry. He envisioned all sorts of potential dangers lurking in the wilderness. He fretted about the safety of outdoor activities, the unpredictable weather, and how his daughter, usually so shy, would interact with strangers in an unfamiliar environment. He understood that this activity held great significance for Emma, a chance for her to grow and become more independent, but his deep-seated anxiety and concern for her safety made him deeply hesitant. Emma, caught up in her own excitement, didn't fully grasp the depth of her father's concerns; she simply harbored a strong longing for the summer camp experience, imagining all the fun she would have.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Facing Emma's strong desire to participate in the summer camp, what attitude does Mr. Davis most likely take?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He hesitates, suggesting Emma waits until next year to consider participating.",
+                    "He lets Emma decide whether to participate, to cultivate her independence.",
+                    "He agrees to let Emma participate, requiring her to video call anytime, anywhere, to report the activity situation.",
+                    "Although he worries, he eventually agrees to let Emma participate, while providing safety guidance."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "ee63d98a9313b2f43aab45f40fb9ed27"
+    },
+    {
+        "ability": "Desire: Multiple desires",
+        "task": "Desire",
+        "sub_task": "Multiple Desires",
+        "story": {
+            "en": "Little Timmy had a massive sweet tooth, especially for chocolate. He was absolutely obsessed! For his birthday, his grandparents sent him a generous amount of pocket money. Timmy immediately hatched a plan: he would march straight down to the corner store and buy the biggest, most delicious chocolate bar he could find. As he skipped happily through the park, his eyes caught sight of a brightly colored playground. A friendly staff member, noticing Timmy's excitement, called out, \"Hey there, young man! If you're willing to use your pocket money to play our game, you might just win a super cool toy!\" Timmy paused, his chocolate dream momentarily forgotten. The allure of a potential super toy was too much to resist. After a moment of internal debate, Timmy decided to take a chance and bravely used his pocket money to participate in the game.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Timmy do after he finishes the game?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Timmy decides not to go to the corner store to buy chocolate.",
+                    "Timmy participates in the playground game again, hoping for another prize.",
+                    "Timmy goes to the corner store to finally buy his chocolate.",
+                    "Timmy goes home and shares his super toy with his family."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "d0151207542a95e7252269577896e165"
+    },
+    {
+        "ability": "Desire: Multiple desires",
+        "task": "Desire",
+        "sub_task": "Multiple Desires",
+        "story": {
+            "en": "Little Alex had been diligently saving his allowance, dreaming of a trip to the city zoo to see the penguins. He imagined their waddling gait and sleek black and white feathers. Clutching his carefully counted coins, he set off. However, his plans took an unexpected turn when he passed a brightly lit toy store. In the window, displayed in all its glory, was an electric racing car model. It was sleek, red, and looked incredibly fast. As he hesitated, the shop owner, a friendly man with a twinkle in his eye, called out, \"That's a beauty, isn't it? And today only, if you buy the racing car, you get a free flashlight!\" Alex's eyes widened. He imagined racing the car around his room, the flashlight illuminating the track. The penguins momentarily faded from his mind. Overcome with excitement, Alex made the impulsive decision to spend his hard-earned money on the electric racing car model and the bonus flashlight.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "After Alex buys the electric racing car model, what does he do?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Alex goes to the zoo to see penguins.",
+                    "Alex no longer goes to the zoo to see penguins.",
+                    "Alex takes the electric racing car model to the zoo.",
+                    "Alex uses the flashlight to go to the zoo to see penguins."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "b63a52ae22321e62d43a3594336ff82b"
+    },
+    {
+        "ability": "Desire: Multiple desires",
+        "task": "Desire",
+        "sub_task": "Multiple Desires",
+        "story": {
+            "en": "Mark had always been deeply passionate about the piano. He dreamed of owning a grand piano, envisioning himself filling his home with beautiful melodies. However, his modest income made this dream seem perpetually out of reach. His girlfriend, Emily, was well aware of his longing. One day, she made him a proposition: she promised to buy him the piano he so desperately wanted, but only if he could lose 20 pounds within the next year. Mark, motivated by the prospect of finally owning his own piano, eagerly accepted the challenge. He knew it wouldn't be easy, but the thought of his fingers dancing across the ivory keys spurred him on. He immediately started researching healthy eating habits and committed to a rigorous exercise routine, determined to reach his goal and claim his prize.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What will Mark do if he reaches his weight loss goal?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He plays his own piano at home.",
+                    "He goes to the gym to continue exercising.",
+                    "He starts to learn a new instrument.",
+                    "He goes on a trip to celebrate his success."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "b820893f57e30764b4b1dd75dc5cd844"
+    },
+    {
+        "ability": "Desire: Multiple desires",
+        "task": "Desire",
+        "sub_task": "Multiple Desires",
+        "story": {
+            "en": "College student Michael and his friends made a pact: to embark on a grand backpacking adventure across Europe during the upcoming winter holiday. They spent weeks excitedly planning their itinerary, dreaming of snow-dusted castles and charming Christmas markets. However, a dark cloud loomed over Michael's excitement – the dreaded final exams. He knew that if he failed even one, his holiday would be consumed by endless hours of studying for a make-up exam. The pressure was immense. Torn between the allure of cobblestone streets and the daunting prospect of academic failure, Michael made a difficult decision. He reluctantly declined the European adventure, choosing instead to spend his days and nights buried in textbooks at the university library, fueled by lukewarm coffee and the determination to pass his exams.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What does Michael do if he does not pass the exam?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Michael goes on a trip to Europe with his friends.",
+                    "Michael throws a party to relax.",
+                    "Michael goes to the school swimming pool for a swim.",
+                    "Michael does not go on a trip to Europe with his friends."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "b1d0d0b9d0ee98231d3821b2665c2a7e"
+    },
+    {
+        "ability": "Desire: Multiple desires",
+        "task": "Desire",
+        "sub_task": "Multiple Desires",
+        "story": {
+            "en": "Sarah, a bright and dedicated programmer, was browsing online one evening when she stumbled upon a sleek, ergonomic keyboard. It had customizable backlighting and silent mechanical keys – everything she could ever want in a keyboard. She immediately added it to her wishlist. Shortly after, at her company's annual holiday party, Sarah was surprised and thrilled to be voted 'Employee of the Year'! Her prize was a complete set of top-of-the-line gaming peripherals: a high-resolution monitor, a comfortable gaming headset, and a responsive gaming mouse. This was a set she had always dreamed of owning. Considering her new gaming setup, Sarah decided to use her monthly allowance to purchase several new games to fully utilize her awesome new equipment. She spent hours researching the best titles and ultimately decided on a few exciting adventures.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "What will Sarah do after receiving the gaming peripherals and having some extra allowance?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah no longer buys that keyboard.",
+                    "Sarah buys more gaming peripherals.",
+                    "Sarah shows her game to her colleagues.",
+                    "Sarah gives up the game and focuses on work."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "d64c119c7e28c466cc8496c656f2021c"
+    },
+    {
+        "ability": "Desire: Desire-action contradiction",
+        "task": "Desire",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "Sarah had been longing to see the latest action movie with her boyfriend, Mark. She'd seen the trailers and was incredibly excited. However, she also felt that movie tickets were quite expensive these days, and she hesitated to spend the money. One afternoon, her friend, Jessica, surprised her with two free tickets. Sarah was thrilled until she realized they were for a horror movie, a genre she secretly disliked. Later that evening, her sister, Emily, casually asked if Sarah wanted to catch a movie together. Sarah, trying to avoid the horror film and not wanting to reveal her free tickets, replied, \"I'm not sure if I have the time, so I probably won't be able to go.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Sarah really wants to watch a movie, why does she say she does not go with her sister?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because she is afraid of the darkness in the cinema.",
+                    "Because she does not want to watch a movie with her sister.",
+                    "Because she is too busy recently and does not want to go.",
+                    "Because she is afraid of the horror scenes in the movie."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "fc1c758eadaa33453769f1c2136766ab"
+    },
+    {
+        "ability": "Desire: Desire-action contradiction",
+        "task": "Desire",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "Emily was known throughout her class as a brilliant student, always striving for excellence and deeply invested in her academic performance. The school announced a notoriously challenging mathematics competition, a contest that Emily secretly yearned to enter, viewing it as the ultimate test of her abilities. One afternoon, her mother, noticing Emily's preoccupied state, gently inquired whether she was interested in participating in the upcoming math competition. To her mother's surprise, and perhaps even her own, Emily replied with a hesitant, \"No, I don't think so.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Emily, although she really wants to participate in the math competition, say she does not want to participate?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because she fears her competition grades will be average and her friends will mock her",
+                    "Because she does not have time to prepare",
+                    "Because her friends do not participate",
+                    "Because she thinks the questions are too simple"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "ae23d0261aafdd1b7fe307d6da90748c"
+    },
+    {
+        "ability": "Desire: Desire-action contradiction",
+        "task": "Desire",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "Mark was a huge fan of a very popular rock band, 'Crimson Tide'. They announced a nationwide tour with concerts in major cities, but the ticket prices were astronomical. Mark, a college student, started saving every penny he could, diligently putting aside money from his part-time job. His goal was to save enough to buy two tickets so he could share the experience with his girlfriend, Sarah. He envisioned them singing along to their favorite songs, creating a lasting memory. One day, his friend, David, excitedly invited him to go to the 'Crimson Tide' concert. To David's surprise, Mark politely declined the offer.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Mark refuse the invitation to the concert from his friend David?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He prefers to watch the concert with his girlfriend, Sarah.",
+                    "The band is too popular, and tickets are impossible to get.",
+                    "He already has other plans that evening.",
+                    "He does not have enough money to buy tickets for himself and David."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "395bb85c47ada51bd2ae1e8e30f8a7ce"
+    },
+    {
+        "ability": "Desire: Desire-action contradiction",
+        "task": "Desire",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "Michael was a passionate football enthusiast, his heart set on becoming a professional player. He spent countless hours honing his skills, regularly playing matches with his school football team. He envisioned a future filled with cheering crowds and thrilling victories. However, reality was pressing down on him. Now in his final year of high school, Michael was facing immense academic pressure. His parents, with the best intentions, constantly reminded him of the importance of excelling in his studies and securing a place in a prestigious university. They believed that a strong academic foundation was the key to a successful future. One afternoon, as the school football team was holding tryouts for new members, Michael's teammates eagerly approached him. They knew his talent and dedication and were excited to have him join them. \"Are you going to try out, Michael?\" they asked, their voices filled with anticipation. Michael hesitated, a conflict raging within him. He looked at his worn-out football boots, then at the textbooks piled high in his bag. With a heavy heart, he replied, \"I won't be participating.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Michael not participate in the football team selection?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He fears that his friends will laugh at him if he does not get selected.",
+                    "He fears rejection because he is not good enough.",
+                    "He is very busy with his studies and cannot participate in the football team training.",
+                    "He does not want to disappoint his parents by prioritizing football over his studies."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "574d2241060f2910415512a70702b911"
+    },
+    {
+        "ability": "Desire: Desire-action contradiction",
+        "task": "Desire",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "Emily's sister, Jessica, recently bought a brand new computer. Jessica is very protective of it, worrying that someone might damage it, so she never allows anyone else to use it. It's her prized possession, and she keeps it meticulously clean and covered when not in use. Today, a highly anticipated new game was released. Emily is very eager to play the game on Jessica's new computer. However, when Emily's friend, Michael, asks him if he's interested in playing the new game, Emily hesitates and then says he isn't.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Emily want to play the new game, but he says he does not?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because he does not want his friends to know he is not good at playing the new game.",
+                    "Because he fears that his sister, Jessica, will get angry if he uses her new computer to play games.",
+                    "Because he actually does not know how to play computer games very well.",
+                    "Because he does not have the time or the necessary equipment to play the new game."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "adbf7510210ca9d82d29238cf9c04440"
+    },
+    {
+        "ability": "Desire: Desire-action contradiction",
+        "task": "Desire",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "John's father, a keen astronomer, gifted him a brand new science book filled with fascinating facts about the cosmos. John, a curious and thoughtful boy, was immediately captivated. He loved listening to his father explain complex scientific concepts, his eyes wide with wonder. However, John was naturally reserved and rarely voiced his own thoughts or opinions, even when he had them. One day, John's teacher, Mrs. Davis, noticed his interest in science and kindly asked him if he would like to participate in the school's science reading club, a small group that met weekly to discuss interesting books and experiments. After a moment's hesitation, John quietly answered, \"I don't want to go.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does he say he doesn't want to participate in the reading club?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He thinks the reading club is not as wonderful as what his father says.",
+                    "He worries that participating in the book discussion is too noisy.",
+                    "He prefers to read alone.",
+                    "He doesn't like to express himself in reading social activities."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "5de5eb963d29b96ac0354dada76fe1e7"
+    }
+]

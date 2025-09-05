@@ -1,0 +1,1091 @@
+[
+    {
+        "id": "7d3295eeb3d1fcb35b2d2cbdccb63e8a",
+        "ability": "Belief: Beliefs based action/emotions",
+        "task": "Explanation of Action",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "Mark Johnson, a driven young entrepreneur, was facing a serious crisis. His startup was struggling financially, and the pressure was mounting. To make matters worse, his main competitor had just announced the imminent release of a groundbreaking new product, threatening to steal away Mark's existing investors. Desperate to maintain confidence and prevent a mass exodus of funds, Mark made a risky decision. He crafted and posted a series of misleading articles on social media, falsely claiming that his company was on the verge of securing a substantial investment from a major venture capital firm. He hoped this fabricated news would buy him time and keep his company afloat.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Mark Johnson release false news?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He wants to attract more potential investors to invest.",
+                    "He wants to attract more investors to be interested in the company's products and services",
+                    "He wants to use false news to cover up the company's financial problems",
+                    "He wants to openly compete with the competitor for investment"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": "401a9023e59e726dd89faf158d5d2da0",
+        "ability": "Belief: Beliefs based action/emotions",
+        "task": "Explanation of Action",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "John and Emily are colleagues working side-by-side on the same team. A coveted promotion opportunity has arisen, and both deeply desire it. John, eager to impress, embellished his past accomplishments during a crucial team meeting, painting a picture of himself as the ideal candidate. Observing this, Emily, with a subtle glint in her eye, openly encouraged John to formally submit his promotion application right then and there. However, unbeknownst to John, Emily was simultaneously and discreetly gathering evidence to expose the exaggerations in John's claims, planning to reveal the truth and undermine his chances.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Emily encourage John to submit a promotion application?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Emily genuinely believes in the contribution John makes to the team.",
+                    "Emily wants to solidify her leadership position within the team.",
+                    "Emily wants to mislead John into believing she supports his promotion, while secretly working against him.",
+                    "Emily hopes the leader will perceive her as supportive and kind to her colleagues."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": "c3282a1afb4d1e441b0fd4592e8f70fe",
+        "ability": "Belief: Beliefs based action/emotions",
+        "task": "Explanation of Action",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "On a sunny Sunday afternoon, a highly anticipated football match is scheduled to take place at the city stadium. Michael, a devoted and somewhat obsessive football fan, is eager to attend. However, his budget is rather tight this month. He devises what he considers a clever plan to circumvent the ticket costs. He observes that stadium staff members are permitted to enter the stadium without presenting tickets. Driven by this observation, Michael decides to disguise himself as a staff member in order to watch the match without paying. Michael ventures to a local clothing store and carefully selects a set of clothes that closely resembles the official staff uniform. To further enhance his disguise, he purchases a hat adorned with the stadium emblem, meticulously attempting to create the convincing illusion of being a legitimate staff member. Upon arriving at the stadium entrance, when the ticket checker politely asks him to present his ticket, Michael confidently replies, \"I am your colleague!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Michael say this when the ticket checker asks him to show his ticket?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because he is a colleague of the ticket checker, allowing him free entry to the stadium.",
+                    "Because he wants to experience the work of the staff and provide services for the match.",
+                    "Because he does not have enough money to buy tickets, so he can only use this plan.",
+                    "Because he disguises himself to deceive the ticket checker to get free admission."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ]
+    },
+    {
+        "id": "65f1c822fc7053bf1101fb68e960771f",
+        "ability": "Belief: Beliefs based action/emotions",
+        "task": "Explanation of Action",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "It was a beautiful, sunny Saturday afternoon, and Michael and his family decided to enjoy a day at the local theme park. This park was known for its enchanting fairy tale theme, complete with animated characters and captivating performances. Costumes of all sorts adorned the visitors and staff alike. As they stepped through the entrance, Michael's eyes were immediately drawn to a knight standing regally in gleaming golden armor. The knight looked incredibly lifelike, as if he had stepped directly from the pages of a storybook. Overcome with excitement, Michael eagerly rushed toward the knight and asked, his voice filled with wonder, \"Are you a real knight?\" The knight smiled warmly and replied in a booming voice, \"Yes, young man, I am a real knight, here to protect everyone in this park and ensure their happiness!\" Michael was thrilled; he couldn't wait to have his picture taken with this magnificent knight. His family joined in the fun, snapping numerous photos to capture the memorable moment.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does the park's 'knight' say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "The 'knight' is a professional actor whose job is to make visitors happy and believe he is a real knight.",
+                    "The 'knight' is actually a historian who shares knowledge about medieval knights here.",
+                    "The 'knight' is a real knight and needs to protect everyone in the park.",
+                    "The real identity of the 'knight' is a security guard who enforces the law in the park and ensures the safety of visitors."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": "fd4088fc0ac463bff456fac126b360f0",
+        "ability": "Belief: Beliefs based action/emotions",
+        "task": "Explanation of Action",
+        "sub_task": "Strange Story Task",
+        "story": {
+            "en": "In a vibrant costume role-playing competition, Emily participates, embodying the persona of an ancient martial arts master. She's adorned in a magnificent warrior costume, meticulously crafted with intricate details, and a helmet sparkling with carefully placed jewels that catch the stage lights. The atmosphere is electric with excitement. During the heat of the competition, as Emily strikes a dramatic pose, a spectator suddenly rushes onto the stage, breaking the established boundaries, and enthusiastically greets Emily: \"Hello, I'm David, who are you?\" Without a moment's hesitation, fully immersed in her character, Emily responds with unwavering conviction: \"I am the martial arts master here.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Why does Emily say this?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "She really thinks she is the ancient martial arts master she plays in the competition.",
+                    "Emily plays a martial arts master, integrating herself with the role she plays to enhance the performance effect.",
+                    "The spectator's greeting is too sudden, causing Emily to be a bit confused when answering.",
+                    "Because Emily wears a gorgeous warrior costume and a helmet inlaid with jewels, she looks like a martial arts master."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": "4db3ad14fb13487533bc5ac5e218aedc",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Little Timmy is five years old and absolutely loves toys, especially cars. One sunny afternoon, while shopping with his parents at the local toy store, his eyes landed on a bright red toy race car. It was sleek and shiny, with realistic details that immediately captured his attention. He really, really wanted it. However, his mother, a practical woman named Sarah, hesitated. She glanced around their already toy-filled house in her mind. \"Timmy,\" she said gently, \"You already have so many toys at home. And this car has a lot of small parts. I'm afraid if you leave them scattered around, it'll make a big mess.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Timmy try to persuade his mother to buy him the toy car?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Mom, I promise to carefully put away each part after playing each time, so it won't make a mess.",
+                    "Mom, we can donate or give away the toys I don't play with anymore to other children, so there won't be too many toys at home.",
+                    "Dad can help clean up the parts, Mom, so you don't have to worry.",
+                    "Mom, I have never seen such a cool toy car before, it's very special, and I really, really like it!"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": "c9e2d89ce90d3a337615535d43b6f23e",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Dr. Robert Smith, a dedicated family doctor in a rural community, was a staunch believer in the power of traditional herbal remedies and holistic approaches. He held the conviction that traditional medicine was the superior method for treating ailments. Meanwhile, Dr. David Miller, a recently arrived urban doctor working alongside Robert, gently sought to broaden his colleague's perspective. David hoped to persuade Robert to acknowledge the significant advantages of integrating modern Western medicine with traditional practices. He understood Robert's deep-seated beliefs and knew he had to approach the situation carefully and respectfully, emphasizing the potential for enhanced patient care through a combined approach.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does David Miller try to convince Robert Smith?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "David can share compelling case studies demonstrating how integrating modern and traditional medicine leads to improved patient outcomes.",
+                    "He could introduce endorsements and advancements in integrated medicine from global organizations like the World Health Organization.",
+                    "David could arrange for renowned experts in integrated medicine to present lectures and share experiences with Robert Smith.",
+                    "David can explain the scientific basis of Western medical treatments and demonstrate through research papers how combining them with traditional medicine can optimize treatment plans."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": "4523260e689518b3423b00334dfeb32a",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Sarah noticed her younger sister, Emily, spending an increasing amount of time chatting with someone she'd met online. Emily seemed captivated by this person, a complete stranger. Concerned for Emily's safety and well-being, Sarah decided she needed to have a serious conversation with her about internet safety. She wanted to gently explain the potential dangers of interacting with unknown individuals online, emphasizing the importance of caution and awareness.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Sarah try to convince Emily to be careful?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "She suggests that she changes her password regularly and maintains privacy settings.",
+                    "She suggests that she discusses this issue with her parents or teachers for guidance.",
+                    "She recommends that she reads some research reports or articles on internet safety to understand real-world examples and potential risks.",
+                    "She reminds her that people on the internet can easily fake their experiences and identities, so she needs to stay alert and skeptical."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ]
+    },
+    {
+        "id": "6f35992c5e4763d7c08fd735f5101c82",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Michael is 6 years old, a bright and energetic boy, and his younger brother, Tom, is 3 years old, still learning about the world. Their mother, Sarah, has a special reading club meeting to attend tonight. It's important to her, but it also means she needs someone reliable to look after Tom for a few hours while she's gone. She turns to Michael, knowing he's capable but also understanding that asking him to watch his brother is a big request.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Sarah convince Michael to take care of Tom?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Sarah promises to take them out for ice cream when she comes home.",
+                    "Sarah says, \"Michael, helping Mom take care of your brother helps you develop your sense of responsibility.\"",
+                    "Sarah says, \"Help Mom this time, and whatever help you need next time, Mom definitely supports you.\"",
+                    "Sarah says, \"When you take care of your brother, if you encounter any problems, you can call me at any time, and I'll guide you.\""
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": "bce77faf5a16b8a37661550d75445683",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Mr. Smith, the manager, overheard that his subordinate, John, was contemplating resigning and accepting a position with a rival company. Concerned about the potential disclosure of the company's confidential business information, Mr. Smith decided to have a conversation with John, hoping to convince him to stay. He carefully considered how to best appeal to John's desires and motivations.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Mr. Smith try to persuade John to remain at the company?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John, we've worked together for so many years, and I genuinely enjoy having you on the team. Would you consider staying a bit longer?",
+                    "John, consider that the challenges and opportunities are similar with our competitors. You're better off staying where you're already established.",
+                    "John, have you been feeling overwhelmed with work lately? I'll ask David to take on some of your responsibilities. How about you stay and see how that works?",
+                    "John, I've noticed your recent hard work and dedication. I'll speak with the board about giving you a raise. What do you think about that?"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ]
+    },
+    {
+        "id": "623c7dd91e4a27157d366ad2c3e71b1c",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Old Mr. Thompson was eager to return to his small hometown, a place he hadn't seen in many years, to visit his childhood friends. His granddaughter, Emily, knew the journey could be quite perilous, involving long bus rides and potentially unsafe areas. She was deeply concerned for his well-being. Emily gently tried to persuade him to postpone his trip until she could accompany him, highlighting the potential dangers and offering her assistance. However, Mr. Thompson, stubborn as ever, insisted on embarking on the journey alone, eager to reconnect with his past.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Emily try to convince her grandfather?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Grandpa, I worry about your safety. If I can accompany you, I'll feel much more at ease knowing you're safe.",
+                    "If you're absolutely determined to go alone, could you at least share your travel plans with me? It would ease my mind to know the details.",
+                    "Grandpa, do you remember all the wonderful trips we've taken together? I'd love to join you this time and make more memories.",
+                    "I've always wanted to hear the stories about you and your old friends. If we went together, you could tell me all about them along the way."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": "6c89e88d7e26f6a801d3918bb2e1c043",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Eight-year-old Alex was nestled on the couch next to his grandfather, the afternoon sun streaming through the living room window. Alex loved cartoons more than anything. However, today, the television was tuned to his grandfather's favorite Peking Opera performance. The elaborate costumes and high-pitched singing didn't hold Alex's attention at all; he yearned for the vibrant colors and silly antics of his favorite cartoon characters. He fidgeted, trying to figure out how to convince his grandfather to change the channel without upsetting him.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Alex try to persuade his grandfather?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Grandpa, I know you like Peking Opera, but I also hope you understand my interest. If you think cartoons are not good, we can switch back later.",
+                    "Grandpa, I really like this cartoon, I want to watch it now. Can you watch it with me, just for a little while?",
+                    "Grandpa, we can watch cartoons while eating snacks, that would be more fun!",
+                    "Grandpa, I've seen some traditional cultural elements in this cartoon before, maybe you'd find it interesting."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": "fa75473d3a30af8de15f6479fb127d85",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Sarah, a young woman with a carefully curated wardrobe, discovered a recurring issue with her younger sister, Emily. Emily had a habit of borrowing Sarah's clothes without asking, often leaving them crumpled on the floor or stained with who-knows-what. Sarah, though loving, was growing increasingly frustrated. She valued her clothes and the effort she put into maintaining them. She decided she needed to talk to Emily and gently persuade her to stop borrowing her things without permission.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Sarah convince Emily?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "We can buy clothes together, so everyone has their own clothes to wear.",
+                    "Emily, do you think your clothes are not good-looking?",
+                    "Emily, we can set a clothes exchange day once a week, that day you can choose the clothes you want to wear.",
+                    "If you want to wear my clothes, you can ask me first, I definitely agree."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ]
+    },
+    {
+        "id": "d4d6b0a38bdc5e81ba30c92342754f9a",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Older brother Michael discovered that his younger brother, David, had become deeply enamored with street graffiti. He noticed David sketching designs constantly and sneaking out at night. Knowing that they lived in a rather strict and conservative city with ordinances against public defacement, Michael realized David's passion could potentially lead to trouble with the authorities and a lot of unnecessary stress for their parents. He worried about David's future and wanted to help him channel his artistic energy in a more constructive and acceptable way.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Michael try to persuade David to pursue his art in a more acceptable way?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Michael shows David the works of some famous and respected graffiti artists and explains how they express themselves responsibly and legally.",
+                    "Michael recommends books about graffiti culture and its history to David, hoping to give him a deeper understanding of the art form.",
+                    "Michael finds research reports about the negative impact of graffiti on city aesthetics and public perception for David, hoping he will reconsider his actions.",
+                    "Michael encourages David to join the school's art club or other art-related organizations, suggesting he showcase his talent in more formal and sanctioned venues."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ]
+    },
+    {
+        "id": "7e197c1b0c427570f7f09aaa5312e95d",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Emily lives in a quiet, small town, and she's just finished her college entrance exam this year. She dreams of going to a bustling city far away to study computer science. It's a passion that truly ignites her imagination, and she spends hours coding and exploring new technologies in her spare time. However, her parents have a different vision for her future. They strongly believe she should stay local and study nursing. They envision her working at the local hospital, close to home and family.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Emily convince her parents to let her study computer science?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "She promises to maintain excellent grades and assures them that she will take any major she chooses seriously and dedicate herself to her studies.",
+                    "Emily suggests trying computer science for a semester or a year, with the agreement that if she doesn't enjoy it or struggles, she'll switch to medicine.",
+                    "Emily prepares a detailed research paper on the job market and future prospects for computer science graduates to show her parents the potential of the field.",
+                    "Emily expresses her deep love for computers and explains how she believes this field will allow her to fully realize her potential and make a meaningful contribution."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ]
+    },
+    {
+        "id": "e0518263c99eec430da75969af7322d9",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "John, a seasoned shop owner in the bustling city center, yearned for a peaceful retirement in the countryside. He decided to sell his beloved shop to Michael. John's shop, a quaint little bookstore, held a prime location but required a significant investment. He knew simply stating his desire wouldn't be enough to persuade Michael.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does John convince Michael to buy the bookstore?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He captivates Michael with heartwarming stories connected to the bookstore, hoping to ignite a shared passion and a desire to own it.",
+                    "He meticulously presents the shop's detailed financial records, showcasing its consistent high turnover and impressive profit margins, proving its excellent investment potential.",
+                    "He paints a vivid picture of the idyllic countryside lifestyle, subtly suggesting Michael should retire there as well, attempting to persuade him through shared aspirations.",
+                    "He proposes a joint investment, offering a partnership to share both the risks and rewards of the business."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": "4d496c63ad294530b864c0d036b4a022",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "David was determined to convince his manager to allow him to transfer to a branch closer to his home. His current commute was a grueling two hours each way, leaving him exhausted and impacting his work-life balance. He knew he needed a persuasive strategy to make his case effectively. He spent days brainstorming and considering the manager's perspective.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does David persuade the manager?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He proves to the manager that he has strong self-management skills, and he works efficiently even in a new environment.",
+                    "He suggests first trying out at the closer branch for a while to prove that work efficiency and results do not suffer.",
+                    "He proposes to start with flexible working hours, gradually transitioning to working completely at the closer branch.",
+                    "David can mention the positive impact of reducing commuting on environmental protection as an additional consideration."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": "97a327fd75aac6abe86b1b079c83862b",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Sarah and David are roommates sharing a cozy apartment near campus. Sarah, a vibrant and energetic student, often stays up late engrossed in online games, the glow of the screen illuminating her face in the darkened room. David, a more health-conscious individual, diligently adheres to a consistent sleep schedule, valuing his rest and well-being. He's grown increasingly concerned about Sarah's late-night gaming habits and hopes to persuade her to prioritize her health and reduce her screen time. He wants to find a way to communicate his concerns effectively without sounding preachy or overbearing.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does David attempt to persuade Sarah to change her gaming habits?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "David can suggest Sarah try incorporating short rest periods into her gaming sessions and gradually establish a more regular sleep schedule.",
+                    "David can directly express his concern for Sarah's health and gently suggest she reduce her late-night gaming to prioritize sleep.",
+                    "David could invite Sarah to participate in relaxing activities with him, such as yoga, meditation, or a calming walk in the park.",
+                    "David can consistently maintain his own healthy sleep schedule, hoping to serve as a positive role model for Sarah."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": "3e5efa71ab4ddd9a8a235fcb25f74bcc",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "The manager, Michael Thompson, had been observing a pattern with increasing concern. A new employee, David Miller, was consistently arriving late for his shift at the bustling downtown store. This lateness disrupted the morning routine and created a negative impression. Michael, known for his calm and understanding approach, decided it was time to address the issue directly. He called David into his office, offering him a seat and a friendly smile. Michael wanted to understand the reasons behind the tardiness and gently encourage David to improve his time management.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Michael Thompson persuade David Miller to improve his punctuality?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "If necessary, we can provide time management training to help you improve your timekeeping.",
+                    "I believe you are a responsible person, David, and I hope you will pay closer attention to being on time for your shift.",
+                    "David, if you are finding the job difficult or uncomfortable, I can explore other roles within the company for you.",
+                    "Time management not only concerns work, it also affects our overall life perspective and personal values."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": "96ca11d028ea1a17673cde72dd3c9446",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Emily, a bright-eyed high school graduate, harbored a burning desire to study abroad in the United Kingdom.  She envisioned herself attending a prestigious university, soaking in the rich culture, and expanding her horizons.  However, her parents, hard-working wage earners, were understandably concerned about the financial implications. Emily knew she needed to present a compelling case. She spent weeks researching universities, scholarships, and living expenses. She also considered potential part-time jobs she could take to contribute financially. She knew that simply expressing her desire wasn't enough; she needed to demonstrate responsibility and a clear understanding of the challenges involved.  She prepared meticulously for a family meeting, hoping to persuade her parents to support her ambitious dream.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Emily convince her parents?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "She prepares a detailed budget plan, explains the overall cost of studying abroad, and discusses possible ways to alleviate the financial burden.",
+                    "She invites teachers, career advisors, or other parents to communicate with her parents, providing more support and insights.",
+                    "She maintains a positive and optimistic attitude, shows her independence and maturity, and helps her parents trust her judgment more.",
+                    "She sets specific application timelines and goals, letting her parents see Emily's determination and organizational skills."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": "279dcb75d653c3ca1ae70b64bec9c451",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "John and David are teammates on the school's track and field team. John, always eager to improve, has been researching a new, somewhat unconventional training method he believes will significantly boost their performance. However, David is skeptical, worried that the intense drills might lead to injuries and long-term health problems. John, determined to convince his friend, decides to persuade David to give the new method a try, at least once, emphasizing the potential benefits and addressing David's concerns.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does John persuade David?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "We can meticulously record the effects of each training session, providing concrete data to determine if this method truly works and is beneficial.",
+                    "I've dedicated a lot of time to researching this method, and I've found that many top athletes are using it with great success, achieving incredible results.",
+                    "I'm also thinking about the team as a whole. I truly believe this could help us reach a higher level of competition and achieve our collective goals.",
+                    "Just try this method once. If you get hurt, I'll personally take you to the doctor and cover all the expenses. Nothing bad will happen, I promise."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": "09d74d8a1ada299ebad3cad7caa4b1ad",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "John worked as a data analyst at a bustling tech company. His cubicle was unfortunately located right under a perpetually blasting air conditioning vent, making it uncomfortably cold throughout the day. He noticed that his colleague, Michael, had a particularly cozy and well-lit workspace, far from any vents and bathed in warm sunlight. John deeply desired to switch places with Michael to escape the constant chill.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does John persuade Michael to switch seats with him?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "John can say: \"Michael, my seat is way too cold, can we switch seats? I'll help you with some of your workload, how about it?\"",
+                    "John can first ask their manager, and then say to Michael: \"Michael, the manager wants me to switch places with you.\"",
+                    "John can suggest: \"We can try switching for a day or two, if you feel uncomfortable, we can switch back.\"",
+                    "John can sincerely say: \"Michael, I'm really freezing here, can you please help me out? I really need it.\""
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": "a67806a194a68f1de7356b04c32e9d01",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "John Smith is a talented engineer, but his heart truly belongs to the world of photography. He yearns to convince his wife, Mary, to support his decision to leave his stable engineering job and pursue his passion. Mary, however, is deeply concerned about the family's financial security and the unpredictable nature of a career in the arts. She values stability and worries about how they will manage their expenses if John abandons his secure position. John understands her concerns but feels stifled by his current profession and dreams of capturing the world through his lens.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does John Smith try to convince his wife, Mary?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He can consider transitioning gradually, such as working as an engineer while being a part-time photographer, gradually expanding his photography business.",
+                    "He involves his wife in the decision-making process, making her feel she is a part of this decision.",
+                    "John Smith shows his serious attitude towards this decision by sharing his passion for photography and outlining his future plans.",
+                    "John Smith takes professional photography training or seeks further education to improve his skills and market competitiveness."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": "f85cf15b1184dee8a2957be0c53dc8e2",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "David found himself on the cusp of a significant opportunity at his company – a large, impactful project that could greatly advance his career. However, securing this project hinged on gaining the support of his direct supervisor, Manager Johnson. David knew he had to be strategic in his approach to win him over.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does David persuade Manager Johnson to support his project?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "He presents Manager Johnson with a meticulously crafted and comprehensive project plan, articulating the objectives, anticipated advantages, and step-by-step execution strategy with clarity and precision.",
+                    "David could invite Manager Johnson to actively participate in specific phases of the project, allowing him to experience firsthand the inherent value and potential impact of the endeavor.",
+                    "He earns Manager Johnson's confidence through effective communication and persuasive capabilities, building a strong rapport and demonstrating his competence.",
+                    "He inspires and convinces Manager Johnson to endorse the project by demonstrating genuine enthusiasm and unwavering dedication, conveying his deep belief in its success."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": "726f5b0922a62df3c90402cdba35efbb",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "John and David are college roommates, sharing a small but cozy dorm room. Today was finally the weekend, a much-needed break from their demanding studies. They were both eager to relax, but couldn't decide how to spend their precious free time. John, his eyes gleaming with excitement, suggested a trip to the local amusement park, a place he'd been wanting to visit for weeks. He envisioned thrilling rides and sugary treats. However, David, a more pragmatic individual, expressed his concerns about the potential crowds, picturing long lines and a generally overwhelming experience.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does John convince David to go to the amusement park?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "We can head over early, and if it's too crowded for our liking, we can always find something else to do instead.",
+                    "David, a big crowd means a lively atmosphere! Even if we have to queue, we can chat and play games on our phones while we wait – it won't be boring at all.",
+                    "Remember that new roller coaster we wanted to try last time, but we didn't have the time? This is our chance! If we miss it now, who knows when we'll get another opportunity?",
+                    "I've heard the snacks at the amusement park are amazing! Even if there are a lot of people, we can always grab some delicious food."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": "397d7b3062f1557a999d52a96ab908ae",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Lily is a 5-year-old child, and Tom is 10 years old; he's her older brother. Lily desperately wanted ice cream on this sunny afternoon. Tom, however, was concerned that she would make a sticky mess all over herself and the house with the melting ice cream. Instead of directly scolding her, Tom said gently, \"Eating too much ice cream isn't good for you, Lily. It can make your tummy ache!\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Lily try to convince Tom to buy her ice cream?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "If I don't have ice cream, I'll get sick!",
+                    "Brother Tom, I'll eat it carefully, I promise not to make a mess.",
+                    "I've been doing so many good things lately, can you consider this a reward?",
+                    "Brother Tom, can I just have a little bit? Just a tiny bit, please, Tom~"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ]
+    },
+    {
+        "id": "a6cbf2e81c23ee2efdd73446d585f89b",
+        "ability": "Desire: Desires influence on actions",
+        "task": "Explanation of Action",
+        "sub_task": "Persuasion Story Task",
+        "story": {
+            "en": "Emily's small bookstore is on the verge of closing down due to increasing competition from larger chains and online retailers. She's deeply worried about her future. She is aware that a successful merchant, John, who owns a popular cafe across the street, has been looking to expand his business ventures. Emily, feeling desperate, devises a plan to convince John to buy her struggling bookstore, even if it means selling it at a lower price than she initially hoped for. She spends hours brainstorming how to present the bookstore as a worthwhile investment despite its current difficulties.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "How does Emily convince John to buy her bookstore?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Emily can promise not to open any competing businesses in the area for a specified period, ensuring John's investment is protected.",
+                    "Emily can offer a period of free consulting and business coaching to John, helping him to smoothly transition the bookstore into his portfolio.",
+                    "Emily can present John with the detailed turnover and customer traffic data of her bookstore, highlighting its potential value and demonstrating a customer base.",
+                    "Emily can provide John with innovative suggestions for store renovation and upgrades, showcasing the untapped possibilities and future potential of the bookstore."
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": "94c6587e7599ca9edd464026b5a4f5da",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Ali and Reza are wandering in the storage room. They see a suitcase and a briefcase, and they find beets in the suitcase. Reza leaves the storage room. While he is away, Ali moves the beets to the briefcase. Later, Reza returns."
+        },
+        "question": {
+            "en": "Reza goes to look in the suitcase. Why does he look there?"
+        },
+        "options": {
+            "en": [
+                "The beets are now in the briefcase.",
+                "He thought the beets were still in the suitcase.",
+                "He saw Ali carry something.",
+                "The suitcase is red and he likes red."
+            ]
+        },
+        "answer": "B"
+    },
+    {
+        "id": "614993ee5f30d731e4b0f96cb7c987fb",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Sara and Niloofar stroll around the clock tower. They see drawers and cabinets and find pepper in the drawer. Niloofar leaves the clock tower. While she is gone, Sara moves the pepper to the cabinet. When Niloofar returns, she walks up to the drawer and opens it."
+        },
+        "question": {
+            "en": "Why did Niloofar look in the drawer?"
+        },
+        "options": {
+            "en": [
+                "She wanted to hide something",
+                "She likes drawers",
+                "She thought the pepper was there",
+                "She followed Sara"
+            ]
+        },
+        "answer": "C"
+    },
+    {
+        "id": "32ea7f8f51ee3fffd6de49530a7e505e",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Xiao Hong and Youyou stroll around the clock tower, they see drawers and cabinets, they find pepper in the drawer. Youyou leaves the clock tower. Xiao Hong moves the pepper to the cabinet. Later, Youyou returns and opens the drawer.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why did Youyou open the drawer?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "She thought the pepper was still in the drawer",
+                "She wanted to clean the drawer",
+                "She saw Xiao Hong move the pepper",
+                "She wanted to hide something"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "8376863ab4291e2ef1377b33987893c7",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Emma and Liam are walking on the terrace of Emma’s grandmother’s house. The sun is setting, casting orange light across the old stone walls. There’s a locked safe next to a dusty backpack near the railing. A cat suddenly runs past them, causing Emma to jump.\nThey open the safe and discover a strange mask inside — it looks old, maybe even antique. Emma says it reminds her of a story her grandmother once told. Just then, Liam gets a call from his sister and walks downstairs to answer it, saying he’ll be right back.\nWhile he is gone, Emma quietly picks up the mask and places it in the backpack. She looks around nervously and zips it shut. The cat returns, meowing loudly.\nA few minutes later, Liam comes back, laughing about something his sister said. He doesn’t say anything about the backpack. He walks over to the safe and looks inside.",
+            "fa": ""
+        },
+        "question": {
+            "en": "When Liam comes back and goes to the safe, why does he do that?"
+        },
+        "options": {
+            "en": [
+                "Because Emma looked nervous and he wanted to check what she was hiding.",
+                "Because he assumed the mask was still inside the safe.",
+                "Because he remembered Emma’s story and it made him uneasy.",
+                "Because the cat distracted Emma and he thought she forgot to put it back."
+            ]
+        },
+        "answer": "B"
+    },
+    {
+        "id": "44c4b63df711eaaff81ba97fb2924413",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "It was almost recess, and the students in Ms. Rezaei’s class were putting away their books and tidying their desks. Maryam suddenly remembered that her mother had packed two fresh apples into her handbag for a snack. She turned to Neda, who was sitting next to her, and said, \"Let’s go to the cafeteria and eat the apples my mother packed for us.\" Just then, Mobina came rushing into the classroom, slightly out of breath. \"Maryam, the principal is calling you. She needs you in her office right away,\" she said urgently. Maryam hurriedly exited the classroom with Mobina. Neda noticed Maryam’s handbag still sitting on the desk. Concerned that the apples might get crushed by heavy books, she took the apples out of Maryam’s handbag and placed them inside her own shelf. About ten minutes later, Maryam and Mobina came back from the principal's office, talking to each other. Maryam saw that Neda was still waiting for her in the classroom. She smiled at Neda, went straight to her handbag, opened it, and started looking inside for the apples."
+        },
+        "question": {
+            "en": "Why did Maryam look in her handbag for the apples?"
+        },
+        "options": {
+            "en": [
+                "Because Mobina told her to go to the principal’s office and she came back afterward.",
+                "Because she was confused that Neda didn’t give the apples back.",
+                "Because the apples weren’t where Neda had moved them, so she checked her bag.",
+                "Because she thought the apples were still in her handbag."
+            ]
+        },
+        "answer": "D"
+    },
+    {
+        "id": "eef085d7ebe2ae0e27bf3a936a5e33ca",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Maya and Lena are wandering in the parking lot. They see a green cardboard box sitting near the front bumper of a blue car, and a woven wicker basket tucked behind a row of shopping carts. Inside the green box, several bananas are lying on a crumpled newspaper. The wicker basket is half-hidden by a small stack of empty crates, but you can just glimpse a banana peel sticking out. Lena picks up one banana and starts peeling it. She notices how fresh the bananas look in the box and says, “This box is perfect,” before she walks off to find some water. While Lena is gone, Maya moves all of the remaining bananas (and even that banana peel) from the green box into the wicker basket behind the carts. Then Maya walks away. A moment later, Lena returns."
+        },
+        "question": {
+            "en": "When Lena comes back, she looks in the green box for bananas. Why did she look there?"
+        },
+        "options": {
+            "en": [
+                "Because the wicker basket was partly hidden behind crates, and she forgot they were moved.",
+                "Because she saw a banana peel sticking out of the basket and assumed all the bananas must be there.",
+                "Because she knows Maya often returns bananas to where they belong (the box).",
+                "Because she saw the bananas in the green box before she left."
+            ]
+        },
+        "answer": "D"
+    },
+    {
+        "id": "ecc409a872921e7c66aaa5f02551aa29",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Ali and Mohammad are wandering in the hall. They see a handbag and a box, and they find a sponge in the handbag. Mohammad then leaves the hall. While Mohammad is away, Ali moves the sponge to the box. When Mohammad returns, he goes to the handbag and opens it.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why did Mohammad open the handbag?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Because he thinks the sponge is still in the handbag",
+                "Because the handbag is where he last saw the sponge",
+                "Because the sponge is really in the box and he wants to get it back",
+                "Because Ali told him to open it"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "9b2c4cd3777e02f670eff6f815dff757",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Javad and Reza stroll around the factory. They see backpacks and safes. They find raincoats in the backpack. Reza leaves the factory. Javad moves the raincoat to the safe. When Reza returns, he goes to the backpack to find the raincoat.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why did Reza look in the backpack?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Because he forgot where the raincoat was.",
+                "Because he always checks the backpack first.",
+                "Because he thinks the raincoat is in the backpack.",
+                "Because he wants to play a trick on Javad."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "fe1f2e802e28e0208c2f03c64f6cb786",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Reza, Sara, Elham, Niloofar and Kian entered the kitchen.\nThe sweet potato is in the red container.\nSara saw a mouse.\nReza made no movements and stayed in the kitchen for 1 minute.\nReza exited the kitchen.\nSara moved the sweet potato to the blue cupboard.\nSara exited the kitchen.\nElham made no movements and stayed in the kitchen for 1 minute.\nElham exited the kitchen.\nNiloofar moved the sweet potato to the green drawer.\nNiloofar exited the kitchen.\nKian moved the sweet potato to the red container.\nKian exited the kitchen.\nLater, Reza returned to the kitchen and opened the blue cupboard."
+        },
+        "question": {
+            "en": "Why did Reza look in the blue cupboard?"
+        },
+        "options": {
+            "en": [
+                "Because he knew Niloofar moved the sweet potato to the green drawer",
+                "Because he thought the sweet potato was still in the blue cupboard",
+                "Because Elham told him the sweet potato was in the green drawer",
+                "Because he saw Kian move the sweet potato to the red container"
+            ]
+        },
+        "answer": "B"
+    },
+    {
+        "id": "77b8c31cc0ccb2c06097cd847ce1a32e",
+        "ability": "Belief: Explanation of action based on false belief",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Benjamin, Mahdi, Elizabeth, Alexander and Amir cautiously entered the old, dusty workshop. Inside, they noticed that the grapes were initially stored in the blue pantry. Benjamin, with a sly glance around, carefully moved the grapes from the pantry to a sturdy blue suitcase. He then quickly exited the workshop. Mahdi, seemingly uninterested in the grapes, made no movements and stayed in the workshop for a full minute, observing the surroundings. Mahdi then exited the workshop. Alexander, preoccupied, realized he had lost his gloves. Elizabeth, like Mahdi, made no movements and remained in the workshop for one minute before exiting. Benjamin, outside, discovered he had lost his phone. Alexander, after searching for his gloves, moved the grapes from the blue suitcase to a bright red crate. He then left the workshop. Amir, with a determined look, moved the grapes from the red crate back to their original location in the blue pantry. Amir then exited the workshop. Later, Benjamin re-entered the workshop."
+        },
+        "question": {
+            "en": "Why did Benjamin go to the blue suitcase?"
+        },
+        "options": {
+            "en": [
+                "He saw someone move the grapes there.",
+                "He thought the suitcase was the safest place for the grapes.",
+                "He was going to check if the grapes were still there.",
+                "He assumed no one had moved the grapes."
+            ]
+        },
+        "answer": "D"
+    },
+    {
+        "id": "8972da8e1afcfc8ec48cdd56c1a4ec71-expl",
+        "ability": "Belief: Explanation of Action",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Sara and Reza are strolling on the balcony. They see a handbag and a basket, and they find socks in the handbag. Reza leaves the balcony. Sara moves the socks to the basket. Later, Reza returns to the balcony and looks in the handbag for the socks.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Reza look in the handbag for the socks?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Because Reza saw Sara move the socks.",
+                "Because Reza thinks the socks are still in the handbag.",
+                "Because Reza wants to check the handbag first.",
+                "Because Reza is playing a game."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "eaba9ef111bf95e5e725a5556ac31091-expl",
+        "ability": "Belief: Explanation of action based on false beliefs",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Roxana and Behram are wandering in the library. They see a briefcase and a cabinet, and they find a cup in the briefcase. Behram then leaves the library. While Behram is gone, Roxana moves the cup to the cabinet. Later, Behram returns to the library and looks in the briefcase for the cup.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why did Behram look in the briefcase for the cup?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Because Roxana told him to",
+                "Because he likes the briefcase",
+                "Because he thought the cup was still in the briefcase",
+                "Because he saw the cup in the cabinet"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "b030f3d7ebaaaf657c11543b60cf42aa-expl",
+        "ability": "Belief: Explanation of Action",
+        "task": "Explanation of Action",
+        "story": {
+            "en": "Arman, Ladan, and Ali are visiting Arman's grandfather's farm. They notice a blue backpack next to a red cabinet. Inside the backpack they find a marker. Ladan then walks to the farmhouse to fetch water. While she is away, Arman quietly moves the marker from the backpack to the cabinet. A few minutes later, Ali (who knows Ladan likes tidy rooms) moves the marker again, from the cabinet to a green toolbox and closes the lid. Arman sees Ali do this. When Ladan returns, Ali casually points toward the toolbox, but she walks straight to the backpack and opens it first.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why did Ladan choose to look in the backpack instead of the toolbox when she came back?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Because she still believed the marker was where she last saw it",
+                "Because she thought Ali wanted to trick her",
+                "Because Arman told her the toolbox was locked",
+                "Because she needed another item from the backpack first"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    }
+]

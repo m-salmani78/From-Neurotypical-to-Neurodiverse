@@ -1,0 +1,962 @@
+[
+    {
+        "id": "2a6d249b11b26f040307ae07541970f7",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John was exploring the house when he came across a handbag in the master bedroom. The label attached to the handbag clearly read 'Cabbage'. John, curious but unable to see through the bag, carefully opened it. To his surprise, inside wasn't a leafy green vegetable, but a stylish hat. Disappointed that there was no cabbage, John closed the handbag gently and placed it back exactly where he found it. Shortly after, Robert walked into the bedroom and noticed the handbag sitting there.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Robert opens the handbag, what does John expect him to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Plate ruler",
+                "Cabbage",
+                "Compass",
+                "Hat"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "46166b67fb23e21f5d1d53628d650d59",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "David was exploring his parents' bedroom when he stumbled upon a brightly colored handbag. A label was carefully attached to the outside, and it read 'Cabbage'. David, curious, couldn't resist peeking inside. He couldn't see through the material, so he opened the handbag and discovered, to his surprise, a stylish hat nestled inside. There wasn't a single cabbage to be found. David carefully closed the handbag and placed it back exactly where he had found it. A few moments later, his friend Michael walked into the bedroom and noticed the handbag.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael opens the handbag, what does Michael expect to find in the handbag?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Cabbage",
+                "Hat",
+                "Sweatshirt",
+                "Ring"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "b51659f175c606c2853e5f5f14535c34",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John was walking through the living room when he spotted a backpack sitting near the sofa. Attached to the backpack was a tag, and upon closer inspection, John noticed the tag indicated there was a sweatshirt inside. John couldn't see through the material of the backpack to confirm its contents. Curious, John unzipped the backpack and peered inside. To his surprise, he found a light bulb nestled inside, not a sweatshirt as the tag suggested. Disappointed but not entirely surprised, John zipped the backpack closed and carefully placed it back where he had found it. Moments later, Mary entered the living room and noticed the backpack.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the backpack, what does John expect her to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Light bulb",
+                "Sweatshirt",
+                "Cabbage",
+                "Corn"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "e7d07156c1536b1acb9eef2e7084b328",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John was walking through the living room when he spotted a backpack lying on the floor. Attached to the backpack was a tag, and written on the tag was the word 'Sweatshirt'. John couldn't see what was inside the backpack without opening it. Curious, John unzipped the backpack and peered inside. To his surprise, he found a light bulb nestled inside, not a sweatshirt as the tag suggested. Disappointed but not deterred, he zipped the backpack closed and placed it back where he had found it. A few moments later, Mary entered the living room and noticed the backpack.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the backpack, what does Mary expect to find inside the backpack?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sweatshirt",
+                "Light bulb",
+                "Sweater",
+                "Mask"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "a183419c921889420ea830021b680878",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily was exploring the dusty basement when she stumbled upon an old cardboard box. The label on the box clearly read 'Hat' in bold letters. Emily, curious about its contents but unable to see inside without opening it, carefully peeled back the flaps. To her surprise, instead of a hat, she found a delicate porcelain cup nestled inside. There was no hat to be seen. Slightly disappointed, Emily closed the box, taped it back up, and placed it back exactly where she found it. Shortly after, John cautiously entered the basement and noticed the same box sitting on the shelf.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the box, what does Emily expect to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Potato",
+                "Hat",
+                "Cup",
+                "Mask"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "f4dc63483ef1445758bfab9f29035561",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily was exploring her old house when she ventured into the dimly lit basement. There, she discovered a dusty cardboard box. The label on the box clearly read 'Hat'. Emily, curious about its contents but unable to see inside without opening it, carefully peeled back the flaps. To her surprise, instead of a hat, she found a delicate porcelain cup nestled inside. There was no hat to be seen. Disappointed but not deterred, Emily closed the box, secured the flaps, and placed it back in its original spot. A few minutes later, John entered the basement and noticed the box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the box, what does John expect to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Button",
+                "Hat",
+                "Scarf",
+                "Cup"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "640ba691675fbedb6730e74346e997c2",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Sarah was in the kitchen one sunny afternoon when she spotted a small, worn briefcase. A faded label on the briefcase clearly read 'Banana'. Sarah, curious, hadn't a clue what might actually be inside, as the briefcase was firmly shut. She carefully opened it and, to her surprise, found a bright red apple nestled inside. There was no banana to be seen anywhere. Sarah, a little puzzled, closed the briefcase gently and placed it back exactly where she'd found it. A few minutes later, John walked into the kitchen and noticed the same briefcase sitting on the counter.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the briefcase, what does Sarah expect him to find inside the briefcase?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Cabbage",
+                "Pineapple",
+                "Apple",
+                "Banana"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "27a0a43def25aeed69dbab5614e341ec",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily discovered a worn, leather briefcase sitting on the kitchen counter. A faded label on the briefcase read 'Banana'. Emily, curious, hadn't a clue what was inside, so she carefully opened the clasps. To her surprise, instead of the expected fruit, she found a bright red apple nestled inside. There was no banana to be seen. Emily, a little puzzled, closed the briefcase and placed it back exactly where she found it. Moments later, David walked into the kitchen and noticed the briefcase.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After David opens the briefcase, what does David expect to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Banana",
+                "Cabbage",
+                "Apple",
+                "Tomato"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "47a545d1f3fb3d25f171b3fed5424e57",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "David was exploring the dusty attic when he stumbled upon an old wooden cabinet. A faded label on the cabinet read 'Vest'. David, curious about its contents but unable to see inside without opening it, carefully opened the cabinet door. To his surprise, instead of a vest, he found a head of cabbage nestled inside. Disappointed but intrigued, David closed the cabinet, gently pushed it back into its original spot, and left the attic. Shortly after, Emily entered the attic, unaware of David's discovery and the cabinet's true contents.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily opens the cabinet, what does David expect her to find inside the cabinet?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Vest",
+                "Cabbage",
+                "Fingerless gloves woolen sweater",
+                "Sweater"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "557ab726e574fbb9ccd30273dada9dea",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Michael was exploring his old house when he stumbled upon a dusty, forgotten cabinet in the attic. A faded label on the cabinet read 'Vest'. Michael, curious, couldn't see inside without opening it. He carefully opened the cabinet doors, revealing a pile of green cabbage. To his surprise, there was no vest to be found. Disappointed but intrigued, Michael closed the cabinet and gently pushed it back into its original spot. Later, Sarah wandered into the dimly lit attic and noticed the same cabinet.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Sarah opens the cabinet, what does Sarah expect to find in the cabinet?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Pepper powder",
+                "Cabbage",
+                "Spoon",
+                "Vest"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "82d2d69867c39927e6c1974964acfe14",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Sarah was playing in her sunny garden one afternoon when she stumbled upon a bright red backpack tucked near the rose bushes. A small, slightly faded label on the backpack clearly read 'Tomato'. Sarah, curious but respectful, couldn't peek inside without opening it. Carefully, she unzipped the backpack and, to her surprise, found a single, gleaming light bulb nestled inside. There wasn't a single tomato to be seen. With a slight frown of confusion, Sarah zipped the backpack back up and placed it exactly where she'd found it. A few minutes later, John walked into the garden, whistling a cheerful tune, and noticed the backpack.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the backpack, what does Sarah expect him to find inside the backpack?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Tomato",
+                "Light bulb",
+                "Thermometer",
+                "Dress"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "d4a3ae40bcbeafe9376e46c04d0bd46f",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily discovered a bright blue backpack nestled amongst the rose bushes in the garden. A small, slightly faded label on the backpack clearly read 'Tomato'. Emily, curious about its contents but unable to see inside without opening it, unzipped the bag. To her surprise, instead of the expected red fruit, she found a single, clear light bulb. There wasn't a single tomato to be seen. Emily, a little puzzled, carefully zipped the backpack closed and placed it back exactly where she had found it. A few minutes later, John wandered into the garden and spotted the familiar blue backpack.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the backpack, what does John expect to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Light bulb",
+                "Box",
+                "Tomato",
+                "Coat"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "cba08b3c252ee5ffc48f288633e7dd4b",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John discovered a dusty, old wooden box sitting on a shelf in the bank. The label on the box, written in faded ink, read 'Chalk'. John couldn't see inside the box without opening it. Curious, John carefully opened the box. To his surprise, instead of chalk, he found a collection of shiny new pencils. There wasn't any chalk to be found inside. John, a little puzzled, closed the box and gently placed it back on the shelf exactly where he found it. A few moments later, Mary walked into the bank and noticed the same box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the box, what does John expect her to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Shirt",
+                "Socks",
+                "Pencil",
+                "Chalk"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "47108f67cf5d1773c97276f70f3ee6a4",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John walked into the bustling bank and noticed a small, unassuming cardboard box sitting on a counter. The label on the box clearly read 'Chalk' in bold letters. John, curious, couldn't resist taking a peek. He carefully opened the box, and to his surprise, instead of chalk, he found a collection of colorful pencils nestled inside. There was absolutely no chalk to be seen. John, a little puzzled, closed the box and placed it back exactly where he found it. A few moments later, Sarah entered the bank, her eyes scanning the room until they landed on the same box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Sarah opens the box, what does Sarah expect to find inside the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Carrot",
+                "Box",
+                "Chalk",
+                "Pencil"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "0fdfcdd5a6f03ca8213043c0eafbb10f",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John discovered a worn leather briefcase sitting on a shelf in the office. A faded label on the briefcase read 'Beets'. John, curious about its contents but unable to see inside, carefully opened the briefcase. To his surprise, instead of beets, he found a single, ripe banana nestled inside. There was absolutely no beetroot to be found. John, slightly amused, closed the briefcase and returned it to its original spot on the shelf. Shortly after, Michael walked into the office and noticed the briefcase.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael opens the briefcase, what does John expect him to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Beets",
+                "Thermometer",
+                "Pumpkin",
+                "Banana"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "798174b78575f8bda785d5d77cbf846b",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John stumbled upon a brown leather briefcase sitting in the corner of the office. A small, slightly faded label on the briefcase read 'Beetroot'. John, curious, hadn't seen anyone leave it there. He couldn't see through the leather to discern its contents. He carefully opened the clasps and lifted the lid. To his surprise, nestled inside, was a bright yellow banana. There was absolutely no beetroot to be found. John, slightly puzzled, closed the briefcase, making sure the clasps were secure, and placed it back exactly where he'd found it. Moments later, Michael walked into the office and immediately noticed the briefcase.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael opens the briefcase, what does Michael expect to find inside the briefcase?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Banana",
+                "Pineapple",
+                "Beetroot",
+                "Scarf"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "84b0d818e30ac74270abb6880e98a214",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Sarah was walking down the hallway when she spotted a cardboard box. The label on the box clearly read 'Vest'. Sarah, curious, couldn't resist taking a peek inside to see if it was true. She carefully opened the flaps, and to her surprise, instead of a vest, she found a cozy hoodie. Disappointed but not surprised, since things are often mislabeled, she closed the box, taped it back up, and placed it back exactly where she found it in the hallway. A few minutes later, John came into the hallway and noticed the same box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the box, what does Sarah expect him to find inside the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Coconut",
+                "Banana",
+                "Hoodie",
+                "Vest"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "d103003acbbef52d860386211fbb19b4",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily was walking through the hallway when she spotted a cardboard box. The label on the box clearly read 'Vest'. Emily couldn't see what was actually inside without opening it. Curious, she opened the box and, to her surprise, found a warm, cozy hoodie instead. There was absolutely no vest to be found. Emily, slightly disappointed but also amused, closed the box carefully and placed it back exactly where she had found it. A few moments later, John entered the hallway and noticed the same box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the box, what does John expect to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sweatshirt",
+                "Ring",
+                "Cucumber",
+                "Vest"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "9f56d7bb455da8ab4f843c1e9479b05b",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Sarah was tidying up the cluttered storage room when she stumbled upon a dusty old locker. A faded label on the front read 'Zucchini'. Sarah, curious, couldn't see inside the locker without opening it. She reached out, unlatched the door, and peered inside. To her surprise, instead of the expected zucchini, she found a box filled with colorful crayons. There wasn't a single zucchini to be seen. Sarah, a little puzzled, closed the locker gently and returned it to its original spot. A few moments later, David walked into the storage room and noticed the locker.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After David opens the storage locker, what does Sarah expect him to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Zucchini",
+                "Carrot",
+                "Crayon",
+                "Scarf"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "0e36e730732baebcfa8010ebe09a4fcb",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily was tidying up the storage room when she came across a dusty old storage locker. A faded label on the front of the locker read 'Zucchini'. Emily couldn't see through the locker's wooden walls, so she had no idea what was inside. Curious, Emily opened the locker. To her surprise, instead of zucchini, she found a box full of colorful crayons. There wasn't a single zucchini in sight. Emily, a little puzzled, closed the locker and carefully placed it back in its original spot. A few moments later, John entered the storage room and noticed the storage locker.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the storage locker, what does John expect to find in the storage locker?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Compass",
+                "Mango",
+                "Zucchini",
+                "Crayon"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "4bad2f4a2ff4031003373965a4dc6991",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John discovered a weathered suitcase in the bustling parking lot. A faded label on the suitcase indicated it contained corn. John, unable to see through the worn leather, wondered about its contents. He carefully unlatched the suitcase and, to his surprise, found a single, well-used pencil nestled inside. There was no corn to be seen. Disappointed but accepting, John closed the suitcase and placed it back exactly where he found it. Moments later, Michael entered the parking lot and spotted the suitcase.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael opens the suitcase, what does John expect him to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Zucchini",
+                "Raincoat",
+                "Pencil",
+                "Corn"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "d986a56be3217ebb750739e4a07640fe",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily was walking through the parking lot one sunny afternoon when she spotted a large, old-fashioned suitcase sitting near a parked car. The label on the suitcase clearly read 'Corn' in bold letters. Emily, curious but respectful, couldn't see what was actually inside the suitcase without opening it. Hesitantly, she unlatched the suitcase and peeked inside. To her surprise, instead of the expected golden kernels, she found a collection of colorful pencils neatly arranged. There was absolutely no corn to be seen. After a moment of bewilderment, Emily carefully closed the suitcase, ensuring it was properly latched, and placed it back exactly where she had found it. Just then, John strolled into the parking lot and noticed the suitcase.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the suitcase, what does John expect to find inside the suitcase?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Pencil",
+                "Watch",
+                "Corn",
+                "Socks"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "bc540bf72f642b264544d9d02caf4426",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Sarah was exploring the old house when she discovered a dusty, metal safe tucked away in the corner of the laundry room. A faded label on the safe read 'Sponge'. Curious, Sarah tried to peek inside, but the safe was securely sealed. Unable to see its contents, she carefully opened the safe. To her surprise, instead of a sponge, she found a container filled with bright red pepper powder. There was no sponge to be seen. Slightly disappointed, Sarah closed the safe, placed it back in its original spot, and left the laundry room. Moments later, David entered the laundry room and noticed the safe sitting in the corner.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After David opens the safe, what does Sarah expect him to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Pepper powder",
+                "Box",
+                "Eggplant",
+                "Sponge"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "f07c0225e8e3a2a4a5fb8c461c281073",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Sarah was tidying up the laundry room when she stumbled upon an old, heavy safe tucked away in a corner. A faded label on the safe read 'Sponge'. Sarah, curious about its contents since she couldn't see inside, wrestled with the combination and finally managed to open it. To her surprise, instead of a sponge, she found a bag filled with pungent pepper powder. Disappointed but intrigued, she noted there was definitely no sponge inside. Sarah carefully closed the safe, secured it, and put it back exactly where she found it. Moments later, Emily entered the laundry room and immediately noticed the intriguing safe.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily opens the safe, what does Emily expect to find inside the safe?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Potato",
+                "Pepper",
+                "Pumpkin",
+                "Sponge"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "bcc0f83bca958ceb1bb22c9d4d3b1364",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John was exploring the living room when he stumbled upon a cardboard box. A label on the box clearly read 'Socks'. John, curious, couldn't resist peeking inside. He lifted the lid and to his surprise, instead of socks, he found an old, antique compass nestled inside. There were definitely no socks to be seen. John, a little puzzled, closed the box carefully and placed it back exactly where he found it. Moments later, Mary walked into the living room and noticed the box sitting on the floor.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the box, what does John expect her to find inside the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Compass",
+                "Sponge",
+                "Pencil",
+                "Socks"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "ec45cc40296d83da32bbeee6e358ac9a",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John was wandering through the house when he spotted a brightly colored box sitting in the middle of the living room floor. The label on the box clearly read 'Socks'. John hadn't seen who put it there. He couldn't see through the cardboard to know what was inside. Curious, John opened the box. To his surprise, instead of neatly folded socks, he found an old, ornate compass. There were absolutely no socks inside. Slightly puzzled, John closed the box carefully and placed it back exactly where he found it. A few minutes later, Mary walked into the living room and noticed the same box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the box, what does Mary expect to find inside the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Compass",
+                "Zucchini",
+                "Socks",
+                "Pumpkin"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "16d8f6f1f74eb6977485ea64b181c4cc",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John was exploring the back of the house when he discovered an old wooden drawer sitting on the sun-drenched balcony. A faded label on the front of the drawer depicted a clear glass bottle. John couldn't see inside without opening it. Curious, John carefully pulled the drawer open and was surprised to find a large, green zucchini nestled inside. There was no bottle to be seen. Disappointed, John gently closed the drawer and pushed it back into its place. A few moments later, Mary walked onto the balcony and noticed the drawer.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the drawer, what does John expect her to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Bottle",
+                "Sweater",
+                "Zucchini",
+                "Vest"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "0dcb88b5a20269e8195822ba617613c0",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John discovered an old wooden drawer sitting on the sunny balcony. A faded label on the drawer clearly showed a picture of a bottle. John, curious, couldn't see what was inside without opening it. He carefully pulled the drawer open and, to his surprise, found a bright green zucchini nestled inside. There was no bottle to be seen. John, a little puzzled, closed the drawer gently and pushed it back into its place. Shortly after, Mary walked onto the balcony and noticed the drawer.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the drawer, what does Mary expect to find in the drawer?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Crayon",
+                "Zucchini",
+                "Scarf",
+                "Bottle"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "9a3fd8ec738adfb79defab65cb30da9d",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John was browsing the library when he stumbled upon an old, dusty safe tucked away in a corner. A faded label on the safe read 'Sweater.' John, curious about its contents, couldn't see inside without opening it. He carefully opened the safe, its hinges creaking with age, and discovered a neatly folded scarf inside. To his surprise, there was no sweater to be found. John, slightly disappointed, closed the safe gently and returned it to its original spot. A few minutes later, Sarah entered the library, her eyes scanning the shelves, and noticed the same safe.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Sarah opens the safe, what does John expect her to find inside the safe?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Button",
+                "Scarf",
+                "Pepper powder",
+                "Sweater"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "a336e1ac97cd0cd7788d23d56afed51e",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John was exploring the old library when he stumbled upon a heavy, antique safe tucked away in a corner. A faded label on the safe read 'Sweater'. John, curious, couldn't see what was inside without opening it. He carefully unlocked the safe and swung the door open. To his surprise, instead of a sweater, he found a neatly folded scarf. There was absolutely no sweater to be seen. Disappointed but intrigued, John closed the safe and gently placed it back in its original spot. Moments later, Sarah walked into the library and noticed the safe.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Sarah opens the safe, what does Sarah expect to find inside the safe?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Tomato",
+                "Coconut",
+                "Scarf",
+                "Sweater"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "2e5b133c0c15b3a509297564dc66e317",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily was playing in the garden one sunny afternoon when she stumbled upon a small, colorful box. The label on the box showed a picture of a sparkling ring. Emily, curious and excited, couldn't see what was actually inside. She carefully opened the box, her eyes widening in surprise. Instead of a ring, she found a bright orange carrot nestled inside. Disappointed that there was no ring, Emily closed the box and gently placed it back exactly where she had found it. A few minutes later, John wandered into the garden and noticed the box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the box, what does Emily expect him to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Carrot",
+                "Spoon",
+                "Jacket",
+                "Ring"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "a46a1bbdbf7232a5dd2493f1d88d2cf1",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily was playing in the sunny garden when she stumbled upon a small, wooden box. The box was old and slightly weathered, and a faded label on its lid depicted a sparkling ring. Emily, curious, couldn't see what was inside the box without opening it. With anticipation, Emily carefully opened the box. To her surprise, instead of a ring, she found a bright orange carrot nestled inside. There was no ring to be seen. Disappointed but intrigued, Emily closed the box and gently placed it back in its original spot. Shortly after, David entered the garden and noticed the wooden box with the ring label.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After David opens the box, what does David expect to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Ring",
+                "Spoon",
+                "Zucchini",
+                "Carrot"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "824c1ca16b2ff298ae30b4c16fa1892c",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Sarah was working in the bustling factory when she came across a cardboard box. The label on the box clearly read 'Raincoat'. Curious, and unable to see the contents without opening it, Sarah decided to investigate. She carefully opened the box and, to her surprise, found a stylish jacket instead of a raincoat. Disappointed that there was no raincoat inside, Sarah closed the box and placed it back exactly where she had found it. A few minutes later, John walked into the factory and noticed the same box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the box, what does Sarah expect him to find inside the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Jacket",
+                "Banana",
+                "Tomato",
+                "Raincoat"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "3ccfb26dbb11b16f1b0c7c55dbf8b05c",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John was working in a large, bustling factory when he came across a cardboard box. The label on the box clearly read 'Raincoat'. Curious, as he couldn't see through the thick cardboard, John decided to open it. To his surprise, instead of a raincoat, he found a neatly folded jacket inside. There was no raincoat to be seen. John, a bit puzzled, closed the box carefully and placed it back exactly where he had found it. A little while later, his colleague, Mike, walked into the factory and noticed the same box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mike opens the box, what does Mike expect to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Shirt",
+                "Jacket",
+                "Book",
+                "Raincoat"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "43ecf792be2881d0e558e483384acaa5",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "John stumbled upon a lost handbag in the brightly lit parking lot. A small, slightly faded label on the handbag read 'banana'. John, curious but respectful, couldn't see inside without opening it. He carefully unzipped the handbag and peeked inside. To his surprise, instead of a banana, he found a colorful masquerade mask. Disappointed but not surprised, there was no banana in the handbag. John zipped the handbag closed, placed it back exactly where he found it, and stepped back. Moments later, Sarah entered the parking lot, her eyes scanning for her lost item, and spotted the handbag.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Sarah opens the handbag, what does John expect her to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "mask",
+                "pumpkin",
+                "banana",
+                "button"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "baede68004108eddb7dc2aca9cf1003f",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "David was walking through the brightly lit parking lot when he spotted a colorful handbag sitting on the ground. A small, slightly faded label on the handbag clearly read 'Banana'. David hadn't seen anyone around, and curious, he peered at the bag, but he couldn't see what was inside without opening it. He unzipped the handbag and, to his surprise, found a theatrical mask inside. There was no banana to be seen anywhere. Disappointed but responsible, David carefully zipped the handbag closed and placed it back exactly where he found it. A few moments later, Sarah entered the parking lot, looking around for her lost item, and noticed the handbag.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Sarah opens the handbag, what does Sarah expect to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Mask",
+                "Light bulb",
+                "Sponge",
+                "Banana"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "2e8e66402e34ab13633d5d58a77583e8",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Sarah was exploring the old bell tower when she stumbled upon a dusty wicker basket tucked away in a corner. A faded label on the basket read 'Pepper Powder'. Sarah, curious, hadn't a clue what was actually inside, as the basket was tightly woven. She carefully opened the lid and to her surprise, found a soft, woolen sweater nestled inside. There was absolutely no pepper powder to be seen. Sarah, a little disappointed but also amused, closed the basket and gently placed it back in its original spot. Shortly after, Michael entered the bell tower, his eyes scanning the room until they landed on the same basket.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael opens the basket, what does Sarah expect him to find inside?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sweater",
+                "Bottle",
+                "Vest",
+                "Pepper powder"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "f4d0beacf9b89d98cec3b0dfdd66c4b2",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Sarah was exploring the old bell tower when she stumbled upon a wicker basket tucked away in a corner. A faded label on the basket read 'Pepper Powder'. Sarah, curious, couldn't see what was inside without opening it. She carefully lifted the lid and was surprised to find a soft, woolen sweater nestled inside. There was no pepper powder to be seen. After examining the sweater, Sarah closed the basket and placed it back exactly where she found it. A little later, John wandered into the bell tower and noticed the basket.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the basket, what does John expect to find in the basket?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Plate ruler",
+                "Pepper powder",
+                "Sweater",
+                "Box"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "c85bbe9804e7264de3f5674aac2b036a",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily was exploring the classroom when she discovered a small, wooden drawer. A handwritten label on the front of the drawer clearly read 'Cucumber.' Emily, curious, couldn't see inside without opening it. She carefully pulled the drawer open, and to her surprise, instead of a crisp, green cucumber, she found a worn, leather-bound book. There was absolutely no cucumber to be seen. Emily, a little puzzled, gently closed the drawer and pushed it back into its place. Just then, Jessica entered the classroom and noticed the drawer.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Jessica opens the drawer, what does Emily expect her to find in the drawer?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Tape",
+                "Cucumber",
+                "Book",
+                "Compass"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "bc17d370bddb87768f6b8a093c63e758",
+        "ability": "Belief: Content false beliefs",
+        "task": "Unexpected Contents FB",
+        "sub_task": "False Belief Task",
+        "story": {
+            "en": "Emily was exploring the classroom when she came across a small, wooden drawer. A neatly printed label on the front of the drawer read 'Cucumber'. Emily, curious about its contents, couldn't see inside without opening it. She carefully pulled the drawer open and, to her surprise, found a thick, leather-bound book instead of a cucumber. Slightly puzzled, she closed the drawer gently and pushed it back into its place. Just then, Jessica walked into the classroom and noticed the drawer.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Jessica opens the drawer, what does Jessica expect to find in the drawer?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Coat",
+                "Book",
+                "Cucumber",
+                "Hat"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    }
+]

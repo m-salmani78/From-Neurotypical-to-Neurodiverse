@@ -1,0 +1,994 @@
+[
+    {
+        "id": "93f44cd872e7096f7c8f686fb4b107fe",
+        "ability": "Object Substitution",
+        "task": "Pretend",
+        "story": {
+            "en": "Michael was having a grand time playing in the brightly lit living room. Toys were strewn about – colorful wooden blocks, a collection of shiny toy cars, and a well-loved, slightly threadbare stuffed bear lay scattered across the rug. Michael's eyes lit up as he reached for a rectangular wooden block. He grasped it firmly in his small hand, held it up to his ear, and with a burst of enthusiasm, declared, 'This is my phone!' His face beamed with the joy of make-believe.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What might Michael do next?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Stack the block with other blocks to build a tower.",
+                "Throw the block across the room.",
+                "Hold the block to their ear and say, 'Hello, Grandma!'",
+                "Paint the block with colors."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "e2959150f0670d782ea150968229b08a",
+        "ability": "Object Substitution",
+        "task": "Pretend",
+        "story": {
+            "en": "Michael was enjoying a sunny afternoon playing in his backyard. He ran through the grass, his laughter echoing in the air, when he spotted something intriguing lying near the old oak tree. It was a long, sturdy stick. A wide grin spread across Michael's face as he picked it up. He held it high, swishing it through the air with dramatic flair, and exclaimed loudly, 'This is my sword! I am the mighty warrior!' With newfound enthusiasm, he leaped onto a large, flat rock, striking a heroic pose. 'I am Sir Michael, the bravest knight in all the land!' he announced proudly, his imagination transforming the ordinary backyard into a fantastical kingdom.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael think the stick is a sword?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Because it’s sharp and pointy.",
+                "Because he is imagining it’s a weapon for play.",
+                "Because he wants to cut something real with it.",
+                "Because it’s painted silver like a sword."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "5b556c916ec5169d50ba9d5792f5a552",
+        "ability": "Object Substitution",
+        "task": "Pretend",
+        "story": {
+            "en": "Sarah was sitting at the old, wooden kitchen table, contentedly finishing her lunch of a peanut butter and jelly sandwich. The afternoon sunlight streamed through the window, illuminating dust motes dancing in the air. She picked up a shiny, silver spoon, held it close to her mouth, and with a wide grin exclaimed, 'It’s my microphone!' Then, filled with sudden inspiration and playful energy, she carefully stood up on her chair, smiling brightly, ready to put on a show.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What might Sarah do next?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sing into the spoon like she’s performing on a grand stage.",
+                "Stir a pot of soup with the spoon, helping her mom with dinner.",
+                "Pretend the spoon is a magic wand and wave it around, casting silly spells.",
+                "Drop the spoon into the sink after finishing her meal and head outside to play."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "a946c685eb78b3ffc8103b205adb360c",
+        "ability": "Object Substitution",
+        "task": "Pretend",
+        "story": {
+            "en": "A young child, maybe four years old, picks up a bright red building block. They clutch it tightly in their small hand, then hold it high above their head with a flourish, and exclaims with a gleeful shout, 'This is my spaceship!' They make a loud 'whoosh' sound, mimicking the roar of a rocket engine, and tilt the block from side to side, carefully navigating it as if steering it through the vast expanse of space, dodging imaginary asteroids and alien spacecraft. Their brow is furrowed in concentration as they embark on their intergalactic journey.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What might the child imagine next?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "The block falls apart into pieces.",
+                "The block suddenly turns into a real spaceship before their eyes.",
+                "The child decides to stack the block with others to build a tower.",
+                "The spaceship blasts off to Mars."
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "c3ca278a219a0ff40119bbd6eaafe4e9",
+        "ability": "Object Substitution",
+        "task": "Pretend",
+        "story": {
+            "en": "Michael was having a grand time playing in the brightly lit kitchen. Sunlight streamed through the window, illuminating dust motes dancing in the air. He spotted a colorful plastic cup sitting on the wooden table. A mischievous grin spread across his face. He picked it up, giggled with delight, turned it upside down with a flourish, and declared in a joyful voice, 'This is my hat!'. He then proceeded to strut around, pretending to be a very important person.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does the child, Michael, intend to do with the cup?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Drink water from it.",
+                "Put it on their head and pretend to be fancy.",
+                "Fill it with toys.",
+                "Turn it over and tap it like a drum."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "f7daefe198c00d43369b44b02cb96634",
+        "ability": "Role-Playing",
+        "task": "Pretend",
+        "story": {
+            "en": "Seven-year-old Emily was having a wonderful time in her playroom. She carefully arranged a colorful row of building blocks on the floor, creating a makeshift classroom. Then, she gently placed her favorite doll, Betsy, in front of the blocks as if she were a student. A wide smile spread across Emily's face as she clapped her hands together with enthusiasm and announced in a clear, confident voice, 'Alright class, I’m the teacher today!'",
+            "fa": ""
+        },
+        "question": {
+            "en": "What might Emily say next as she continues her game?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "This doll is my best friend!",
+                "Let’s race cars across the floor!",
+                "Everybody, open your books to page five!",
+                "The blocks are your lunch today!"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "77af5ae9874984361cd5fc3141901a16",
+        "ability": "Role-Playing",
+        "task": "Pretend",
+        "story": {
+            "en": "Emily and John were having a fun afternoon playing in Emily's brightly decorated room. Emily's room was filled with a colorful array of dolls, stuffed animals, and various toys scattered across the floor. Emily carefully picked up a toy stethoscope, a plastic tube with earpieces attached. She gently placed the earpieces into her ears and then pressed the circular end of the stethoscope against John's chest, listening with focused concentration. After a moment, she nodded thoughtfully and said with a serious tone, 'Hmm... the heartbeat sounds good and strong! But just to be absolutely sure, take a nice, deep breath for me!'",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Emily doing?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Trying to hear real sounds to learn about the human body.",
+                "Testing if the plastic tube can make funny noises.",
+                "She was pretending to be a doctor.",
+                "Pretending to be secret agents listening for hidden messages."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "e1539476e34b3eaf360f112a73591bf2",
+        "ability": "Role-Playing",
+        "task": "Pretend",
+        "story": {
+            "en": "Michael was enjoying a sunny afternoon playing in his backyard. The freshly cut grass tickled his feet as he explored. He stumbled upon a sturdy, long stick lying near the old oak tree. An idea sparked in his mind, and with a wide grin, he hoisted the stick above his head. 'I'm the pirate captain!' he exclaimed, his voice filled with excitement. He brandished the stick like a gleaming sword, the sunlight glinting off its surface. He stomped dramatically across the lawn, imagining it was the creaking deck of his mighty ship, the 'Sea Serpent'. He narrowed his eyes, peering intently into the horizon as if searching for a distant, undiscovered island.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What might the pirate captain do next?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Plant the stick in the ground like a flagpole to claim the land.",
+                "Swing the stick and shout, 'Find the treasure!' to rally his crew.",
+                "Use the stick to stir an imaginary pot of soup for his hungry sailors.",
+                "Lay the stick down and pretend it's a rickety bridge to walk across to the next island."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "ef5fb9efeeec01375a89052ef4b6b55f",
+        "ability": "Role-Playing",
+        "task": "Pretend",
+        "story": {
+            "en": "Little Emily, with bright eyes and a mischievous grin, carefully picked up her favorite doll, a rag doll named Rosie with button eyes and yarn hair. Clutching Rosie tightly, Emily cleared her throat and announced in a high-pitched voice, 'I'm the mommy, and it's time for bed for my sweet little Rosie! You've had a long day of playing, and now you need your rest.' Emily then gently tucked Rosie into a shoebox lined with a soft, blue cloth.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does the mommy (Emily) put the doll (Rosie) to bed?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Because the doll is tired in the pretend game.",
+                "Because the doll is broken.",
+                "Because Emily is tired of playing.",
+                "Because it's daytime outside."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "5a03ebdad3132bb3fe999a286da9fda7",
+        "ability": "Role-Playing",
+        "task": "Pretend",
+        "story": {
+            "en": "Michael was a vibrant and imaginative boy, always brimming with energy. One sunny afternoon, while his mom was doing laundry, he stumbled upon a forgotten, slightly faded red towel nestled in the laundry basket. An idea sparked in his mind! With a mischievous grin, he snatched the towel and, with a swift motion, tied it securely around his neck, letting it billow behind him like a majestic cape. He puffed out his chest, planted his hands firmly on his hips, and in a booming voice, declared, 'I am a superhero, defender of the innocent!' Suddenly, his eyes landed on his beloved teddy bear, Mr. Snuggles, slumped on the floor near the bookshelf. A look of concern washed over Michael's face. 'Don’t worry, Mr. Snuggles, I’ll rescue you from... from the clutches of boredom!' he exclaimed. With a burst of speed, he dashed across the living room, his red cape flapping wildly behind him. He took a running leap onto the plush, floral-patterned couch, landing with a soft thud. Carefully and gently, he scooped up Mr. Snuggles and placed him delicately onto a fluffy, polka-dotted pillow, ensuring his comfort and safety.",
+            "fa": ""
+        },
+        "question": {
+            "en": "How does Michael feel?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Nervous because he thinks he might have to fight real villains.",
+                "Tired from running around so much.",
+                "Powerful because he can save people in play.",
+                "Embarrassed because someone said a towel isn’t a real cape."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "aa24e805a620f7a91f3703a3a3dcfcbc",
+        "ability": "Imaginary Scenarios",
+        "task": "Pretend",
+        "story": {
+            "en": "Little Timmy sat on the floor of his playroom, clutching his bright red toy tractor. Sunlight streamed through the window, illuminating the dust motes dancing in the air. With a mischievous grin, he announced, 'The farmer's going on an adventure!' He revved the tractor's imaginary engine, making 'vroom vroom' noises as he envisioned a vast, green field stretching before him. He imagined the wind in the farmer's hair as he set off towards the unknown.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What happens first in the adventure, according to Timmy's imagination?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "The tractor breaks down unexpectedly.",
+                "The farmer drives the tractor to a mysterious forest.",
+                "Timmy decides to stop playing with the tractor.",
+                "The toy tractor magically transforms into a real one."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "ef9cdc54e2f5e6b11911c75b214118a7",
+        "ability": "Imaginary Scenarios",
+        "task": "Pretend",
+        "story": {
+            "en": "Little Alex, with bright eyes full of imagination, picked up a well-worn wooden block. The smooth wood felt comfortable in their small hand. Holding it high above their head, Alex announced with glee, 'This is a spaceship flying to the moon!' They made enthusiastic swooshing sounds, mimicking the roar of engines, as they moved the block through the air, tracing imaginary paths across the living room. Sunlight streamed through the window, illuminating the dust motes dancing around the 'spaceship' as it soared on its pretend journey.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does the child imagine next?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "The spaceship lands on the moon, and astronauts step out to explore.",
+                "The spaceship transforms into a submarine diving deep into the ocean.",
+                "Alex starts sorting blocks by color.",
+                "The block slips from Alex’s hand and falls onto the floor."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "32cc178fa961de924ed86d200eb94e67",
+        "ability": "Imaginary Scenarios",
+        "task": "Pretend",
+        "story": {
+            "en": "Charlie, with focused concentration, carefully stacked brightly colored wooden blocks, one on top of another, building a tall and precarious structure. The tower wobbled slightly with each addition, but Charlie persisted. Stepping back to admire their handiwork, a wide grin spread across their face as they dramatically declared, 'This is a magnificent castle, and it's under attack! The enemy is approaching!'",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Charlie imagine happens next in the story?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Brave knights defend the castle with pretend swords and shields.",
+                "The blocks fall down in a noisy tumble, and the game abruptly ends.",
+                "The castle magically transforms into a bustling school.",
+                "The child quietly stacks more blocks, lost in their own thoughts."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "5d0ab5c4872c175a71a6ec5661d66f88",
+        "ability": "Object Substitution",
+        "task": "Pretend",
+        "story": {
+            "en": "Liam, a bright-eyed boy of four, was happily perched on the cool, checkered kitchen floor. In his small hand, he clutched a ripe, yellow banana. Scattered around him were his favorite playthings: a brightly colored toy drum with a slightly dented cymbal and a well-worn wooden spoon, testament to many imaginary cooking adventures. A mischievous glint sparkled in Liam's eyes. Suddenly, he held the banana up close to his mouth, as if preparing for a grand performance. He took a deep breath, filling his lungs with air, and then, with all the gusto a four-year-old could muster, he started singing loudly, belting out a made-up tune at the top of his voice.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What has Liam likened the banana to in his imaginative play?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A microphone",
+                "A telephone",
+                "A musical instrument",
+                "A toy car"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "4a13e85ea415de41bb33975de04b232c",
+        "ability": "Object Substitution",
+        "task": "Pretend",
+        "story": {
+            "en": "A young boy, about seven years old, grabs a soft, blue blanket from the back of the armchair and excitedly fastens it around his shoulders like a cape. He runs with boundless energy across the brightly lit living room, a determined look on his face. He then leaps off the plush, brown couch with his arms stretched out wide, a joyful shout escaping his lips. He lands on the carpeted floor with a slight thump, quickly gets up, and strikes a heroic pose, chest puffed out and a confident grin spreading across his face.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is the boy pretending to be?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A bird",
+                "A kite",
+                "A superhero",
+                "A dancer"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "4513625385446787c669a0c002546313",
+        "ability": "Imaginary Scenarios",
+        "task": "Pretend",
+        "story": {
+            "en": "Michael and David were happily playing in the brightly lit living room, their toys scattered around them. Michael's eyes suddenly lit up as he noticed a large, ornate armchair sitting in the corner, partially hidden by a floor lamp. With a burst of energy, he dashed over to it and plopped down, a wide smile spreading across his face. He puffed out his chest and declared, 'This chair is my throne! I am the king of this land!' He surveyed his kingdom with a playful glint in his eyes.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What might Michael do next?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Wave his hand and declare an important rule for his kingdom.",
+                "Get up and start looking for another chair to sit on.",
+                "Shift around to find a more comfortable position.",
+                "Invite David to sit on the chair instead."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "0943248c492baf08182fd9aa3eb69096",
+        "ability": "Object Substitution",
+        "task": "Pretend",
+        "story": {
+            "en": "At a lively birthday party, filled with music and laughter, a guest named Michael, known for his playful imagination, picks up a shiny silver spoon from the dessert table. With a twinkle in his eye, he dramatically announces, 'Aha! This is my detective’s magnifying glass! With this, I shall solve the mystery of the missing cake!'",
+            "fa": ""
+        },
+        "question": {
+            "en": "How might Michael use the spoon in his pretend scenario?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Stir his drink with it absentmindedly",
+                "Hold it up to his eye to inspect something closely, like a tiny crumb or a suspicious stain",
+                "Tap it rhythmically on the table while pondering clues",
+                "Offer it to another guest, perhaps as a 'piece of evidence'"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "66d6489a47c58e87893863bfc8afedd9",
+        "ability": "Object Substitution",
+        "task": "Pretend",
+        "story": {
+            "en": "During an imaginative game in the park, a young player, let's call him Michael, excitedly picks up a sturdy-looking stick from the ground. With a twinkle in his eye and a flourish, he proudly declares, 'This is my time-traveling staff! It can take me anywhere in history!' He holds it aloft, imagining all the places he could go.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What might Michael do with the staff?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Wave it dramatically and shout a date in history",
+                "Use it to draw intricate patterns in the dirt",
+                "Lean on it wearily, pretending to be an old wizard",
+                "Break it in half out of frustration"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "c594e129849b79da0ac84e6e62043152",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "High above a distant, unnamed planet, nestled in orbit, was a gleaming space station. Within its metallic walls lived a robot named Sparky. The station was a marvel of engineering, boasting a completely artificial environment. Because of this, Sparky had never encountered any form of plant life and possessed no knowledge of botany. However, the station was teeming with various mechanical devices, blinking lights, whirring gears, and other robots. One day, Sparky began to exhibit a strange, imitative behavior. It swayed rhythmically from side to side, its metallic limbs moving with a gentle grace. Occasionally, it would bend low to the ground, as if inspecting something unseen. These actions, though mechanical, were reminiscent of flowers gently swaying in a breeze and a person bending down to smell a fragrant bloom.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Sparky possibly imitate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sunflowers swaying in the wind.",
+                "A robot bending over to pick up objects.",
+                "A person smelling a rose.",
+                "A windmill with rotating blades."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "347a529c0ab6af36502a70260fcf7112",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "Sarah is a curious robot, residing in the shimmering, underwater city of Aquatica, nestled deep within the ocean's embrace. In Aquatica's tranquil depths, sunlight filters through the water, illuminating vibrant coral reefs and an array of marine life. Unlike the surface world, there are no birds or flying creatures in Aquatica, so Sarah has never encountered them and struggles to comprehend their existence. However, Aquatica teems with all kinds of fascinating sea creatures, from playful dolphins to graceful manta rays. Currently, Sarah is engaging in imitation behavior: she swings her metallic arms up and down gracefully, mimicking a forward motion. The movement is remarkably similar to the flapping of bird wings, a concept she's only learned about through old data files.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Sarah likely imitating?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Fish sliding fins",
+                "Soaring eagle",
+                "Butterfly flapping wings",
+                "Bat in flight"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "3cf4d0c02793505c9b7653e5f9a3e58c",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "Rizo is a small, curious robot with gleaming metallic eyes, residing on the distant planet Lumina. Lumina is renowned throughout the galaxy for its seemingly endless, ochre-colored deserts that stretch as far as the optical sensors can see. Unlike planets such as Earth, there are no large mammals roaming Lumina's sandy plains. Consequently, Rizo possesses no data files pertaining to these creatures. However, a fascinating variety of insects with iridescent wings, scaled reptiles basking under the twin suns, and brightly plumaged birds soaring through the thin atmosphere thrive on this unique planet. Today, Rizo is engaging in a complex imitation behavior, powered by its advanced learning algorithms: it paces back and forth on the dusty ground, its gears whirring softly. Occasionally, it raises its head, its antenna twitching, and emits a mechanical call, a series of clicks and whirs that, strangely enough, sounds somewhat similar to a lion's roar, albeit a very robotic one.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Rizo possibly imitating?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Giant turtle",
+                "Lion",
+                "Lizard",
+                "Camel"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "546e5f4b89126e90d46bc0ed04cbbc92",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In a distant galaxy, far beyond our own, there exists a small, rocky planet called Glockta. On this planet lives a curious robot named Alex. Glockta is a fascinating world, renowned throughout the galaxy for its stunning, naturally glowing mineral formations that illuminate the landscape with an ethereal light. Deep beneath the surface flow underground rivers, their waters shimmering with bioluminescence. However, Glockta is notably devoid of bird life. Alex, having never encountered a bird, knows nothing of their existence or behavior. Instead, Glockta teems with a vibrant array of glowing insects, a common and captivating sight for Alex. One day, Alex begins to engage in an interesting form of imitation. He extends his metallic arms outwards and then rapidly retracts them, creating a rhythmic motion that bears a striking resemblance to the fluttering of bird wings, even though he's never seen one.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Alex likely imitating?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "The twinkling of fireflies.",
+                "An eagle soaring in the sky.",
+                "A hummingbird vibrating its wings.",
+                "A bat hunting at night."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "a9df4ec4f0aef2013af58b76b2948647",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "High above the world, nestled among the clouds, lies the futuristic city of Skyhaven. Here, amidst shimmering skyscrapers and gravity-defying platforms illuminated by vibrant neon lights, lives a curious robot named Sparky. Skyhaven is a marvel of engineering, a testament to human ingenuity, but it lacks one thing: animals. Sparky, therefore, has never encountered a living creature. The city, however, is filled with intricate kinetic sculptures that dance and sway with the gentle breezes. Today, Sparky is engaged in a fascinating act of imitation. He extends his metallic arms outwards, tilting his body from side to side, mimicking the graceful movements of something soaring through the air, much like a majestic eagle hunting its prey or a delicate butterfly flitting through a field of colorful blossoms.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Sparky likely imitating?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "An eagle soaring in the sky",
+                "A special kind of sculpture",
+                "An airplane gliding in the air",
+                "A butterfly flapping its wings"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "809436d098af2ce484a27dc1a78f5cf2",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In the bustling metropolis of Brightville, lived a small and inquisitive robot named Rusty. Brightville was a dazzling, high-tech city, characterized by its towering skyscrapers that pierced the clouds and vibrant neon lights that painted the night sky. A peculiar feature of Brightville was the complete absence of animals; Rusty had never seen, touched, or learned anything about them. However, the city was teeming with drones of all shapes and sizes, zipping and whirring through the air. One day, Rusty was observed engaging in mimicry: it extended its metallic arms and swung them rhythmically up and down, imitating a motion remarkably similar to the flapping of a bird's wings. The whirring of its internal mechanisms created a soft, rhythmic sound as it continued its imitation.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Rusty likely to mimic?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A drone hovering in the air.",
+                "A pigeon flying over the city.",
+                "A butterfly flapping its wings.",
+                "An eagle soaring in the sky."
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "3f245979e90d32c2617f1b2584f983fd",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In a small, gleaming laboratory nestled within a distant satellite orbiting Earth, a curious little robot named Rusty resided. The satellite, named Selene, housed a variety of sophisticated scientific instruments and specialized tools. What made this laboratory unique was its complete absence of any biological life. Rusty, being a purely mechanical being, possessed no firsthand knowledge of organic life. However, the lab was equipped with numerous mechanical arms designed for intricate tasks. One day, Rusty was observed engaging in a peculiar imitation behavior. It extended its metallic limbs upwards, reaching towards the ceiling, and then slowly lowered them in a graceful, rhythmic motion. It repeated this sequence several times, mimicking something it had likely observed. The movement resembled the way branches sway gently up and down in the wind, creating a calming visual rhythm.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Rusty likely imitating?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A tree rustling in the wind.",
+                "Mechanical arms picking up and placing objects.",
+                "People raising their hands and then lowering them.",
+                "The scene of water rising and falling in a fountain."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "01c430291182045618deab1bd0e806ac",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In a gleaming, high-tech laboratory perched amongst the clouds above the city of Airion, resided a curious robot named Bolt. This laboratory, a marvel of engineering, floated serenely high above the earth, a self-contained world. Because of its unique location, far removed from the ground, Bolt had never encountered any land animals. His world consisted primarily of the whirring and beeping of sophisticated machinery. The lab, however, was teeming with various flying drones and other levitating devices, each performing its designated task. One day, Bolt began to mimic a behavior he had frequently observed. He started flapping his metallic arms rapidly, creating a distinct buzzing sound, much like the sound of a hummingbird's wings in rapid motion as it hovers.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Bolt possibly mimicking?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A hummingbird hovering in mid-air.",
+                "A drone maneuvering in the air.",
+                "A butterfly fluttering from flower to flower.",
+                "A bat flying quickly through the night sky."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "30313eff0d54532d9043925e92221eed",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In the far-off, perpetually frozen world of Frigoria, lived a curious robot named Glaci. Frigoria was a desolate planet entirely blanketed in ice and snow, a landscape devoid of any trees or plant life. Consequently, Glaci had never encountered, nor knew anything about, plants. However, the icy plains were dotted with numerous ice sculptures, crafted by the planet's strange atmospheric conditions. These sculptures took on a myriad of shapes and forms, resembling familiar objects and abstract designs. One day, Glaci was observed engaging in a peculiar form of imitation. It stood rigidly upright, its metallic arms swinging rhythmically back and forth, mimicking, in its own mechanical way, the gentle sway of a tree in the wind, even though it had never seen one.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Glaci possibly imitate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A tree sways in the wind.",
+                "A swinging ice sculpture.",
+                "A flower bends under the weight of snow.",
+                "A snowman leans to one side."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "cffb29fe5f3b14883181d0773271a117",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In the vast expanse of a distant galaxy, nestled amongst swirling nebulae and shimmering starlight, lies a small, rocky planet named Stardust. On this desolate world, devoid of lush forests or flowing rivers, lives a solitary robot named Rusty. Stardust is a world strikingly absent of birds or any other flying creatures, a fact that leaves Rusty completely unfamiliar with their existence. However, the landscape is dotted with a multitude of bioluminescent spheres. These orbs, varying in size from pebbles to beach balls, float serenely above the dusty terrain, drifting gently in the thin atmosphere and glowing with an ethereal light at specific, predictable intervals. Rusty, in an act of curious imitation, is observed making rhythmic patting motions with his metallic arms, movements that uncannily resemble the action of a bird flapping its wings.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Rusty possibly imitating?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A hummingbird hovering in the air.",
+                "A butterfly flapping its wings.",
+                "The regularly glowing spheres.",
+                "A kite flying in the sky."
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "d71d5cefc27eb86ae52c84f3c4660b87",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In a miniature city called Circuiton, constructed entirely of gleaming metal and pulsating circuits, resides a robot named Sparky. This futuristic metropolis, hidden deep within a remote asteroid belt, has never had contact with Earth's diverse wildlife. Consequently, Sparky possesses no knowledge of terrestrial creatures. However, Circuiton teems with small, buzzing drones that navigate the city with precise angular movements and abrupt halts. Sparky, observing these drones daily, begins exhibiting peculiar imitation behavior: it moves with rapid, intense actions, abruptly stops, and then swiftly changes direction, mimicking the drones it sees around it. The imitated action bears a striking resemblance to a drone performing its tasks.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Sparky possibly imitating?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A hummingbird hovering for nectar.",
+                "A drone performing tasks.",
+                "A butterfly fluttering among flowers.",
+                "A bat quickly changing flight direction."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "f22b8d9c2b6a3f1ae33aa2ab25939bf8",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In the vast expanse of a distant galaxy, nestled amongst swirling nebulas and shimmering stardust, there existed a tiny asteroid named Asteria. On this desolate rock, devoid of any atmosphere to speak of, lived a solitary robot named Alex. Asteria was a barren and lifeless planet, a canvas of grey rock under the cold gaze of distant stars. Because of this isolation, Alex had never encountered any animal life and possessed no understanding of animal behavior. However, Asteria held a secret beauty: it was rich in crystal formations. These crystals, shimmering with internal light, often grew in mesmerizing spiral shapes, twisting and turning like frozen dancers. One day, Alex began to mimic something he had observed. He twisted his metallic body, stretched his arms in elegant arcs, and rotated in a circular manner, his movements fluid and surprisingly graceful. This action, though performed by a robot, reminded anyone who could have seen it of the posture of a beautifully spinning ballet dancer executing a perfect toe spin.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Alex possibly imitating?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A toe spin performed by a ballet dancer.",
+                "The spiral growth of crystals on Asteria.",
+                "A dog chasing its own tail.",
+                "An ice skater spinning on ice."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "5684c4c5a45611181bc22f88d9025649",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In a distant galaxy, nestled amongst swirling nebulae, there exists a peaceful little asteroid named Serenitas. This celestial body is bathed in the ethereal glow of bioluminescent creatures, a soft, constant light that permeates the landscape. On Serenitas lives a curious robot named Alex. The asteroid, devoid of large bodies of water, is instead covered in fields of luminous flora and populated by tiny, glowing, winged creatures that drift lazily through the air. Consequently, Alex has never encountered aquatic life. One day, Alex begins to engage in mimicry, its metallic body whirring softly. It gracefully extends and retracts its limbs in a deliberate, rhythmic motion, a mesmerizing display that evokes the pulsating movement of a jellyfish gracefully swimming through the ocean depths, a sight Alex could only imagine based on data it had collected.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Alex likely imitating?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A jellyfish swimming in the ocean",
+                "A glowing flower opening and closing its petals",
+                "A snake slithering in the grass",
+                "Fireflies twinkling in the night sky"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "1f88f812734eb24522a16a1d3e6771bd",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In the futuristic metropolis of Steelton, a compact robot named Sparky resided. Steelton was renowned for its cutting-edge technology, a gleaming testament to human ingenuity, but utterly devoid of any natural flora. No trees, no shrubs, not even a blade of grass could be found within its metallic confines. Consequently, Sparky had never encountered a tree or anything resembling one. The city, however, was a labyrinth of intricate mechanical structures, gleaming towers, and an assortment of small tools scattered throughout workshops and labs. One sunny afternoon, Sparky was observed engaging in mimicry: it extended its metallic arms skyward, reaching for the simulated sun, then slowly and deliberately lowered them, its movements mimicking the gentle descent of leaves drifting from a tree in autumn, a concept it had only encountered in archived data logs.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Sparky possibly mimicking?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "The action of leaves falling from a tree",
+                "The action of an elevator moving up and down",
+                "The action of opening and closing an umbrella",
+                "The action of cherry blossoms falling."
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "7cd1697daac29875976eb7a5315aea46",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "In the inky blackness of a distant nebula, a small, boxy robot named Twinkle resided on a tiny asteroid affectionately called Little Star. Little Star was a desolate rock, devoid of any significant bodies of water. Consequently, Twinkle had never encountered aquatic life and knew nothing about it. The asteroid's surface was primarily covered in shimmering, multi-faceted crystals, each unique in size and shape. These crystals vibrated with a subtle energy, often resonating together to produce delicate, musical tones that filled the otherwise silent void. One day, Twinkle, in a moment of playful imitation, began to swing its metallic arms gently up and down, mimicking a graceful, fluid motion. It was as if Twinkle was imagining something swimming.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What does Twinkle possibly imitate?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Fish swimming in the ocean",
+                "Resonating crystals",
+                "Snake crawling on the ground",
+                "Person swimming in the pool"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "17d0865c518a3692b3355b81606fbb85",
+        "ability": "Knowledge: Knowledge-pretend play links",
+        "task": "Pretend",
+        "story": {
+            "en": "Far in the future, nestled on the metallic planet Orbis, a sleek, chrome robot named Sparky resided. Orbis, a marvel of technological advancement, was a world devoid of natural flora; not a single tree, shrub, or blade of grass could be found. Consequently, Sparky possessed absolutely no knowledge of plant life. The cityscape surrounding Sparky was a dazzling spectacle of vibrant neon lights that painted the sky in every imaginable color and shimmering holographic displays that danced with information. Sparky was currently engaged in a peculiar mimicking behavior: it extended its polished, metallic arms outwards and then gracefully brought them together above its head in a smooth, fluid motion, regularly repeating this action. The robot's movements, against the backdrop of the futuristic city, gave the distinct impression of the opening and closing of delicate petals reaching for the sun.",
+            "fa": ""
+        },
+        "question": {
+            "en": "What is Sparky possibly mimicking?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "A blooming flower",
+                "The opening and closing of a book",
+                "The switch of flickering neon lights",
+                "A clam opening and closing its shell"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "0e88c6d049e0a49e689f889ae424cecf",
+        "ability": "Hidden Emotions",
+        "task": "Pretend",
+        "sub_task": "Hidden Emotions",
+        "story": {
+            "en": "The school bell rings, signaling break time. You're standing with your friends, a small group huddled together, chatting and telling jokes. Sarah is in the middle of recounting a story, building up to the punchline. Finally, she delivers the joke, and everyone bursts into laughter, finding it hilarious. You, however, don't quite understand the joke. It just doesn't click for you, but you really don't want the other children to know that you didn't get it.",
+            "fa": "زنگ تفریح فرا می‌رسد. شما در حال گپ زدن و گفتن جوک در یک گروه با دوستانتان هستید. کسی جوکی می‌گوید که همه آن را خنده‌دار می‌دانند. شما این جوک را متوجه نمی‌شوید، اما نمی‌خواهید بقیه بچه‌ها متوجه این موضوع شوند."
+        },
+        "question": [
+            {
+                "en": "Why do you pretend to be happy?",
+                "fa": "چرا خوشحال به نظر می‌رسید؟"
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because someone tells a very funny joke",
+                    "Because all friends are happy",
+                    "In order not to let other children feel stupid",
+                    "Because I do not want others to see me unhappy"
+                ],
+                "fa": [
+                    "زیرا کسی یک جوک بسیار خنده‌دار گفته است",
+                    "زیرا همه دوستان خوشحال هستند",
+                    "برای اینکه دیگر بچه‌ها احساس احمق بودن نکنند",
+                    "زیرا نمی‌خواهم دیگران من را ناراحت ببینند"
+                ]
+            }
+        ],
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": "ab156deef1039eab9d866a31b6e6cb4c",
+        "ability": "Hidden Emotions",
+        "task": "Pretend",
+        "sub_task": "Hidden Emotions",
+        "story": {
+            "en": "You're in math class, working on a set of challenging arithmetic problems. You rush through them, eager to finish, and end up making a few careless mistakes. The bell rings, signaling break time. As you head out into the hallway, you overhear your friends, Sarah and Michael, animatedly discussing their scores. They both aced the test, boasting about how easy it was and how they didn't make a single error. Feeling a pang of embarrassment and disappointment, you try your best to pretend you also did perfectly, forcing a smile and nodding along to their conversation.",
+            "fa": "شما باید در مدرسه برخی از مسائل ریاضی را حل کنید. شما اشتباهات احمقانه‌ای انجام می‌دهید. در زمان استراحت، دوستانتان درباره عملکرد خود صحبت می‌کنند و هیچکس اشتباهی نمی‌کند. شما سعی می‌کنید وانمود کنید که شما هم به خوبی آنها عمل کرده‌اید."
+        },
+        "question": [
+            {
+                "en": "Why do you pretend to be happy?",
+                "fa": "چرا به نظر می‌رسد خوشحال هستید؟"
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because I like arithmetic problems",
+                    "To not disappoint Sarah and Michael",
+                    "Because I want to perform as well as Sarah and Michael",
+                    "Because my mistakes are discovered"
+                ],
+                "fa": [
+                    "زیرا من مسائل ریاضی را دوست دارم",
+                    "تا دوستانم را ناامید نکنید",
+                    "زیرا می‌خواهم به خوبی دوستانم عمل کنِم",
+                    "زیرا اشتباهات من کشف شده‌اند"
+                ]
+            }
+        ],
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": "52c5d5f08188cfe3e41b8097c341b7aa",
+        "ability": "Hidden Emotions",
+        "task": "Pretend",
+        "sub_task": "Hidden Emotions",
+        "story": {
+            "en": "Sarah doesn't particularly enjoy visiting her grandfather. His house always smells faintly of mothballs and the television is perpetually tuned to a channel showing old westerns. The visits feel incredibly long and drawn out, like time itself slows down. Despite this, Sarah makes sure to visit him every week. She tries her best to hide her boredom and lack of enthusiasm, plastering on a smile and nodding attentively, because she doesn't want to hurt his feelings.",
+            "fa": "شما دوست ندارید به دیدن پدربزرگتان بروید زیرا آن را خسته‌کننده می‌دانید، اما هر هفته به دیدن او می‌روید. و این دیدار زمان زیادی طول می‌کشد. شما سعی می‌کنید احساسات واقعی خود را از پدربزرگتان پنهان کنید تا او ناراحت نشود."
+        },
+        "question": [
+            {
+                "en": "Why does Sarah pretend to be happy?",
+                "fa": "چرا خوشحال به نظر می‌رسید؟"
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because she likes long visits",
+                    "Because she does not want her grandfather to get hurt",
+                    "Because she finds something interesting to do",
+                    "Because she wants to make her grandfather happy"
+                ],
+                "fa": [
+                    "زیرا من دیدارهای طولانی را دوست دارم",
+                    "زیرا نمی‌خواهم پدربزرگم ناراحت شود",
+                    "زیرا چیزی جالب برای انجام دادن پیدا می‌کنم",
+                    "زیرا می‌خواهم پدربزرگم خوشحال شود"
+                ]
+            }
+        ],
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": "4938f35c52ea4deff9eb191fc8389e18",
+        "ability": "Hidden Emotions",
+        "task": "Pretend",
+        "sub_task": "Hidden Emotions",
+        "story": {
+            "en": "You are strolling down a busy street, enjoying the afternoon sunshine, when an elderly woman shuffles past. Her clothes are a mismatched collection of outdated styles and clashing colors, frankly quite strange and even a little ugly. You instinctively feel a wave of surprise, but you quickly try to mask your true feelings with a polite smile. You don't want to offend her or make her feel self-conscious about her appearance, otherwise, she might scold you or become upset.",
+            "fa": "شما در خیابان قدم می‌زنید که یک پیرزن از کنار شما عبور می‌کند. او لباس‌های عجیب و زشتی پوشیده است. شما سعی می‌کنید احساسات واقعی خود را پنهان کنید وقتی او را با چنین پوششی می‌بینید، وگرنه ممکن است او شما را سرزنش کند."
+        },
+        "question": [
+            {
+                "en": "Why do you pretend to be happy on the surface?",
+                "fa": "چرا شما در ظاهر خوشحال به نظر می رسید؟"
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because I admire the old lady's dress",
+                    "Because I feel sympathy for the old lady",
+                    "Because I think the old lady has taste",
+                    "Because I want to avoid scolding"
+                ],
+                "fa": [
+                    "زیرا من لباس پیرزن را تحسین می کنم",
+                    "زیرا من برای پیرزن احساس همدردی می کنم",
+                    "زیرا من فکر می کنم پیرزن سلیقه دارد",
+                    "زیرا می خواهم از سرزنش اجتناب کنم"
+                ]
+            }
+        ],
+        "answer": [
+            "D"
+        ]
+    },
+    {
+        "id": "9f0d4d9fec6ea2f17723e75aff4f2a1d",
+        "ability": "Hidden Emotions",
+        "task": "Pretend",
+        "sub_task": "Hidden Emotions",
+        "story": {
+            "en": "You are outside playing with your friends in the park, and everyone is taking turns telling jokes. Sarah, one of the older children with a knack for storytelling, tells a joke. All the other kids burst out laughing, finding it hilarious. You listen intently to this joke, trying to understand the punchline, but you just don't get it. However, you absolutely do not want the other children to realize you didn't understand, fearing they might think you are not smart or slow.",
+            "fa": "شما با دوستانتان بازی می‌کنید و جوک تعریف می‌کنید. یکی از بچه‌های بزرگ‌تر یک جوک تعریف می‌کند و بقیه آن را جالب می‌یابند. شما به این جوک گوش می‌دهید، اما آن را نمی‌فهمید. با این حال، نمی‌خواهید بقیه بچه‌ها متوجه شوند که شما آن را نفهمیده‌اید، زیرا ممکن است فکر کنند شما احمق هستید."
+        },
+        "question": [
+            {
+                "en": "Why do you pretend to be happy?",
+                "fa": "چرا به نظر می‌رسد خوشحال هستید؟"
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because I like to listen to jokes",
+                    "Because I feel disappointed about the joke",
+                    "In order not to let other children think I am stupid",
+                    "Because I tell a better joke"
+                ],
+                "fa": [
+                    "چون دوست دارم به جوک‌ها گوش دهم",
+                    "چون از جوک احساس ناامیدی می‌کنم",
+                    "تا به بقیه بچه‌ها اجازه ندهم فکر کنند من احمق هستم",
+                    "چون جوک بهتری تعریف می‌کنم"
+                ]
+            }
+        ],
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": "876865c75bc4c9d5ef458b2de2b28bf0",
+        "ability": "Hidden Emotions",
+        "task": "Pretend",
+        "sub_task": "Hidden Emotions",
+        "story": {
+            "en": "You're participating in the annual school speech competition. You've been practicing for weeks, but on stage, nerves get the better of you, and you stumble over a key point in your speech, a mistake that feels huge. To make matters worse, all the other students, like Sarah and Michael, deliver flawless, captivating speeches. After the competition, everyone gathers to share recordings and critique each other's performances. Each student's speech sounds polished and professional. You feel a pang of disappointment. To avoid embarrassment, you try to pretend your speech was just as impressive as theirs, putting on a brave face.",
+            "fa": "شما در یک مسابقه سخنرانی در مدرسه شرکت می‌کنید. در سخنرانی خود اشتباهی مرتکب می‌شوید و همه دانش‌آموزان دیگر بسیار خوب عمل می‌کنند. پس از پایان مسابقه، دانش‌آموزان عملکردهای خود را با یکدیگر به اشتراک می‌گذارند و هیچ کس اشتباهی نمی‌کند. شما سعی می‌کنید وانمود کنید که سخنرانی شما به خوبی سخنرانی آن‌ها است."
+        },
+        "question": [
+            {
+                "en": "Why do you pretend to be happy on the surface?",
+                "fa": "چرا شما در ظاهر خوشحال به نظر می‌رسید؟"
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "Because I pretend my speech is as good as Sarah's and Michael's",
+                    "Because I participate in the school speech competition and am very happy",
+                    "Because I do not care about the competition results",
+                    "Because I want to be as excellent as Sarah and Michael"
+                ],
+                "fa": [
+                    "چون وانمود می‌کنم که سخنرانی من به خوبی همکلاسی‌هایم است",
+                    "چون در مسابقه سخنرانی مدرسه شرکت کرده‌ام و بسیار خوشحال هستم",
+                    "چون به نتایج مسابقه اهمیتی نمی‌دهم",
+                    "چون می‌خواهم به عالی بودن همکلاسی‌هایم برسم"
+                ]
+            }
+        ],
+        "answer": [
+            "A"
+        ]
+    }
+]

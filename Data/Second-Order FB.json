@@ -1,0 +1,1232 @@
+[
+    {
+        "id": "30cd3d8eba1fca84086e860adb803f17",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John and Emily were exploring the dusty, old attic. Sunlight streamed through cracks in the boarded-up windows, illuminating forgotten treasures. They saw rows of drawers, stacks of old suitcases, and a large, antique cabinet. While rummaging through a drawer, they discovered a bright red vest. Emily, feeling a bit claustrophobic, decided to leave the attic. As soon as she was gone, John mischievously moved the vest from the drawer and carefully placed it inside the cabinet.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily returns to the attic, where does Emily think John will look for the vest?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Box",
+                "Suitcase",
+                "Cabinet",
+                "Drawer"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "e5894212a1e6d32252afc8d74c773495",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Sarah and Michael were idly wandering around the brightly lit, comfortable lounge. They noticed a stylish handbag sitting on a plush armchair and a sturdy suitcase resting on the floor nearby. Peeking inside the handbag, they discovered a bright orange carrot. Michael, feeling a bit tired, decided to leave the lounge to grab a coffee. While he was gone, Sarah, being a little mischievous, quietly moved the carrot from the handbag and carefully placed it inside the suitcase, zipping it closed.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael returns to the lounge, where does Sarah think Michael will look for the carrot?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Suitcase",
+                "Basket",
+                "Drawer",
+                "Handbag"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "b19382e8843a1c7d1554e56a5e1cde20",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily and David were idly wandering in the brightly lit airport lounge, their eyes scanning the various travelers and luggage. They noticed a stylish handbag sitting near a worn-out suitcase. Peeking inside the handbag, they were surprised to find a single, bright orange carrot. David, needing to make a phone call, excused himself and left the lounge. While he was gone, Emily, feeling mischievous, quietly moved the carrot from the handbag to the suitcase, zipping the suitcase closed afterwards.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After David returns to the lounge, where does David think Emily will look for the carrot?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Box",
+                "Handbag",
+                "Cabinet",
+                "Suitcase"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "fac0823c0de3620cf0d9e9598a8cc220",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Sarah and Michael were exploring their grandmother's spacious kitchen. They noticed a brightly colored fruit plate sitting on the counter, a woven basket filled with apples, and a stylish handbag resting on a nearby chair. They spotted a ripe banana in the fruit plate. Michael, feeling a bit bored, decided to leave the kitchen to play outside. While he was gone, Sarah, being a little mischievous, quietly moved the banana from the fruit plate to the handbag, giggling to herself.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael returns to the kitchen, where does Sarah think Michael will look for the banana?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Cabinet",
+                "Fruit plate",
+                "Basket",
+                "Handbag"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "e1f4ed38fefe7cd807bb19fd2fe51dbc",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Sarah and Michael were relaxing in the break room, chatting and enjoying a quiet moment. They noticed a cardboard box and a wooden crate in the corner. Curious, they investigated and discovered a bright green zucchini nestled inside the box. Michael then excused himself and left the break room to take a phone call. While he was gone, Sarah, deciding to be helpful, moved the zucchini from the box and placed it inside the crate, thinking it would be safer there.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael returns to the break room, where does Michael think Sarah will look for the zucchini?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Briefcase",
+                "Crate",
+                "Box",
+                "Safe"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "861a6c77d302dc622d3a3da0e8465634",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily was working in the old factory when she stumbled upon a cardboard box. The label on the box clearly read 'Raincoat'. Emily, curious but unable to see inside without opening it, decided to investigate. She carefully opened the box and, to her surprise, found a stylish jacket instead of a raincoat. Disappointed that there was no raincoat inside, Emily closed the box and placed it back exactly where she found it. A few minutes later, John entered the factory and noticed the same box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After John opens the box, what does Emily think John expects to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Potato",
+                "Shirt",
+                "Raincoat",
+                "Jacket"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "9454385463d5da88baac5c18cf85265f",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John was working in the old, dusty factory when he stumbled upon a cardboard box. The label on the box clearly read 'Raincoat'. John, curious about its contents but unable to see inside without opening it, decided to investigate. He carefully opened the box and, to his surprise, found a stylish jacket instead. There was no raincoat to be seen. Disappointed, John closed the box and placed it back exactly where he had found it. A few minutes later, Mary entered the factory, noticing the box with the 'Raincoat' label.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the box, what does Mary think John expects to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Shirt",
+                "Raincoat",
+                "Jacket",
+                "Mask"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "9138fd90c1ef2e5c4b74d9b07cb31450",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John and Mike were taking a leisurely stroll around the old, weathered farm. As they wandered, they noticed a woven basket sitting near the barn and a sturdy, wooden storage cabinet against the farmhouse wall. They spotted a warm, brown coat nestled inside the basket. Shortly after, Mike said goodbye and left the farm. While Mike was away, John quietly moved the coat from the basket and carefully placed it inside the storage cabinet, hoping to keep it safe from the elements.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mike returns to the farm, where does John think Mike will look for the jacket?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Cabinet",
+                "Handbag",
+                "Basket",
+                "Storage cabinet"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "947c4cbfa980043be9a4c60130c25a08",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily and David were exploring in the brightly lit kitchen. They noticed a wooden cabinet and a sturdy suitcase. Inside the cabinet, they discovered a colorful tie. David then left the kitchen to answer a phone call. While he was gone, Emily quietly moved the tie from the cabinet and carefully placed it inside the suitcase.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After David returns to the kitchen, where does Emily think David will look for the tie?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Drawer",
+                "Briefcase",
+                "Cabinet",
+                "Suitcase"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "fea6dcb279abb16cf20928f8358c83c4",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily and David were exploring their grandmother's old kitchen one afternoon. They noticed a dusty cabinet tucked away in a corner and a worn-out suitcase sitting on the floor nearby. Peeking inside the cabinet, they discovered a colorful tie. David, feeling bored, decided to leave the kitchen to play outside. While he was gone, Emily, being a bit mischievous, quietly moved the tie from the cabinet and carefully placed it inside the suitcase.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After David returns to the kitchen, where does David think Emily will look for the tie?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Backpack",
+                "Cabinet",
+                "Suitcase",
+                "Handbag"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "dc82e6769c5e6c32a33997ee482eaa8d",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John was tidying up the living room when he stumbled upon a cardboard box. The label on the box clearly read 'Socks'. John, intrigued, hadn't seen this box before. He couldn't see through the cardboard to discern its contents. Carefully, John opened the box. To his surprise, instead of socks, he found an old, ornate compass nestled inside. There were definitely no socks to be seen. John, a little puzzled, closed the box and placed it back exactly where he found it. A few minutes later, Mary entered the living room and noticed the box sitting on the floor.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the box, what does Mary think John expects to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "socks",
+                "compass",
+                "ring",
+                "coat"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "eeb18d7c4a45738ed615041443310110",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Sarah and Michael were enjoying a leisurely stroll through the vibrant garden, filled with colorful flowers and buzzing bees. They came across an old, weathered suitcase and a small, wooden drawer sitting beneath a shady oak tree. Peeking inside the suitcase, they discovered a beautiful, sparkling ring. Michael, after admiring the ring, said he had to leave to run an errand. Once Michael had left the garden, Sarah, being a bit mischievous, carefully moved the ring from the suitcase and placed it inside the drawer.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael returns to the garden, where does Michael think Sarah will look for the ring?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Drawer",
+                "Suitcase",
+                "Safe",
+                "Basket"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "7739b0fd5069d8294a961daf33a04081",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Sarah was exploring the old bell tower when she stumbled upon a wicker basket sitting near the window. A faded label on the basket read 'Pepper Powder'. Sarah, curious, couldn't see what was inside without opening it. She carefully lifted the lid and was surprised to find a soft, woolen sweater nestled inside. There was no pepper powder to be seen. Sarah, a little puzzled, closed the basket and gently placed it back in its original spot. Moments later, Emily entered the bell tower and noticed the basket.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily opens the basket, what does Sarah think Emily expects to find in the basket?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sweater",
+                "Banana",
+                "Pepper powder",
+                "Button"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "4eecf893927d4b5447a9ca80439d43a1",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Sarah was exploring the old bell tower when she stumbled upon a wicker basket. A faded label on the basket read 'Pepper Powder'. Sarah, curious, couldn't see the contents from where she stood. Carefully, she opened the basket's lid, and to her surprise, she found a soft, woolen sweater nestled inside. There was absolutely no pepper powder to be seen. Sarah, a little puzzled, closed the basket and gently placed it back in its original spot. A few minutes later, Emily entered the bell tower, her eyes scanning the room until they landed on the basket.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily opens the basket, what does Emily think Sarah expects to find in the basket?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Calculator",
+                "Pepper powder",
+                "Sweater",
+                "Cup"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "b616b1e1c69c1bf036514e2a69c400a1",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John was walking through the brightly lit parking lot when he spotted a handbag. Attached to the handbag was a colorful label that read 'Banana'. John, curious, couldn't see what was inside the bag from where he stood. He carefully opened the handbag and discovered a whimsical mask inside. To his surprise, there was no banana to be found. Disappointed but respectful, John closed the handbag and gently placed it back in its original spot. Moments later, Mary entered the parking lot and noticed the handbag.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the handbag, what does John think Mary expects to find in the handbag?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Banana",
+                "Mask",
+                "Pepper powder",
+                "Coconut"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "4b67348052d96478d8692df4390db5ee",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John found a handbag in the brightly lit parking lot. The label attached to the handbag had a picture of a banana on it. John couldn't see what was inside the handbag without opening it. Curious, John opened the handbag and discovered a colorful mask inside. There was no banana to be found in the handbag. Disappointed but responsible, John closed the handbag carefully and placed it back in its original spot. Shortly after, Mary entered the parking lot and noticed the handbag.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary opens the handbag, what does Mary think John expects to find in the handbag?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Calculator",
+                "Banana",
+                "Thermometer",
+                "Mask"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "38505b203eb143473c410bdaf633ef8c",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John and Mary were enjoying a leisurely afternoon, strolling on the sun-drenched balcony of their apartment. They noticed a cardboard box and a sturdy suitcase sitting near the railing. Peeking inside the box, they discovered a glass bottle filled with a sparkling liquid. Mary, needing to answer a phone call, excused herself and went inside, leaving John on the balcony. While she was gone, John, being a bit mischievous, quietly moved the bottle from the box and carefully placed it inside the suitcase, closing it securely.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary returns to the balcony, where does John think Mary will look for the bottle?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Box",
+                "Briefcase",
+                "Safe",
+                "Suitcase"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "466f4995873278df13a90faaebe14d85",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John and Mary were enjoying a leisurely afternoon, strolling on the sun-drenched balcony. They noticed a cardboard box and a sturdy suitcase sitting nearby. Inside the box, they discovered a small, glass bottle. Mary, excusing herself, left the balcony to answer a phone call. While she was gone, John, being a bit mischievous, quietly moved the bottle from the box and carefully placed it inside the suitcase, thinking it would be a funny surprise.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mary returns to the balcony, where does Mary think John will look for the bottle?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Handbag",
+                "Briefcase",
+                "Box",
+                "Suitcase"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "990f375fd602b5fee27591f141130382",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily was exploring the classroom when she came across a small, wooden drawer built into a desk. A neatly printed label on the front of the drawer read 'Cucumber'. Emily, curious, couldn't see what was inside without opening it. She carefully pulled the drawer open and, to her surprise, found not a cucumber, but a thick, leather-bound book. Disappointed but also a little amused, Emily closed the drawer gently and pushed it back into its place. A few moments later, Jessica walked into the classroom and noticed the same drawer.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Jessica opens the drawer, what does Emily think Jessica expects to find in the drawer?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "book",
+                "cucumber",
+                "crayon",
+                "pineapple"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "d283d7d1f8f5e1036a98a68e5206a282",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily and David were exploring a large, echoing hall. They noticed a wooden cabinet standing against one wall and a dusty cardboard box sitting in a corner. Inside the cabinet, they discovered a bright red vest. David, feeling a bit tired, decided to leave the hall to get a drink of water. While he was gone, Emily quietly moved the vest from the cabinet and placed it inside the cardboard box, hoping to surprise David when he returned.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After David returns to the hall, where does David think Emily will look for the vest?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Box",
+                "Drawer",
+                "Cabinet",
+                "Suitcase"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "67dd49b026e893473e80df76c8bd76fc",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily discovered a cardboard box sitting in the hallway. A label on the box clearly indicated it contained a vest. Emily, unable to see through the thick cardboard, wondered about the vest inside. She carefully opened the box and, to her surprise, found a cozy hoodie instead. There was absolutely no vest to be found. Disappointed but intrigued, Emily closed the box and gently placed it back in its original spot in the hallway. Shortly after, David walked into the hallway and noticed the box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After David opens the box, what does Emily think David expects to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sponge",
+                "Pumpkin",
+                "Sweatshirt",
+                "Vest"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "89ba919bf4271b601dfbbceb873a895c",
+        "ability": "Belief: Second-order Content false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Sarah was walking through the hallway when she noticed a cardboard box sitting on the floor. The label on the box clearly read 'Vest.' Sarah couldn't see what was inside without opening it. Curious, Sarah opened the box, her eyes widening in surprise as she discovered a cozy hoodie instead of a vest. Disappointed but not surprised, since things are often mislabeled, Sarah closed the box and carefully placed it back exactly where she found it. A few minutes later, Michael entered the hallway and saw the box.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael opens the box, what does Michael think Sarah expects to find in the box?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Tomato",
+                "Hoodie",
+                "Vest",
+                "Compass"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "0b91cf0a8af98be386c2ef3d3d500173",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John and Michael were taking a leisurely stroll around the old factory grounds. As they walked, they noticed various items scattered about, including some backpacks and heavy-duty safes. Rifling through one of the backpacks, they discovered a bright yellow raincoat. Shortly after, Michael left the factory to grab a bite to eat. While Michael was gone, John, being a bit mischievous, quietly moved the raincoat from the backpack and carefully placed it inside one of the safes.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael returns to the factory, where does John think Michael will look for the raincoat?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Basket",
+                "Backpack",
+                "Box",
+                "Safe"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "1ee5ab715cd7018913e653c64edac065",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John and Mike were casually strolling around the old factory, which was filled with various items. They noticed some backpacks and sturdy safes scattered around. Peeking into one of the backpacks, they found a bright yellow raincoat. Shortly after, Mike left the factory. While Mike was gone, John, being a bit mischievous, moved the raincoat from the backpack and carefully placed it inside one of the safes.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mike returns to the factory, where does Mike think John will look for the raincoat?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Safe",
+                "Backpack",
+                "Cabinet",
+                "Handbag"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "44c634521273b50cc4934d3c96f3c793",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "David and Emily were wandering around their shared office space, a slightly cluttered room with a view of the city. They noticed the old metal storage locker in the corner and Emily's stylish leather handbag resting on her desk. Inside the storage locker, they discovered a juicy pineapple, its spiky leaves poking out. Emily, needing to run an errand, left the office, saying she'd be back shortly. As soon as she was gone, David, with a mischievous grin, carefully moved the pineapple from the storage locker and placed it inside Emily's handbag, zipping it closed.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily returns to the office, where does David think Emily will look for the pineapple?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Box",
+                "Storage locker",
+                "Handbag",
+                "Suitcase"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "5fea7d46adac2125f9570fec0f182f2c",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily and Michael were casually strolling around the brightly lit office. They noticed a large storage locker in the corner and a stylish handbag sitting on a nearby desk. Inside the storage locker, they discovered a ripe, golden pineapple. Emily then left the office for a quick coffee break. While she was gone, Michael, with a mischievous grin, quietly moved the pineapple from the storage locker and carefully placed it inside the handbag.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily returns to the office, where does Emily think Michael will look for the pineapple?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Storage locker",
+                "Cabinet",
+                "Drawer",
+                "Handbag"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "276a583b66f78eb303f9df6e55014e8d",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Sarah and Emily were exploring the old factory. Sunlight streamed through the grimy windows, illuminating dusty handbags and towering metal cabinets. They spotted a bright purple eggplant nestled inside one of the handbags. Emily, feeling unwell, decided to leave the factory. As soon as Emily was gone, Sarah, with a mischievous grin, carefully moved the eggplant from the handbag and placed it inside one of the large metal cabinets, closing the door with a soft clang.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily returns to the factory, where does Sarah think Emily will look for the eggplant?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Box",
+                "Cabinet",
+                "Handbag",
+                "Drawer"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "bac7eb9a20c4259a8372a24e4b4f754a",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Sarah and Emily were exploring the old factory. Dust motes danced in the shafts of sunlight piercing through the grimy windows. They wandered past rows of handbags hanging on racks and towering metal cabinets bolted to the floor. Sarah spotted a plump, purple eggplant nestled inside one of the handbags. Shortly after, Emily left the factory to grab some water. While she was gone, Sarah, being a bit mischievous, moved the eggplant from the handbag and carefully placed it inside one of the metal cabinets.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Emily returns to the factory, where does Emily think Sarah will look for the eggplant?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Cabinet",
+                "Handbag",
+                "Backpack",
+                "Tote bag"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "62714dd0d3ab69fcfb75c74c25891ca1",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "John and Mike were playing in the bedroom. They noticed a handbag, a briefcase, and a backpack lying on the floor. Peeking inside, they discovered a head of cabbage nestled in the handbag. Mike then left the bedroom to get a drink. While Mike was gone, John, being a bit mischievous, quietly moved the cabbage from the handbag and carefully placed it inside the backpack.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Mike returns to the bedroom, where does John think Mike will look for the cabbage?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Backpack",
+                "Handbag",
+                "Crossbody bag",
+                "Briefcase"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "a7ae1b3ad741cd70ebcdc5f029b9f80d",
+        "ability": "Belief: Second-order Location false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "David and Michael were playing in the brightly lit bedroom. Their eyes fell upon a handbag sitting on a chair, a sturdy briefcase resting on the floor, and a colorful backpack hanging on the door. They discovered a head of cabbage nestled inside the handbag. Michael then left the bedroom to grab a snack. While Michael was gone, David, being a bit mischievous, quietly moved the cabbage from the handbag and carefully placed it into the backpack.",
+            "fa": ""
+        },
+        "question": {
+            "en": "After Michael returns to the bedroom, where does Michael think David looks for the cabbage?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Briefcase",
+                "Handbag",
+                "Hand suitcase",
+                "Backpack"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "175dad124acc54ba393cd3e1b1993402",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Nathan, Logan, Jackson, Abigail and Isabella entered the back yard.\nThe lettuce is in the blue container.\nNathan moved the lettuce to the green cupboard.\nNathan exited the back yard.\nLogan moved the lettuce to the blue treasure chest.\nLogan exited the back yard.\nJackson made no movements and stayed in the back yard for 1 minute.\nJackson exited the back yard.\nAbigail moved the lettuce to the red basket.\nAbigail exited the back yard.\nIsabella moved the lettuce to the blue container.\nLogan dislikes the corn.\nIsabella exited the back yard.\nNathan, Logan, Jackson, Abigail and Isabella entered the waiting room.\nJackson, Nathan and Logan entered the playroom.\nThe melon is in the green box.\nJackson made no movements and stayed in the playroom for 1 minute.\nNathan dislikes the lettuce.\nJackson exited the playroom.\nNathan made no movements and stayed in the playroom for 1 minute.\nNathan exited the playroom.\nLogan moved the melon to the red crate.\nLogan exited the playroom.\nJackson, Nathan and Logan entered the waiting room.\nIsabella, Jackson, Abigail and Nathan entered the hallway.\nThe tangerine is in the blue bottle.\nIsabella moved the tangerine to the red box.\nIsabella exited the hallway.\nJackson made no movements and stayed in the hallway for 1 minute.\nJackson exited the hallway.\nAbigail moved the tangerine to the blue bathtub.\nAbigail exited the hallway.\nLogan dislikes the lettuce.\nNathan moved the tangerine to the red container.\nNathan exited the hallway.\nIsabella, Jackson, Abigail and Nathan entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Abigail think Isabella thinks the lettuce is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red drawer",
+                "red container",
+                "green box",
+                "green bathtub",
+                "red basket",
+                "blue cupboard",
+                "red box",
+                "blue container"
+            ],
+            "fa": []
+        },
+        "answer": "E"
+    },
+    {
+        "id": "93b6d5f363e19b1deec80069a519151f",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily, Charlotte, Owen, Nathan and Liam entered the attic.\nThe onion is in the blue treasure chest.\nEmily made no movements and stayed in the attic for 1 minute.\nEmily exited the attic.\nCharlotte moved the onion to the green treasure chest.\nCharlotte exited the attic.\nOwen moved the onion to the red drawer.\nOwen exited the attic.\nNathan made no movements and stayed in the attic for 1 minute.\nNathan exited the attic.\nLiam made no movements and stayed in the attic for 1 minute.\nLiam exited the attic.\nNathan lost his gloves.\nEmily, Charlotte, Owen, Nathan and Liam entered the waiting room.\nEmily, Charlotte and Liam entered the front yard.\nThe lemon is in the red bottle.\nEmily moved the lemon to the blue container.\nCharlotte likes the red bottle.\nEmily exited the front yard.\nCharlotte moved the lemon to the blue crate.\nCharlotte exited the front yard.\nLiam moved the lemon to the green drawer.\nEmily likes the red envelope.\nLiam exited the front yard.\nEmily, Charlotte and Liam entered the waiting room.\nNathan dislikes the eggplant.\nCharlotte, Owen, Liam and Nathan entered the attic.\nThe onion is in the red drawer.\nCharlotte made no movements and stayed in the attic for 1 minute.\nCharlotte exited the attic.\nOwen moved the onion to the blue bottle.\nOwen exited the attic.\nLiam made no movements and stayed in the attic for 1 minute.\nLiam exited the attic.\nLiam saw a dog.\nNathan made no movements and stayed in the attic for 1 minute.\nNathan exited the attic.\nCharlotte, Owen, Liam and Nathan entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Emily think Nathan thinks the onion is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "blue container",
+                "green bathtub",
+                "red drawer",
+                "blue bottle",
+                "red pantry",
+                "blue treasure chest",
+                "blue drawer",
+                "red envelope"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "13bf10b1faf5d5d1b2e7bfc7ad4f17d5",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Mila, Carter, Isla, Amelia and Emma entered the staircase.\nThe peas is in the green treasure chest.\nMila moved the peas to the blue bucket.\nMila exited the staircase.\nCarter moved the peas to the green bucket.\nCarter exited the staircase.\nIsla made no movements and stayed in the staircase for 1 minute.\nIsla exited the staircase.\nAmelia dislikes the spinach.\nAmelia moved the peas to the blue cupboard.\nAmelia exited the staircase.\nEmma made no movements and stayed in the staircase for 1 minute.\nEmma exited the staircase.\nMila, Carter, Isla, Amelia and Emma entered the waiting room.\nAmelia, Carter and Isla entered the staircase.\nMila likes the red basket.\nThe watermelon is in the blue bucket.\nAmelia made no movements and stayed in the staircase for 1 minute.\nAmelia exited the staircase.\nCarter moved the watermelon to the green bucket.\nCarter exited the staircase.\nIsla made no movements and stayed in the staircase for 1 minute.\nIsla exited the staircase.\nAmelia, Carter and Isla entered the waiting room.\nEmma, Amelia, Isla and Carter entered the study.\nThe lemon is in the red basket.\nEmma made no movements and stayed in the study for 1 minute.\nEmma exited the study.\nAmelia made no movements and stayed in the study for 1 minute.\nAmelia exited the study.\nIsla moved the lemon to the green cupboard.\nIsla exited the study.\nCarter made no movements and stayed in the study for 1 minute.\nCarter exited the study.\nEmma, Amelia, Isla and Carter entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Amelia think Isla thinks the peas is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green pantry",
+                "red bucket",
+                "green bucket",
+                "blue cupboard",
+                "green bathtub",
+                "blue treasure chest",
+                "red drawer",
+                "blue drawer"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "c973e85439e486ce346b758ef98c6cf9",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Jackson, Emma, Abigail, Logan and Benjamin entered the living room.\nThe green pepper is in the red basket.\nJackson moved the green pepper to the blue container.\nJackson exited the living room.\nBenjamin saw a cat.\nEmma made no movements and stayed in the living room for 1 minute.\nEmma exited the living room.\nAbigail made no movements and stayed in the living room for 1 minute.\nAbigail exited the living room.\nLogan made no movements and stayed in the living room for 1 minute.\nAbigail dislikes the grapes.\nLogan exited the living room.\nBenjamin made no movements and stayed in the living room for 1 minute.\nBenjamin exited the living room.\nJackson, Emma, Abigail, Logan and Benjamin entered the waiting room.\nEmma likes the blue bottle.\nBenjamin, Emma and Abigail entered the bedroom.\nThe grapes is in the red bottle.\nBenjamin moved the grapes to the green bathtub.\nBenjamin exited the bedroom.\nEmma made no movements and stayed in the bedroom for 1 minute.\nLogan dislikes the green pepper.\nEmma exited the bedroom.\nAbigail made no movements and stayed in the bedroom for 1 minute.\nAbigail exited the bedroom.\nBenjamin, Emma and Abigail entered the waiting room.\nAbigail, Emma, Jackson and Logan entered the dining room.\nThe watermelon is in the blue drawer.\nAbigail made no movements and stayed in the dining room for 1 minute.\nAbigail exited the dining room.\nEmma made no movements and stayed in the dining room for 1 minute.\nEmma exited the dining room.\nJackson moved the watermelon to the green cupboard.\nJackson exited the dining room.\nLogan moved the watermelon to the red container.\nLogan exited the dining room.\nAbigail, Emma, Jackson and Logan entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Benjamin think Emma thinks the green_pepper is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red basket",
+                "red crate",
+                "green cupboard",
+                "green bottle",
+                "red bottle",
+                "blue container",
+                "red container",
+                "green bathtub"
+            ],
+            "fa": []
+        },
+        "answer": "F"
+    },
+    {
+        "id": "e13cf8efcab6d765c8a09f4841d2bdcf",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Mila, Amelia, Jackson, Hannah and Abigail entered the patio.\nThe peas is in the green basket.\nMila made no movements and stayed in the patio for 1 minute.\nMila exited the patio.\nAmelia made no movements and stayed in the patio for 1 minute.\nAmelia exited the patio.\nJackson made no movements and stayed in the patio for 1 minute.\nJackson exited the patio.\nJackson likes the green bathtub.\nHannah moved the peas to the blue bathtub.\nHannah exited the patio.\nAbigail made no movements and stayed in the patio for 1 minute.\nAbigail exited the patio.\nMila, Amelia, Jackson, Hannah and Abigail entered the waiting room.\nHannah, Amelia and Mila entered the lounge.\nThe lemon is in the blue cupboard.\nHannah moved the lemon to the red envelope.\nHannah exited the lounge.\nAmelia moved the lemon to the blue container.\nAmelia exited the lounge.\nJackson dislikes the beans.\nMila moved the lemon to the green box.\nHannah likes the green crate.\nMila exited the lounge.\nHannah, Amelia and Mila entered the waiting room.\nHannah, Abigail, Mila and Jackson entered the closet.\nThe sweet potato is in the red bucket.\nHannah moved the sweet potato to the green cupboard.\nHannah exited the closet.\nAbigail made no movements and stayed in the closet for 1 minute.\nAbigail exited the closet.\nMila made no movements and stayed in the closet for 1 minute.\nMila exited the closet.\nJackson made no movements and stayed in the closet for 1 minute.\nJackson exited the closet.\nHannah, Abigail, Mila and Jackson entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Amelia think Hannah thinks the peas is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "blue container",
+                "green basket",
+                "red drawer",
+                "green bathtub",
+                "blue cupboard",
+                "red bucket",
+                "red basket",
+                "green cupboard"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "2dabf9f3aa933ded3657a0c5fc95b9fb",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Hannah, Lily, Logan, Elizabeth and Noah entered the study.\nThe turnip is in the red basket.\nHannah made no movements and stayed in the study for 1 minute.\nHannah exited the study.\nLily made no movements and stayed in the study for 1 minute.\nLily exited the study.\nLogan made no movements and stayed in the study for 1 minute.\nLily dislikes the onion.\nLogan exited the study.\nElizabeth moved the turnip to the green pantry.\nElizabeth exited the study.\nNoah moved the turnip to the red basket.\nNoah exited the study.\nLogan lost his watch.\nHannah, Lily, Logan, Elizabeth and Noah entered the waiting room.\nNoah, Logan and Hannah entered the dining room.\nThe sweet potato is in the blue suitcase.\nNoah moved the sweet potato to the red envelope.\nNoah exited the dining room.\nLogan moved the sweet potato to the green drawer.\nLogan exited the dining room.\nHannah made no movements and stayed in the dining room for 1 minute.\nHannah exited the dining room.\nNoah, Logan and Hannah entered the waiting room.\nNoah, Lily, Hannah and Elizabeth entered the study.\nThe turnip is in the red basket.\nNoah dislikes the cabbage.\nNoah made no movements and stayed in the study for 1 minute.\nNoah exited the study.\nLily made no movements and stayed in the study for 1 minute.\nLily exited the study.\nHannah moved the turnip to the blue pantry.\nHannah exited the study.\nElizabeth made no movements and stayed in the study for 1 minute.\nElizabeth exited the study.\nNoah, Lily, Hannah and Elizabeth entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Lily think Hannah thinks the turnip is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green basket",
+                "red basket",
+                "green crate",
+                "blue drawer",
+                "green box",
+                "red bucket",
+                "green pantry",
+                "red envelope"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "e660299afae3f6e27930c08357e05684",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Evelyn, Chloe, Charlotte, Logan and Mila entered the staircase.\nChloe lost his gloves.\nThe watermelon is in the green cupboard.\nEvelyn made no movements and stayed in the staircase for 1 minute.\nChloe lost his watch.\nEvelyn exited the staircase.\nChloe made no movements and stayed in the staircase for 1 minute.\nChloe exited the staircase.\nCharlotte made no movements and stayed in the staircase for 1 minute.\nCharlotte exited the staircase.\nLogan made no movements and stayed in the staircase for 1 minute.\nLogan exited the staircase.\nMila moved the watermelon to the green cupboard.\nMila exited the staircase.\nEvelyn, Chloe, Charlotte, Logan and Mila entered the waiting room.\nCharlotte, Logan and Chloe entered the staircase.\nThe lemon is in the red pantry.\nCharlotte made no movements and stayed in the staircase for 1 minute.\nCharlotte exited the staircase.\nLogan made no movements and stayed in the staircase for 1 minute.\nLogan exited the staircase.\nChloe moved the lemon to the green cupboard.\nChloe exited the staircase.\nCharlotte, Logan and Chloe entered the waiting room.\nEvelyn, Mila, Logan and Chloe entered the staircase.\nThe watermelon is in the green cupboard.\nEvelyn made no movements and stayed in the staircase for 1 minute.\nEvelyn exited the staircase.\nMila made no movements and stayed in the staircase for 1 minute.\nMila exited the staircase.\nLogan moved the watermelon to the red bottle.\nLogan exited the staircase.\nChloe made no movements and stayed in the staircase for 1 minute.\nChloe exited the staircase.\nEvelyn, Mila, Logan and Chloe entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Logan think Evelyn thinks the watermelon is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "blue crate",
+                "blue bucket",
+                "red basket",
+                "green cupboard",
+                "red pantry",
+                "red bottle",
+                "green envelope",
+                "blue treasure chest"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "eb3af7bf7f39b4fb9df01485db5430d3",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Jack, Liam, Aiden, Sophia and Nathan entered the garage.\nThe lemon is in the green drawer.\nJack moved the lemon to the blue pantry.\nJack exited the garage.\nLiam moved the lemon to the blue crate.\nLiam exited the garage.\nAiden moved the lemon to the green basket.\nAiden exited the garage.\nSophia made no movements and stayed in the garage for 1 minute.\nSophia exited the garage.\nNathan moved the lemon to the green drawer.\nNathan exited the garage.\nJack likes the green drawer.\nJack, Liam, Aiden, Sophia and Nathan entered the waiting room.\nJack, Liam and Nathan entered the garage.\nThe eggplant is in the green envelope.\nJack made no movements and stayed in the garage for 1 minute.\nJack exited the garage.\nLiam made no movements and stayed in the garage for 1 minute.\nLiam exited the garage.\nNathan saw a cat.\nNathan moved the eggplant to the blue crate.\nNathan exited the garage.\nJack, Liam and Nathan entered the waiting room.\nSophia, Aiden, Liam and Nathan entered the cellar.\nThe cherry is in the red envelope.\nSophia moved the cherry to the green bottle.\nSophia exited the cellar.\nLiam lost his watch.\nAiden moved the cherry to the green crate.\nAiden exited the cellar.\nLiam made no movements and stayed in the cellar for 1 minute.\nJack dislikes the persimmon.\nLiam exited the cellar.\nAiden dislikes the lemon.\nNathan made no movements and stayed in the cellar for 1 minute.\nNathan exited the cellar.\nSophia, Aiden, Liam and Nathan entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Nathan think Aiden thinks the lemon is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green cupboard",
+                "green bucket",
+                "green basket",
+                "blue pantry",
+                "red basket",
+                "red box",
+                "blue bottle",
+                "red envelope"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "c551a9c7230fdd0ea28707d3d0534ac3",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Isla, Elizabeth, William, Aiden and Abigail entered the playroom.\nThe cabbage is in the blue bathtub.\nAbigail likes the green drawer.\nIsla made no movements and stayed in the playroom for 1 minute.\nIsla exited the playroom.\nElizabeth made no movements and stayed in the playroom for 1 minute.\nElizabeth exited the playroom.\nWilliam moved the cabbage to the blue treasure chest.\nWilliam exited the playroom.\nAiden moved the cabbage to the blue bottle.\nElizabeth likes the green treasure chest.\nAiden exited the playroom.\nAbigail made no movements and stayed in the playroom for 1 minute.\nAbigail exited the playroom.\nIsla likes the green bottle.\nIsla, Elizabeth, William, Aiden and Abigail entered the waiting room.\nWilliam, Elizabeth and Isla entered the closet.\nThe lime is in the red envelope.\nWilliam moved the lime to the green bathtub.\nWilliam exited the closet.\nElizabeth made no movements and stayed in the closet for 1 minute.\nElizabeth exited the closet.\nIsla made no movements and stayed in the closet for 1 minute.\nIsla exited the closet.\nWilliam, Elizabeth and Isla entered the waiting room.\nWilliam, Isla, Aiden and Abigail entered the playroom.\nAiden likes the blue treasure chest.\nThe cabbage is in the blue bottle.\nWilliam made no movements and stayed in the playroom for 1 minute.\nWilliam exited the playroom.\nIsla moved the cabbage to the blue bathtub.\nIsla exited the playroom.\nAiden made no movements and stayed in the playroom for 1 minute.\nAiden exited the playroom.\nAbigail made no movements and stayed in the playroom for 1 minute.\nAbigail exited the playroom.\nWilliam, Isla, Aiden and Abigail entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Elizabeth think Isla thinks the cabbage is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green bucket",
+                "red container",
+                "blue bathtub",
+                "green pantry",
+                "green bottle",
+                "green treasure chest",
+                "blue cupboard",
+                "blue treasure chest"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "4eda537d3a4766165cebeb053f03f13f",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Logan, Ava, Evelyn, Charlotte and William entered the kitchen.\nThe sweet potato is in the red container.\nAva saw a mouse.\nLogan made no movements and stayed in the kitchen for 1 minute.\nLogan exited the kitchen.\nAva moved the sweet potato to the blue cupboard.\nAva exited the kitchen.\nEvelyn made no movements and stayed in the kitchen for 1 minute.\nEvelyn exited the kitchen.\nCharlotte moved the sweet potato to the green drawer.\nCharlotte exited the kitchen.\nWilliam moved the sweet potato to the red container.\nWilliam exited the kitchen.\nLogan, Ava, Evelyn, Charlotte and William entered the waiting room.\nAva, Logan and Evelyn entered the hallway.\nThe peas is in the red basket.\nAva made no movements and stayed in the hallway for 1 minute.\nAva exited the hallway.\nLogan made no movements and stayed in the hallway for 1 minute.\nLogan exited the hallway.\nEvelyn moved the peas to the green bathtub.\nEvelyn exited the hallway.\nAva, Logan and Evelyn entered the waiting room.\nLogan lost his phone.\nWilliam, Logan, Evelyn and Charlotte entered the bedroom.\nCharlotte likes the green bathtub.\nThe banana is in the green cupboard.\nWilliam moved the banana to the green bottle.\nWilliam exited the bedroom.\nLogan moved the banana to the green envelope.\nLogan exited the bedroom.\nEvelyn moved the banana to the red crate.\nEvelyn exited the bedroom.\nCharlotte moved the banana to the green pantry.\nCharlotte exited the bedroom.\nWilliam, Logan, Evelyn and Charlotte entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Logan think Evelyn thinks the sweet_potato is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green cupboard",
+                "green basket",
+                "red container",
+                "blue drawer",
+                "red basket",
+                "blue cupboard",
+                "green box",
+                "blue pantry"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "db8779aa0bcc39ea7af0a72f39777b9c",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "William, Lily, Aiden, Emma and Isla entered the porch.\nThe melon is in the green bathtub.\nWilliam made no movements and stayed in the porch for 1 minute.\nWilliam exited the porch.\nLily made no movements and stayed in the porch for 1 minute.\nLily exited the porch.\nAiden moved the melon to the blue pantry.\nLily likes the green bucket.\nAiden exited the porch.\nEmma moved the melon to the green bucket.\nEmma exited the porch.\nIsla moved the melon to the green bathtub.\nIsla exited the porch.\nWilliam, Lily, Aiden, Emma and Isla entered the waiting room.\nEmma, Isla and Aiden entered the basement.\nThe watermelon is in the blue suitcase.\nEmma made no movements and stayed in the basement for 1 minute.\nEmma exited the basement.\nIsla moved the watermelon to the blue bottle.\nIsla exited the basement.\nAiden made no movements and stayed in the basement for 1 minute.\nAiden exited the basement.\nEmma, Isla and Aiden entered the waiting room.\nAiden likes the red pantry.\nWilliam, Isla, Aiden and Lily entered the front yard.\nThe beans is in the red bottle.\nWilliam made no movements and stayed in the front yard for 1 minute.\nIsla likes the green cupboard.\nWilliam exited the front yard.\nIsla moved the beans to the green bottle.\nIsla exited the front yard.\nAiden made no movements and stayed in the front yard for 1 minute.\nAiden exited the front yard.\nLily made no movements and stayed in the front yard for 1 minute.\nLily exited the front yard.\nWilliam, Isla, Aiden and Lily entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Lily think William thinks the melon is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red container",
+                "blue pantry",
+                "green bottle",
+                "green bucket",
+                "green bathtub",
+                "green box",
+                "red pantry",
+                "blue bottle"
+            ],
+            "fa": []
+        },
+        "answer": "E"
+    },
+    {
+        "id": "f9ed296758ad6b63a4a6a6aa12cd812e",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Owen, Liam, Jack, Jackson and Benjamin entered the hall.\nThe beans is in the blue suitcase.\nOwen made no movements and stayed in the hall for 1 minute.\nOwen exited the hall.\nLiam made no movements and stayed in the hall for 1 minute.\nLiam exited the hall.\nJack moved the beans to the green treasure chest.\nJack exited the hall.\nJackson made no movements and stayed in the hall for 1 minute.\nJackson exited the hall.\nBenjamin moved the beans to the blue suitcase.\nBenjamin exited the hall.\nOwen, Liam, Jack, Jackson and Benjamin entered the waiting room.\nOwen, Jack and Jackson entered the workshop.\nThe cherry is in the red basket.\nOwen made no movements and stayed in the workshop for 1 minute.\nOwen exited the workshop.\nJack made no movements and stayed in the workshop for 1 minute.\nJack exited the workshop.\nJackson made no movements and stayed in the workshop for 1 minute.\nJackson exited the workshop.\nOwen, Jack and Jackson entered the waiting room.\nOwen, Jack, Benjamin and Jackson entered the hall.\nThe beans is in the blue suitcase.\nOwen made no movements and stayed in the hall for 1 minute.\nOwen likes the blue bathtub.\nOwen exited the hall.\nJack made no movements and stayed in the hall for 1 minute.\nJack exited the hall.\nBenjamin made no movements and stayed in the hall for 1 minute.\nBenjamin exited the hall.\nJackson made no movements and stayed in the hall for 1 minute.\nJackson exited the hall.\nOwen, Jack, Benjamin and Jackson entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Owen think Jack thinks the beans is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green bathtub",
+                "green treasure chest",
+                "blue suitcase",
+                "green bottle",
+                "green envelope",
+                "red box",
+                "red basket",
+                "blue bathtub"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "ebc260b83f69a842e251f970c3410dd7",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "William, Emily, Emma, Isla and Jackson entered the pantry.\nThe corn is in the green bathtub.\nWilliam moved the corn to the green cupboard.\nEmma likes the blue crate.\nWilliam exited the pantry.\nWilliam dislikes the corn.\nEmily moved the corn to the red envelope.\nEmily exited the pantry.\nEmma made no movements and stayed in the pantry for 1 minute.\nEmma exited the pantry.\nIsla moved the corn to the green bottle.\nIsla exited the pantry.\nJackson moved the corn to the green bathtub.\nJackson exited the pantry.\nWilliam, Emily, Emma, Isla and Jackson entered the waiting room.\nWilliam, Emily and Isla entered the crawlspace.\nThe asparagus is in the green bucket.\nWilliam moved the asparagus to the green drawer.\nWilliam lost his watch.\nWilliam exited the crawlspace.\nEmily made no movements and stayed in the crawlspace for 1 minute.\nEmily exited the crawlspace.\nIsla made no movements and stayed in the crawlspace for 1 minute.\nIsla exited the crawlspace.\nWilliam, Emily and Isla entered the waiting room.\nWilliam, Isla, Emily and Emma entered the pantry.\nThe corn is in the green bathtub.\nWilliam made no movements and stayed in the pantry for 1 minute.\nWilliam exited the pantry.\nIsla moved the corn to the green cupboard.\nIsla exited the pantry.\nEmily moved the corn to the blue crate.\nEmily saw a mouse.\nEmily exited the pantry.\nEmma moved the corn to the green bottle.\nEmma exited the pantry.\nWilliam, Isla, Emily and Emma entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Emily think William thinks the corn is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green envelope",
+                "red drawer",
+                "blue container",
+                "blue treasure chest",
+                "green bathtub",
+                "green cupboard",
+                "red bucket",
+                "red bottle"
+            ],
+            "fa": []
+        },
+        "answer": "E"
+    },
+    {
+        "id": "c87760b1f03f8411e5464cac937f97d9",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Abigail, Jackson, Hannah, Owen and Avery entered the basement.\nThe cucumber is in the blue drawer.\nAbigail moved the cucumber to the blue container.\nAbigail exited the basement.\nJackson made no movements and stayed in the basement for 1 minute.\nJackson exited the basement.\nAbigail lost his phone.\nHannah moved the cucumber to the blue bathtub.\nAvery dislikes the plum.\nHannah exited the basement.\nOwen moved the cucumber to the red pantry.\nOwen exited the basement.\nAvery made no movements and stayed in the basement for 1 minute.\nAvery exited the basement.\nAbigail, Jackson, Hannah, Owen and Avery entered the waiting room.\nJackson, Abigail and Hannah entered the basement.\nThe carrot is in the blue bathtub.\nJackson moved the carrot to the green basket.\nJackson exited the basement.\nAbigail made no movements and stayed in the basement for 1 minute.\nAbigail exited the basement.\nHannah moved the carrot to the blue container.\nHannah exited the basement.\nJackson, Abigail and Hannah entered the waiting room.\nOwen, Hannah, Avery and Jackson entered the basement.\nThe carrot is in the blue container.\nOwen moved the carrot to the red pantry.\nOwen saw a cat.\nOwen exited the basement.\nHannah moved the carrot to the blue bathtub.\nHannah exited the basement.\nAvery made no movements and stayed in the basement for 1 minute.\nAvery exited the basement.\nJackson made no movements and stayed in the basement for 1 minute.\nOwen lost his watch.\nJackson exited the basement.\nOwen, Hannah, Avery and Jackson entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Abigail think Avery thinks the cucumber is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green basket",
+                "blue bucket",
+                "blue container",
+                "red pantry",
+                "blue pantry",
+                "red box",
+                "blue bottle",
+                "green box"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    },
+    {
+        "id": "dd4f2670674f3a94855ac497d94c6555",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Jacob, Mila, Elizabeth, Aiden and Amelia entered the master bedroom.\nThe sweet potato is in the green bottle.\nJacob made no movements and stayed in the master bedroom for 1 minute.\nJacob exited the master bedroom.\nMila made no movements and stayed in the master bedroom for 1 minute.\nMila exited the master bedroom.\nElizabeth made no movements and stayed in the master bedroom for 1 minute.\nElizabeth exited the master bedroom.\nAiden moved the sweet potato to the blue bucket.\nAiden exited the master bedroom.\nAmelia moved the sweet potato to the green bottle.\nAmelia exited the master bedroom.\nJacob, Mila, Elizabeth, Aiden and Amelia entered the waiting room.\nAmelia, Mila and Elizabeth entered the crawlspace.\nThe carrot is in the red pantry.\nAmelia made no movements and stayed in the crawlspace for 1 minute.\nAmelia exited the crawlspace.\nMila moved the carrot to the green treasure chest.\nMila exited the crawlspace.\nAmelia lost his watch.\nElizabeth moved the carrot to the blue pantry.\nElizabeth exited the crawlspace.\nAmelia likes the blue pantry.\nAmelia, Mila and Elizabeth entered the waiting room.\nAmelia, Jacob, Aiden and Mila entered the office.\nThe peach is in the green bathtub.\nAmelia moved the peach to the green bucket.\nAmelia exited the office.\nJacob moved the peach to the green drawer.\nJacob exited the office.\nAiden made no movements and stayed in the office for 1 minute.\nAiden exited the office.\nMila made no movements and stayed in the office for 1 minute.\nMila exited the office.\nAmelia, Jacob, Aiden and Mila entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Aiden think Jacob thinks the sweet_potato is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "green bottle",
+                "green drawer",
+                "blue pantry",
+                "green bucket",
+                "green crate",
+                "green bathtub",
+                "red pantry",
+                "red drawer"
+            ],
+            "fa": []
+        },
+        "answer": "A"
+    },
+    {
+        "id": "a77b305e72a4de99a17356170f099810",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Hannah, Alexander, Carter, Avery and William entered the bedroom.\nThe persimmon is in the red basket.\nHannah moved the persimmon to the blue crate.\nHannah exited the bedroom.\nAlexander made no movements and stayed in the bedroom for 1 minute.\nAlexander exited the bedroom.\nCarter moved the persimmon to the green basket.\nCarter exited the bedroom.\nAvery made no movements and stayed in the bedroom for 1 minute.\nAvery exited the bedroom.\nWilliam moved the persimmon to the red basket.\nWilliam exited the bedroom.\nHannah, Alexander, Carter, Avery and William entered the waiting room.\nWilliam, Alexander and Hannah entered the bathroom.\nThe banana is in the red bucket.\nWilliam moved the banana to the red crate.\nWilliam exited the bathroom.\nAlexander made no movements and stayed in the bathroom for 1 minute.\nAlexander exited the bathroom.\nHannah made no movements and stayed in the bathroom for 1 minute.\nHannah exited the bathroom.\nWilliam, Alexander and Hannah entered the waiting room.\nAlexander, Avery, William and Hannah entered the garage.\nThe plum is in the red drawer.\nAlexander moved the plum to the green cupboard.\nAlexander exited the garage.\nAvery moved the plum to the blue treasure chest.\nAvery exited the garage.\nWilliam moved the plum to the green bottle.\nWilliam exited the garage.\nHannah moved the plum to the blue bathtub.\nHannah exited the garage.\nAlexander, Avery, William and Hannah entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Hannah think William thinks the persimmon is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red box",
+                "green box",
+                "green cupboard",
+                "red crate",
+                "green bathtub",
+                "blue crate",
+                "blue treasure chest",
+                "green envelope"
+            ],
+            "fa": []
+        },
+        "answer": "F"
+    },
+    {
+        "id": "3f765119ae1db164e10b80cb4c6c13cc",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Emily, Avery, Emma, Jack and Jackson entered the garage.\nThe eggplant is in the green pantry.\nEmily moved the eggplant to the blue drawer.\nEmily exited the garage.\nAvery made no movements and stayed in the garage for 1 minute.\nAvery exited the garage.\nEmma moved the eggplant to the green box.\nEmma exited the garage.\nJack made no movements and stayed in the garage for 1 minute.\nJack exited the garage.\nJackson made no movements and stayed in the garage for 1 minute.\nJackson exited the garage.\nEmily, Avery, Emma, Jack and Jackson entered the waiting room.\nEmma, Emily and Jack entered the garage.\nThe eggplant is in the green box.\nEmma made no movements and stayed in the garage for 1 minute.\nEmma exited the garage.\nEmily moved the eggplant to the green bottle.\nEmily exited the garage.\nJack moved the eggplant to the green pantry.\nJack exited the garage.\nEmma, Emily and Jack entered the waiting room.\nEmily, Avery, Jack and Emma entered the garage.\nThe cherry is in the blue drawer.\nEmily moved the cherry to the green box.\nJack likes the green envelope.\nEmily exited the garage.\nAvery moved the cherry to the green pantry.\nAvery exited the garage.\nJack moved the cherry to the blue cupboard.\nEmily saw a monkey.\nJack exited the garage.\nEmma moved the cherry to the green bottle.\nEmma exited the garage.\nEmily, Avery, Jack and Emma entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Jackson think Emma thinks the eggplant is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "blue crate",
+                "blue suitcase",
+                "red crate",
+                "green box",
+                "blue drawer",
+                "blue container",
+                "blue cupboard",
+                "green bottle"
+            ],
+            "fa": []
+        },
+        "answer": "D"
+    },
+    {
+        "id": "f0edf6dabd9a17da5df4e039a7c6a18c",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Elizabeth, Alexander, Nathan, Owen and Jackson entered the cellar.\nJackson lost his watch.\nThe lime is in the blue crate.\nElizabeth moved the lime to the green pantry.\nElizabeth exited the cellar.\nNathan saw a monkey.\nAlexander made no movements and stayed in the cellar for 1 minute.\nAlexander exited the cellar.\nNathan moved the lime to the green basket.\nNathan exited the cellar.\nOwen moved the lime to the red box.\nOwen exited the cellar.\nJackson moved the lime to the blue crate.\nJackson exited the cellar.\nElizabeth, Alexander, Nathan, Owen and Jackson entered the waiting room.\nNathan, Jackson and Elizabeth entered the workshop.\nThe sweet potato is in the blue suitcase.\nNathan made no movements and stayed in the workshop for 1 minute.\nNathan exited the workshop.\nJackson made no movements and stayed in the workshop for 1 minute.\nJackson exited the workshop.\nElizabeth made no movements and stayed in the workshop for 1 minute.\nElizabeth exited the workshop.\nNathan, Jackson and Elizabeth entered the waiting room.\nElizabeth, Owen, Alexander and Nathan entered the workshop.\nThe plum is in the green box.\nElizabeth made no movements and stayed in the workshop for 1 minute.\nElizabeth exited the workshop.\nOwen moved the plum to the red basket.\nJackson likes the blue suitcase.\nOwen exited the workshop.\nAlexander lost his phone.\nAlexander moved the plum to the red drawer.\nAlexander exited the workshop.\nNathan moved the plum to the green cupboard.\nNathan exited the workshop.\nElizabeth, Owen, Alexander and Nathan entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Alexander think Elizabeth thinks the lime is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red crate",
+                "green pantry",
+                "red box",
+                "blue drawer",
+                "green basket",
+                "green bathtub",
+                "red basket",
+                "blue crate"
+            ],
+            "fa": []
+        },
+        "answer": "B"
+    },
+    {
+        "id": "5ca04cb480af8a84e0280d8ba79cc6bf",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Isabella, Jack, William, Noah and Aiden entered the playroom.\nThe pear is in the blue crate.\nIsabella made no movements and stayed in the playroom for 1 minute.\nIsabella exited the playroom.\nWilliam dislikes the peas.\nJack moved the pear to the blue drawer.\nAiden lost his watch.\nJack exited the playroom.\nWilliam moved the pear to the green crate.\nWilliam exited the playroom.\nNoah moved the pear to the blue suitcase.\nNoah exited the playroom.\nNoah saw a mouse.\nAiden moved the pear to the blue crate.\nAiden exited the playroom.\nIsabella, Jack, William, Noah and Aiden entered the waiting room.\nNoah, Jack and William entered the dining room.\nThe peas is in the green drawer.\nNoah moved the peas to the blue pantry.\nNoah exited the dining room.\nJack moved the peas to the red pantry.\nJack exited the dining room.\nWilliam made no movements and stayed in the dining room for 1 minute.\nWilliam exited the dining room.\nNoah, Jack and William entered the waiting room.\nIsabella, Noah, Jack and Aiden entered the playroom.\nThe lemon is in the blue suitcase.\nIsabella moved the lemon to the green basket.\nIsabella exited the playroom.\nNoah made no movements and stayed in the playroom for 1 minute.\nNoah exited the playroom.\nJack moved the lemon to the blue crate.\nJack exited the playroom.\nAiden made no movements and stayed in the playroom for 1 minute.\nNoah lost his phone.\nAiden exited the playroom.\nIsabella, Noah, Jack and Aiden entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does William think Noah thinks the pear is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red pantry",
+                "blue crate",
+                "green bathtub",
+                "blue pantry",
+                "blue bucket",
+                "red envelope",
+                "green drawer",
+                "green crate"
+            ],
+            "fa": []
+        },
+        "answer": "H"
+    },
+    {
+        "id": "99426fe11cb36fd9368eb26d173cf2c0",
+        "ability": "Second-order false beliefs",
+        "task": "Second-Order FB",
+        "story": {
+            "en": "Jackson, Elizabeth, Evelyn, Liam and Noah entered the living room.\nThe spinach is in the green drawer.\nJackson made no movements and stayed in the living room for 1 minute.\nJackson exited the living room.\nElizabeth moved the spinach to the green pantry.\nElizabeth exited the living room.\nEvelyn moved the spinach to the red container.\nEvelyn lost his phone.\nEvelyn exited the living room.\nLiam made no movements and stayed in the living room for 1 minute.\nLiam exited the living room.\nNoah moved the spinach to the green drawer.\nNoah exited the living room.\nElizabeth lost his watch.\nJackson, Elizabeth, Evelyn, Liam and Noah entered the waiting room.\nLiam, Jackson and Evelyn entered the dining room.\nThe sweet potato is in the red crate.\nLiam moved the sweet potato to the blue bucket.\nEvelyn saw a cat.\nLiam exited the dining room.\nJackson moved the sweet potato to the blue container.\nJackson exited the dining room.\nEvelyn made no movements and stayed in the dining room for 1 minute.\nEvelyn exited the dining room.\nLiam, Jackson and Evelyn entered the waiting room.\nLiam, Jackson, Elizabeth and Evelyn entered the living room.\nThe spinach is in the green drawer.\nLiam made no movements and stayed in the living room for 1 minute.\nLiam exited the living room.\nJackson moved the spinach to the green cupboard.\nJackson likes the blue bathtub.\nJackson exited the living room.\nElizabeth moved the spinach to the blue treasure chest.\nElizabeth exited the living room.\nEvelyn made no movements and stayed in the living room for 1 minute.\nEvelyn exited the living room.\nEvelyn likes the green pantry.\nLiam, Jackson, Elizabeth and Evelyn entered the waiting room.\n\n",
+            "fa": ""
+        },
+        "question": {
+            "en": "Where does Jackson think Evelyn thinks the spinach is?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "red pantry",
+                "green pantry",
+                "green cupboard",
+                "blue bucket",
+                "red bottle",
+                "blue drawer",
+                "green crate",
+                "green drawer"
+            ],
+            "fa": []
+        },
+        "answer": "C"
+    }
+]

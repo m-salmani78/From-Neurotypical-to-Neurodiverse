@@ -1,0 +1,922 @@
+[
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Emily was happily playing with her favorite doll, Lily, in the vibrant, flower-filled garden. The sun was shining, but dark clouds quickly gathered, and a sudden downpour began. Her mother called from the doorway, urging her to hurry inside. In her haste, Emily completely forgot about Lily and rushed into the house, leaving the doll behind in the garden. As they sat down for lunch, Emily's mother, noticing her daughter's unusually quiet demeanor, gently asked, \"Emily, dear, didn't you forget Lily in the garden?\" Emily, without pausing to think, replied, \"No, Mom, I brought her in with me.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Emily say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily intentionally lies about bringing the doll home to cover up the fact that she loses the doll.",
+                "Emily intentionally lies about bringing the doll home because she worries her mother is going to blame her.",
+                "Emily forgets she doesn't bring the doll home because she rushes home due to the sudden rain and forgets she doesn't bring the doll.",
+                "Emily forgets she doesn't bring the doll home because she never takes the doll out."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "aebc86753577d379f22540989a679534"
+    },
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Sarah, excited about her recent purchase, bought a brand new mystery novel at the local bookstore. Upon arriving home, she carelessly tossed the book onto the plush, velvet sofa in the living room. Distracted by hunger, she immediately headed to the kitchen to prepare dinner. Later that evening, as the family gathered, her Grandpa George, noticing the absence of the book, inquired, \"Sarah, dear, where did you put your new book?\" Without a moment's hesitation, Sarah replied, \"Oh, I put it on the bookshelf in my room.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Sarah say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sarah really puts the book back on the bookshelf.",
+                "Sarah lies on purpose because she does not want her grandfather to know she puts things randomly.",
+                "Sarah remembers she puts the book on the bookshelf.",
+                "Sarah is busy cooking and forgets where she puts the book."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "15d2e54b8089fb481a94a5cbc76fc5b8"
+    },
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Ethan was engrossed in his video game, playing much later than he should have. His mother, increasingly worried, called him repeatedly, urging him to come home immediately. He finally rushed out, eager to avoid her scolding, and in his haste, he accidentally left his favorite game controller at his friend David's house. When he arrived home, his mother, standing in the doorway with a stern expression, asked, \"Ethan, where is your game controller?\" Feeling flustered and not thinking clearly, Ethan blurted out, \"It's in my bag.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Ethan say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Ethan deliberately lies because he does not want to tell his mother that he lent it out.",
+                "Ethan really brought the controller home.",
+                "Ethan deliberately lies because the controller is broken, and he doesn't want to admit it.",
+                "Ethan forgets that the controller is at his friend David's house."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "3d94f285fed9a21d1262235be97bdfd1"
+    },
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Michael hurried to the bustling supermarket, a long shopping list clutched in his hand. His uncle had entrusted him with a crucial task: to stock up on groceries, with a special emphasis on buying milk for his younger sister, Lily. Michael diligently navigated the crowded aisles, carefully selecting each item on the list – fresh vegetables, juicy fruits, and various household essentials. He paid for everything and rushed home, eager to be done with the errand. As he walked in the door, his uncle looked up from his newspaper and asked, \"Did you get the milk, Michael?\" Without pausing to fully recall, Michael replied, \"Yes, I did.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael deliberately lies because he does not want to be blamed.",
+                "Michael forgets that he does not buy milk because he buys a lot of other things.",
+                "Michael deliberately lies because he uses the money to buy other things.",
+                "Michael thinks he buys milk because he usually is very careful."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "e847fae8cd56ba9c68aa6c9e152ddafa"
+    },
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Sarah and her colleagues were present at a crucial business meeting. The meeting concluded, and Sarah found herself immediately immersed in coordinating the tasks that had been assigned. Lost in the flurry of activity, she completely overlooked the meeting records, failing to organize them. Later that afternoon, a colleague, John, approached her and inquired, \"Have you organized the meeting records yet?\" Sarah, still caught up in the aftermath of the meeting and operating on autopilot, vaguely remembered the routine procedure. Thinking that she must have organized them as she usually did, she replied, \"Yes, John, I already placed the meeting files on the desk.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Sarah say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sarah deliberately lies about putting the documents on the desk to avoid her colleagues blaming her.",
+                "Sarah deliberately lies about putting the documents on the desk to show her efficient work attitude.",
+                "Sarah forgets that she didn't bring the meeting record documents back to the company because she thinks the documents are not very important.",
+                "Sarah forgets that she didn't bring the meeting record documents back to the company because she is busy dealing with other work when she leaves."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "62016b2fc6c1ce1778590fff9e8de242"
+    },
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Sarah promised her mother that she would help clean her room. The room was quite messy, with clothes strewn about and books piled haphazardly. Shortly after making the promise, her phone buzzed. It was an invitation from a friend to a party that evening. Sarah, excited about the prospect of music and dancing, happily left the house, completely forgetting her promise to her mother. When she came home late that night, her mother, noticing the still-untidy room, asked with a slightly raised eyebrow: \"Did you clean up the room, Sarah?\" Sarah, feeling a pang of guilt but also remembering vaguely moving a few things around, replied, \"Of course, Mom! I tidied it up very neatly.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Sarah say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Sarah deliberately lies because she fears her mother will get angry.",
+                "Sarah forgets that she only cleaned a small part.",
+                "Sarah deliberately lies because she preferred to attend her friend's party.",
+                "Sarah thinks she cleaned up because she usually takes such tasks seriously."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "570847c1bb408c8bed171a101288d754"
+    },
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "David promised his mom he would help tidy up his desk at home. He made the promise with a smile, eager to get it done. However, he got distracted by a friend calling and left in a hurry, completely forgetting that he hadn't finished tidying everything up. A few hours later, when he returned home, his mom, noticing the slight disarray, asked with a raised eyebrow, \"Is your desk tidied up, David?\" David paused, thinking for a moment about the half-finished task, and then, a little guiltily, said, \"It's tidied up.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does David say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "David intentionally lies because he does not want his mother to get angry.",
+                "David forgets that he tidied up but did not completely tidy up the desk.",
+                "David intentionally lies because he wants to continue doing what he likes.",
+                "David thinks he completely tidies up the desk because he usually does."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "a392486d89a866f660dbf02122d57c2e"
+    },
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Emily promised to help her mom buy groceries at the local market. Her mom specifically told her to make sure to buy carrots for the stew she was planning to make. As Emily left the house, she bumped into her good friend, Sarah, and they decided to go to the market together. Emily and Sarah wandered through the crowded aisles, buying a variety of fruits, vegetables, and other items. They were laughing and chatting animatedly about school and their weekend plans. Caught up in the joy of their conversation, Emily completely forgot about the carrots. When she returned home, her mom, standing in the doorway of the kitchen, asked, \"Have you brought back all the groceries?\" Emily glanced at the overflowing shopping bags, filled with colorful produce and other items. She paused for a moment, a fleeting look of panic crossing her face as she realized her mistake, and then, without thinking, said, \"I've brought them back.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Emily say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily deliberately lies because she does not want her mother to be angry.",
+                "Emily forgets that she does not buy carrots because she is too happy chatting with her friend.",
+                "Emily deliberately lies because she wants more free time with her friends.",
+                "Emily thinks she buys all the groceries because she is usually very careful."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "6f3516ae424a996eea3a4cd9823ec349"
+    },
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "In the grand ballroom of the prestigious Grandview Hotel, a critical business meeting was underway. Michael, impeccably dressed in a tailored suit, stood at the head of the long mahogany table, representing his company for a crucial presentation. The air was thick with anticipation as potential investors and key stakeholders listened intently. Halfway through his presentation, a wave of panic washed over Michael. He suddenly drew a blank, a key piece of data completely escaping his memory. When pressed by a sharp-eyed investor, he hastily answered, his voice wavering slightly, \"Our annual growth rate is, uh, around 20%.\" However, the actual data, meticulously researched and confirmed, was a robust 30%. His inaccurate response caused a ripple of confusion among the attendees, their brows furrowing in concern.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael answer like this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael intentionally confuses the data to get more investment.",
+                "Michael forgets the correct annual growth rate data.",
+                "Michael wants to test whether the attendees really pay attention to the company's data.",
+                "Michael thinks 20% is more acceptable, so he intentionally changes the data."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "ee2d9922ca5044516054ac3e2dfbff6f"
+    },
+    {
+        "ability": "Non-Literal Communication: Involuntary lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "During a casual get-together at a friend's house, Michael overheard Sarah mentioning she was planning a trip to New York City. He vaguely remembered the conversation, but didn't pay much attention. A week later, while grabbing coffee in Times Square, Michael was utterly surprised to bump into Sarah. He exclaimed, \"Sarah, what are you doing here? I didn't expect to see you!\" Sarah chuckled, replying with a playful smile, \"Didn't you ask me last week where I was going on vacation?\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael forgets the city Sarah mentioned she was going to during their conversation last week.",
+                "Michael knows the city Sarah is visiting, but he pretends to be surprised.",
+                "Sarah did not tell Michael the city she was planning to visit at the party.",
+                "Michael does not expect to meet Sarah in New York City."
+            ],
+            "fa": []
+        },
+        "answer": "A",
+        "id": "3fee336ec283549cda93d7dc493ef10c"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Today, Michael is visiting Sarah's house for the very first time. He's been looking forward to this visit, as Sarah had invited him over for coffee and he was especially excited to finally meet the dog she often talked about. Michael absolutely adores dogs. When Michael arrives at Sarah's charming little house, Sarah rushes to open the door, and a large, energetic dog leaps up to greet Michael with enthusiastic barks and tail wags. Sarah's dog is surprisingly big, almost as tall as Michael himself! Startled and amused by the dog's size, Michael exclaims with a grin, \"Sarah, you don't have a dog at all! What you have is an elephant!\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael really misunderstands that Sarah keeps an elephant.",
+                "Michael lies to make Sarah laugh.",
+                "Michael jokes because he also wants to keep a dog.",
+                "Michael jokes to make Sarah laugh."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "a2086bd346b26d5b246f79e185878219"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "One sunny afternoon, Alex and Emily were strolling down Main Street when they spotted Mrs. Peterson emerging from 'Hair Today, Gone Tomorrow' salon. The stylist had clearly been a bit overzealous, leaving Mrs. Peterson with a drastically short and rather uneven haircut. She looked quite flustered. Alex, always quick with a quip, leaned over to Emily and whispered, \"She must have had a wrestling match with a lawnmower!\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Alex say this about Mrs. Peterson's hair?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Alex genuinely believes Mrs. Peterson fought with a lawnmower.",
+                "Alex is lying to Emily to make her believe a false story about the haircut.",
+                "Alex is trying to get Mrs. Peterson's attention with a joke.",
+                "Alex is joking to make Emily laugh."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "e370ba9f369a0ac097d4caf27c7046cb"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Mr. Thompson, the math teacher, was unexpectedly absent today. During class, Kevin, with a mischievous grin, announced to his classmates, \"Attention everyone! Mr. Thompson has been abducted by aliens! That's why we have no math class today!\" The classroom erupted in laughter. Students began chattering excitedly with Kevin, amused by his outrageous claim. Some even started imagining what Mr. Thompson might be doing on an alien spaceship, further fueling the lighthearted atmosphere.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Kevin say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Kevin genuinely believes that Mr. Thompson has been taken away by aliens.",
+                "Kevin is telling a lie to make his classmates laugh.",
+                "Kevin is joking because he doesn't want to do math homework.",
+                "Kevin is joking to make his classmates laugh."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "8a4b7192e6f61635b81423ce927d3e24"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Old George and his friends were gathered at his house for their weekly poker night. As the evening wore on, the conversation drifted towards the ever-present topic of work. Soon, everyone was complaining about deadlines, demanding bosses, and the general grind. George noticed the atmosphere growing increasingly tense and negative. He paused, stroked his chin thoughtfully, raised his eyebrows with a mischievous glint in his eyes, and declared mysteriously, \"You won't believe what happened to me today! I met an alien at the office! A real, honest-to-goodness extraterrestrial! It confided in me a secret, a revolutionary solution to our woes. It said that as long as we laugh every day, the work pressure magically reduces by half!\" He punctuated his absurd statement with a hearty, booming laugh. The sheer ridiculousness of his story broke the tension, and his friends, initially surprised, soon joined in his laughter.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Old George say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Old George says this because he wants to change the topic and ease the tension in the gathering.",
+                "Old George says this because he really meets an alien at the company and wants to share the strange encounter with his friends.",
+                "Old George says this because he wants to show off that he can easily deal with work pressure, making his friends envious.",
+                "Old George says this because he believes that laughing every day truly reduces half of the work pressure, giving practical advice."
+            ],
+            "fa": []
+        },
+        "answer": "A",
+        "id": "bb78117e41ac08cbe3d8f66873d6633a"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "At a bustling artist gathering, filled with the aroma of paints and the murmur of conversation, Michael proudly unveiled his latest painting to the eager crowd. The canvas exploded with vibrant hues, depicting a serene landscape bathed in golden sunlight. Everyone showered him with compliments, praising the piece's beauty and originality, expressing their genuine approval with nods and smiles. However, amidst this warm and appreciative atmosphere, David, known for his playful sense of humor, suddenly quipped, \"Michael, are the colors in your painting stolen straight from the rainbow? Haha, it seems you're a real 'color thief'!\" The comment hung in the air for a moment. Michael, initially taken aback by the unexpected remark, paused, then a wide grin spread across his face. He chuckled, shook his head good-naturedly, and joined in the laughter.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does David say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "David really thinks Michael is a \"color thief\", expressing doubt about his painting skills.",
+                "David wants to praise Michael's painting for its beautiful color combination in a humorous way.",
+                "David feels jealous of Michael's painting, so he uses this joking way to belittle Michael.",
+                "David thinks there are some shortcomings in Michael's painting, and wants to mock the shortcomings of the painting in a joking way."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "eac79ea4e9a66d45ebb364660ea0f201"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "During a literary symposium, Michael shared a particularly insightful opinion, leaving the audience impressed by his depth of thought. Suddenly, David rose from his seat, a mischievous grin spreading across his face. He exclaimed, \"Michael, your talent is truly remarkable! Why don't you take on the challenge of writing a sequel to 'Dream of the Red Chamber'? I would certainly be the first in line to buy a copy!\" The entire room erupted in laughter at David's playful suggestion. Michael, amused by the remark, chuckled and responded, \"Alright, David, when I finally complete it, you'll be the very first person to receive a copy to read.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does David say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "David genuinely believes Michael possesses the talent to write a sequel to 'Dream of the Red Chamber'.",
+                "David thinks Michael's viewpoint is overly complex and wants to encourage him to express himself more simply through his remark.",
+                "David says this to tease Michael playfully and express his admiration for him through a joke.",
+                "David says this to demonstrate their close friendship to everyone through a joke."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "cce266e3032db374bf6be535a0cc00c2"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "John entered the conference room and immediately sensed the palpable tension in the air. The company's senior executives were all present, having just concluded a difficult discussion on a sensitive topic. The atmosphere was thick with unease. To diffuse the situation, John took a steadying breath and, with a broad smile, announced, \"Esteemed leaders, do you know the secret to our company's consistently outstanding performance? It's a combination of factors, of course: our exceptionally skilled team, our cutting-edge technology, and, naturally, the undeniable good fortune brought about by my charming face!\" The unexpected remark and John's self-deprecating delivery triggered a wave of laughter, effectively breaking the tension.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does John say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "John genuinely believes the company's success is linked to his handsome face.",
+                "John believes he is the company's leading technical expert.",
+                "John says this to alleviate the tense atmosphere in the conference room.",
+                "John wants to use this opportunity to demonstrate his confidence and professional skills to the executives."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "b04e50caf6876acbb3c48372f273b141"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Michael and his cousin David were meeting for the very first time at a large family gathering. The atmosphere was stiff and quiet; everyone felt a little awkward, unsure of what to say to each other. To break the ice, David suddenly announced, with a completely straight face, \"Actually, I'm a special envoy from Mars. I've been sent here specifically to observe human living habits.\" He then proceeded to describe some completely absurd and ridiculous \"Martian customs,\" complete with gestures and sound effects. The whole room erupted in laughter, the tension immediately dissolved by his unexpected performance.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does David say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "David says this because he believes he is really an envoy from Mars and wants to share his identity with his family.",
+                "David says this because he wants to show his imagination and creativity, making a deep impression on his family.",
+                "David says this because he thinks talking about Mars can arouse his family's interest in science and educate everyone.",
+                "David says this because he wants to establish and strengthen connections with his family, easing the awkward atmosphere of the first meeting at the gathering."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "6bc8e92325bd64983d47064f0c1e24f5"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Mark, a fresh face at the company, was still finding his footing and getting to know his new colleagues. During the lunch break, he spotted a coworker sitting by himself at a table. Feeling a bit awkward but wanting to connect, Mark walked over and sat down with a friendly grin. \"Hey,\" he began, chuckling, \"You won't believe what I saw this morning! As I was walking in, I swear I saw a cat wearing a tie standing right by the front door. Must be the CEO of the company!\" The colleague burst out laughing, clearly finding the absurd image hilarious.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Mark say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Mark says this because he wants to bridge the gap with his colleagues and foster camaraderie and interaction.",
+                "Mark says this because he genuinely saw a cat wearing a tie and found it amusing, wanting to share the funny sight with his colleagues.",
+                "Mark says this because he intends to flaunt his observational prowess and ingratiate himself with his colleagues.",
+                "Mark says this because he believes the company's CEO should be a cat, voicing his discontent with the company's leadership."
+            ],
+            "fa": []
+        },
+        "answer": "A",
+        "id": "517540a2fa977e471d481348d2ed0841"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "John's father had been visibly stressed lately, the weight of his job pressing down on him. John noticed the deep lines etched around his father's eyes and the slump in his shoulders. One evening, trying to lighten the atmosphere, John said, \"Dad, guess what? I found a talking tree at school today! It told me that if we say kind things to it every day, it will bless our whole family with good fortune and smooth sailing.\" After delivering this outlandish claim, John deliberately adopted a mysterious, knowing expression, complete with a playful wink. His father, initially weary, couldn't help but crack a smile, the tension easing from his face.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does John say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "John says this to alleviate the bad mood caused by his father's work pressure.",
+                "John says this because he really finds a talking tree at school and wants to share this interesting discovery.",
+                "John says this because he wants to attract the attention of his family and become the focus of the gathering.",
+                "John says this because he believes in magical things and thinks that the talking tree really brings good luck."
+            ],
+            "fa": []
+        },
+        "answer": "A",
+        "id": "0a92a3792c4faf4008e18b1524678d78"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "During a classroom cleanup, a heavy silence hung in the air. Everyone seemed weary and unenthusiastic. Suddenly, Michael straightened up, a mischievous glint in his eyes. He announced, \"You know how the chalkboard learns to clean itself? Because it's always listening intently during our lessons, it learns 'self-cleaning'!\" A ripple of laughter spread through the room, breaking the monotony and lifting everyone's spirits. The tired students chuckled at the silly image of a chalkboard diligently absorbing knowledge and then magically cleaning itself.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael says this because he genuinely believes that the chalkboard can self-clean, and wants to share this strange belief.",
+                "Michael says this to lighten the mood during the classroom cleanup, fostering interaction and connection among his classmates.",
+                "Michael says this because he wants to gain the teacher's attention, demonstrating his humorous side.",
+                "Michael says this because he wants to be the center of attention, suggesting himself as a candidate for class representative."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "325ed85828ca117d61ed3213591e9e6c"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Mark and his friends were sitting at a cozy Italian restaurant, their stomachs rumbling as they waited for their food. They had ordered quite a while ago, and a collective feeling of impatience began to fill the air. Mark, noticing the growing restlessness, leaned back in his chair and with a playful grin, announced, \"You know why our pasta primavera is taking so long? The chef is playing hide-and-seek with the vegetables! He just can't seem to find the broccoli!\" A wave of laughter rippled through the table, instantly lightening the mood.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Mark say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Mark says this because he truly believes that the chef is playing games with the vegetables, wanting to express dissatisfaction with the restaurant service.",
+                "Mark says this because he wants to win the favor of his friends, to avoid having him pay the bill after the meal.",
+                "Mark says this to alleviate the impatience of his friends while waiting for the dishes.",
+                "Mark says this because he has a funny and interesting imagination about the chef's way of working, wanting to share it with his friends."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "10b5ba4879e9b3f0ab9f75fe603e9a34"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Michael and his mother were at the bustling farmer's market, searching for fresh produce. The market was incredibly crowded, filled with shoppers jostling for space, creating a slightly tense and noisy atmosphere. As they navigated through the throng, Michael's mother was accidentally bumped by a passerby, leaving her feeling a bit flustered and uncomfortable. Noticing her discomfort, Michael, always quick with a joke, pointed to a large pile of potatoes. With a playful grin, he said, \"Mom, do you know why these potatoes look so melancholy and sad? Because they know their ultimate fate is to be mashed potatoes!\" After delivering the punchline, Michael exaggeratedly widened his eyes and feigned a sympathetic expression. His mother, initially bothered by the earlier bump, couldn't help but burst out laughing at his silly joke and theatrical display.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael says this to relieve his mother's unhappy mood.",
+                "Michael says this to communicate with his mother in a relaxed and happy way through humor and jokes.",
+                "Michael says this because he really thinks that potatoes have feelings and wants to express his sympathy for them.",
+                "Michael says this because he has interesting imaginations about the shape and expression of potatoes, and wants to share this fun with his mother."
+            ],
+            "fa": []
+        },
+        "answer": "A",
+        "id": "9b1deb6e9818a378d1c87d5f7ade19cb"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "During a high school drama club performance, Alex, a young and enthusiastic actor, noticed that the audience seemed a bit restless and their attention was wandering. Determined to recapture their focus, Alex, with a mischievous glint in his eyes, decided to improvise. He paused dramatically during a dialogue and, with a flourish, added a line: \"Do you know why the stage lights are so incredibly bright tonight? It's because they're all distant relatives of the sun, of course!\" After delivering the line, Alex widened his eyes and struck an exaggerated pose, as if revealing a great secret. The unexpected joke, delivered with such playful absurdity, rippled through the audience, and a wave of laughter erupted, instantly re-engaging them in the performance.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Alex say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Alex says this because he wants to show his sense of humor, increase his personal charm in the drama, and attract the attention of the audience.",
+                "Alex says this to use humor and jokes to relieve the tension of the audience.",
+                "Alex says this because he really thinks that the stage lighting has a special source, and wants to express his admiration for stage technology.",
+                "Alex says this because he has a special view on the lighting effects in the drama, and wants to provoke the audience to think about it."
+            ],
+            "fa": []
+        },
+        "answer": "A",
+        "id": "c73e311efcfbe6cf8c970740e502495d"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Sarah was diligently studying cooking techniques in the kitchen, her sister Emily watching attentively from the doorway. Sarah decided to try her hand at making fried rice for the very first time. She carefully measured the ingredients and followed the recipe, but alas, the final product wasn't quite what she had hoped for. A slight burning smell filled the air, and the rice had a dark, almost charred appearance. Seeing the crestfallen expression on Sarah's face, Emily chuckled softly and said, \"You know, do you know why today's fried rice smells so incredibly good? Because it has a 'unique charcoal-grilled flavor'! It's a culinary innovation!\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Emily say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily says this because she genuinely believes the burnt fried rice has a unique flavor and wants to encourage Sarah to continue experimenting with new flavors.",
+                "Emily says this because she wants to teach Sarah to accept failure with grace, expressing a deep philosophical lesson about life through humor.",
+                "Emily says this to use humor and jokes to alleviate Sarah's disappointment from failing at cooking.",
+                "Emily says this because she truly thinks the fried rice smells delicious, and also wants to distract Sarah from her cooking mishap."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "3c0645bf117cc8772fe7864396209512"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "John and his colleagues were deeply engrossed in a crucial experiment within the sterile confines of the laboratory. The air was thick with anticipation, but suddenly, unexpected results began to surface, disrupting the carefully planned procedure. A palpable tension descended upon the room as everyone grappled with the anomaly. John, sensing the growing unease, broke the silence with a wry smile. \"You know why this experiment is always going haywire?\" he quipped, \"It's because our experimental equipment is actually salvaged alien technology! They're still trying to decipher the earthly laws of science!\" He paused, adopting a deliberately pensive expression as if seriously contemplating the outlandish theory. The absurdity of the statement, coupled with John's exaggerated thoughtfulness, sparked a wave of laughter among his colleagues, effectively dissolving the tension that had gripped them moments before.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does John say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "John says this because he genuinely believes there is a flaw in the experimental equipment and wants to voice his dissatisfaction with its quality.",
+                "John says this to alleviate the tension surrounding the experiment and help his colleagues feel more relaxed and cheerful in their work environment.",
+                "John says this because he aims to capture the attention of his colleagues and showcase his humorous nature.",
+                "John says this because he possesses a distinctive perspective on scientific experiments and wishes to articulate his ideas in a lighthearted manner."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "1092f7b4d0c883ed83d3143d23d66f3d"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Michael and his friends were shuffling forward in the seemingly endless queue for the amusement park's biggest roller coaster. The sun beat down, and a collective groan of impatience rippled through the line. To break the tension, Michael suddenly announced, \"Hey, you know why the roller coaster is always built so high? Because it wants to wave hello to the sun!\" He punctuated his statement with a theatrical, exaggerated wave towards the bright sky. His friends, initially grumpy, burst into laughter at his silly antics and the absurd image he painted.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael says this because he genuinely believes that the design of the roller coaster has a deeper, symbolic meaning and wants to share his insightful perspective.",
+                "Michael says this because he wants to grab his friends' attention and make himself the center of attention.",
+                "Michael says this to lighten the mood and create a more fun and pleasant waiting experience through humor and lighthearted jokes.",
+                "Michael says this because he possesses a unique understanding of the roller coaster's height and wants to express his profound thoughts in a humorous manner."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "f71f4eecdcb957ec862760a3a8b5f4b0"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "The school auditorium buzzed with nervous energy as the debate competition reached its peak. Tension hung thick in the air. When it was Mark's turn to present his argument, he stepped confidently to the podium, a slight smile playing on his lips. He paused for dramatic effect, then announced, \"Do you know why my argument is so incredibly strong and persuasive today? Because this morning, I devoured two massive bowls of 'Victory Brand' cereal!\" He punctuated the statement with a deliberately exaggerated confident pose, puffing out his chest slightly. The audience, including the judges, erupted in laughter, appreciating the unexpected humor.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Mark say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Mark says this because he really eats two bowls of cereal and wants to use a joke to ease the tension of the debate.",
+                "Mark says this because he genuinely believes that the cereal he eats in the morning gives him the power to debate and wants to share this secret.",
+                "Mark says this because he wants to attract the attention of the judges and the audience, and truly believes that eating a specific cereal helps him win the debate.",
+                "Mark says this because he has a special view on breakfast choices and wants to show his personality in this way."
+            ],
+            "fa": []
+        },
+        "answer": "A",
+        "id": "753dc958fa4680a4e592dc1ca64f15a9"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "John and his friends were strolling through the park on a sunny afternoon. They hadn't known each other for very long, so the conversation occasionally lulled into awkward silences. To lighten the mood, John gestured towards a duck gliding gracefully across the shimmering lake. With a playful glint in his eye, he declared, \"Look at that duck! It's actually a secret agent for the park, specifically tasked with monitoring tourists who try to overfeed the wildlife!\" He paused, adding a dramatic, conspiratorial expression. His friends, initially surprised, burst into laughter at the absurdity of the image.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does John say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "John says this because he genuinely believes the duck has a special mission and wants to share this unusual idea.",
+                "John says this to break the silence and encourage interaction among his friends.",
+                "John says this because he wants to capture his friends' attention and demonstrate his sense of humor.",
+                "John says this because he possesses unique insights into the park's animals and aims to stimulate engaging discussions."
+            ],
+            "fa": []
+        },
+        "answer": "B",
+        "id": "da11a62eb5c419ee4eb463dac3a32a44"
+    },
+    {
+        "ability": "Non-literal communication: Humor",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Michael and his friends were getting ready for a friendly swimming meet. None of them were particularly good swimmers; in fact, they were all pretty much beginners. As they stood by the pool, a few of them seemed a little anxious. Michael, noticing their unease, grinned and said, \"Hey, you know why we're all swimming so slowly today? Because the pool guys added 'slow swim liquid' to the water! It's a special formula designed just for us novices!\" The others looked at him, then burst out laughing, the tension immediately melting away.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael says this because he genuinely believes that a special liquid has been added to the swimming pool, slowing down the swimming speed.",
+                "Michael says this because he wants to grab his friends' attention and become the center of attention at the swimming event.",
+                "Michael says this to ease his friends' nervousness and make the swimming event more relaxed and fun.",
+                "Michael says this because he has unique insights into the water quality of the swimming pool and wants to express his opinions in a humorous way."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "9eee89e9bee240ce4457126eede0c466"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "One sunny afternoon, Emily was happily playing in the living room. While twirling around, she accidentally bumped into a small table, sending her mother's prized crystal vase crashing to the floor. The vase shattered into countless sparkling shards. Emily's eyes widened with fear. She knew how much her mother cherished that vase, and she dreaded the thought of her reaction. When her mother, Sarah, arrived home a few hours later, she immediately noticed the broken vase. \"Emily, what happened here?\" she asked, her voice laced with concern. Emily, panicking, blurted out, \"The dog did it, Mom! Buster knocked it over! It wasn't me!\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Emily say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Emily saw the dog knock over the vase and wants to protect the dog from her mother's blame.",
+                "Emily jokes to protect herself from her mother's blame.",
+                "Emily lies to protect the dog from her mother's blame.",
+                "Emily lies to protect herself from her mother's blame."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "8967140239e424757c58b66044e398a7"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Sarah, a kind and generous soul, lent her cherished, beautifully bound novel to her friend, Michael. She had carefully kept it in pristine condition. When Michael returned the book a week later, Sarah was dismayed to discover it was noticeably soiled and the pages were warped. Visibly flustered, Michael explained that his rambunctious puppy had gotten hold of the book and caused the damage. However, the truth was that he had been reading while drinking coffee and had accidentally splashed water all over it, panicking and trying to cover it up.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael indeed saw the dog making the book dirty; he does not want Sarah to get angry and blame the dog.",
+                "Michael jokes because he does not want Sarah to get angry and blame himself.",
+                "Michael lies because he does not want Sarah to get angry and blame the dog.",
+                "Michael lies because he does not want Sarah to get angry and blame himself."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "deee29d9d18469df4d6238a354854d18"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Michael absolutely dreads going to the dentist. Every single visit seems to end with him needing a filling, and the drilling is excruciating. However, Michael also knows that his mom is very attentive to his dental health; whenever he complains about a toothache, she immediately schedules an appointment. Now, Michael's tooth is throbbing with pain, a dull ache that's hard to ignore. His mother, noticing his discomfort, gently asks, \"Michael, does your tooth hurt?\" Michael, wincing slightly, replies, \"No, Mom, I'm fine.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Michael say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Michael jokes to not make his mother worry.",
+                "Michael jokes to not go to the dentist.",
+                "Michael lies to not make his mother worry.",
+                "Michael lies to not go to the dentist."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "d45ec0a33fae7f4f2eea73d382477042"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Mr. Smith ran a well-known antique shop, celebrated for its collection of rare and unusual items. One breezy afternoon, a customer named Ms. Johnson walked into the shop, her eyes immediately drawn to a jade artifact displayed prominently on a velvet cushion. Mr. Smith knew the truth about this particular piece: it was a modern reproduction he'd acquired during an overseas trip a few years prior. However, with a practiced smile, he told Ms. Johnson that it was a priceless relic dating back to the Ming Dynasty, steeped in centuries of history and legend. Ms. Johnson, visibly impressed and delighted by this information, didn't hesitate to offer a substantial sum for the artifact. Later that week, Mr. Smith casually mentioned to other customers that the jade piece was indeed the star attraction of his shop, emphasizing not only its supposed historical significance but also its ability to captivate the attention of discerning collectors and connoisseurs.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Mr. Smith say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Mr. Smith says this because he and Ms. Johnson are old friends, and he hopes to relive their past good times by exaggerating the value of the jade artifact.",
+                "Mr. Smith just experienced an unpleasant thing, and he says these things just to change the subject, trying to avoid having a deep conversation with Ms. Johnson.",
+                "Mr. Smith received an anonymous letter before, warning him not to sell any genuine products, so he deliberately exaggerates the value of the jade artifact to get rid of those genuine products.",
+                "Mr. Smith says this because he wants to deceive Ms. Johnson for economic benefits, making her think that the jade artifact has high historical value and scarcity, and thus is willing to pay a high price. At the same time, he also wants to maintain the reputation of his antique shop, making other customers also believe in the rarity and value of the goods in the shop."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "e49712bc0a58fc7dfb2a9254136cbb1f"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Nestled deep within the misty mountains stood an ancient temple, its weathered stones whispering tales of centuries past. Abbot Thomas, a man of serene countenance and unwavering faith, was deeply respected by the devoted followers of the temple. One starless night, a devastating discovery shook the temple to its core: a priceless relic, a sacred chalice said to possess miraculous powers, had vanished from its heavily guarded vault. A wave of anxiety and suspicion washed over the believers, threatening to erode their faith in the temple's sanctity. Seeing their distress, Abbot Thomas, his mind racing to protect the temple's reputation and the believers' peace of mind, addressed the worried crowd. With a calm and reassuring voice, he declared, \"The chalice has not been stolen. It has merely chosen to conceal itself for a short while, and it will grace us with its presence again in a few days.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Abbot Thomas say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Abbot Thomas says this to cover up the fact that he is the real thief, hoping time will give him a chance to quietly return the chalice.",
+                "Abbot Thomas says this because he wants the thief to turn himself in, giving the thief a chance to reform through this statement.",
+                "Abbot Thomas actually saw the thief with his own eyes; he says this because he wants to retrieve the chalice himself, giving the believers a surprise.",
+                "Abbot Thomas says this because he wants to cover up the security lapses within the temple, thereby maintaining the reputation of the temple and the trust of the believers."
+            ],
+            "fa": []
+        },
+        "answer": "D",
+        "id": "20ed5408ad0b7d0990512cdcbb3d5ab2"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "In the quiet, close-knit town of Willow Creek, Mrs. Davis was a cherished neighbor. Known for her generosity, she frequently shared the bounty of her garden – plump tomatoes, crisp lettuce, and juicy peaches – with everyone around her. One sunny afternoon, disaster struck: someone crept into her garden and stole her prize-winning watermelon, a massive, striped beauty she'd been carefully cultivating for weeks. Despite the theft, Mrs. Davis remained remarkably calm. When the curious neighbors, noticing the missing melon, inquired about its whereabouts, she simply smiled and said, with a twinkle in her eye, \"Oh, that watermelon? It's not quite ripe yet.\"",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Mrs. Davis say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Mrs. Davis has just learned a new gardening technique and wants the watermelon to ripen a bit more before picking it, so she tells the neighbors it is not ripe yet.",
+                "The watermelon in Mrs. Davis's garden is actually a special variety that needs more time to ripen, so she tells the neighbors it is not ripe yet.",
+                "Mrs. Davis says this because she wants to protect her own privacy and avoid letting everyone know that her watermelon was stolen.",
+                "Mrs. Davis says this because she hopes the neighbors think the quality of her watermelon is especially good and needs some time to ripen."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "6bb2a076603e9e2ff235ba4f5a885586"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "In the gleaming, modern lobby of a prestigious office tower, stood Mr. David Thompson, a renowned entrepreneur. His company, Thompson Industries, was widely regarded as a pioneer and leader in its sector. One crisp Monday morning, a bombshell dropped: Thompson Industries' primary competitor, Sterling Corp, publicly alleged that Thompson Industries was riddled with severe financial irregularities, insinuating that the company was on the brink of collapse. A swarm of reporters descended upon David, cameras flashing and microphones thrust forward. With unwavering composure, David Thompson firmly refuted the accusations. He declared that the company's financial standing was, and always had been, exceptionally robust. He elaborated, highlighting recent successes and future growth strategies, painting a picture of stability and prosperity.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does David Thompson say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "David Thompson says this because he is genuinely unaware of any financial problems within the company; he is being misled by other senior executives.",
+                "David Thompson is secretly planning to sell the company; he is denying the financial flaws to artificially inflate the company's valuation before the sale.",
+                "David Thompson is denying the existence of financial flaws to safeguard the company's reputation, prevent investors and partners from losing confidence, and maintain the stability of the company's stock price and market value.",
+                "David Thompson intends to mislead his competitors, hoping to exploit their vulnerability and seize their market share while they are unprepared."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "a5f3f3adf172bb172a853195fc80fe65"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Mark became quite well-known around school for consistently achieving top scores on his math exams. One day, his classmate Emily, curious and perhaps a little envious, asked him for the secret to his success. Mark, without hesitation, told her a fabricated story. He claimed that he dedicated several hours each day to studying advanced mathematical theories, poring over complex textbooks and research papers. He even mentioned that he was enrolled in an exclusive online course led by a renowned mathematician, Professor Thompson, spending countless evenings attending virtual lectures and completing challenging assignments. The truth, however, was far less glamorous. Mark wasn't particularly gifted at mathematics. His high scores were the result of a much simpler, albeit dishonest, method: he had somehow managed to obtain the exam answers beforehand.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Mark say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Mark says this because he wants to protect his image as a math genius among his classmates, by making up stories to make people believe that his high scores are due to his own efforts and talents.",
+                "Mark says this because he wants to inspire Emily to also work hard to learn math.",
+                "Mark just has a dispute with his math teacher, he says this to attract the teacher's attention, hoping to reconcile with the teacher.",
+                "Mark says this because he really participates in an online course hosted by a famous mathematician, but he does not want others to also participate, to maintain his own advantage."
+            ],
+            "fa": []
+        },
+        "answer": "A",
+        "id": "a1182fd5cf4e9579f4345fd94fcba3c4"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Detective Miller found himself entangled in a perplexing theft case, the details as intricate as a spider's web. Initial investigations pointed a finger squarely at Mr. Johnson. However, Johnson was a prominent figure in the town, a man whose influence extended far and wide, with strong connections to powerful political allies. Detective Miller, a seasoned officer known for his cautious approach, had never even exchanged words with Johnson. Still, he understood that a direct accusation could unleash a storm of unwanted repercussions. He meticulously considered the potential fallout, the political pressures, and the damage to his own career. Therefore, he chose a path of calculated discretion. Instead of a direct accusation, he carefully crafted his report, stating that the case remained open, under active investigation, and that a definitive suspect had yet to be identified. He hoped this approach would allow him to gather more evidence without prematurely alerting Johnson and his powerful friends.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Detective Miller say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Detective Miller says this because he wants to cover up his suspicion of Mr. Johnson, avoid conflict with Mr. Johnson's political friends, and protect his career from unnecessary impact.",
+                "Detective Miller says this because he fears Mr. Johnson's retaliation and worries about the safety of himself and his family.",
+                "Detective Miller thinks Mr. Johnson does a lot of good things in the town and does not believe he is a thief.",
+                "Detective Miller has a personal relationship with Mr. Johnson, he does not want to ruin their friendship."
+            ],
+            "fa": []
+        },
+        "answer": "A",
+        "id": "82e267616ce870f2f8d95ac79143d6b7"
+    },
+    {
+        "ability": "Non-literal communication: Egocentric lies",
+        "task": "Lie&Joke",
+        "story": {
+            "en": "Professor Smith is a renowned historian, teaching at a prestigious university in London. He's earned widespread respect for his profound historical knowledge and meticulous attention to detail in his research. One day, the university asks him to deliver a keynote speech at an important international academic conference. However, Professor Smith is notoriously uncomfortable with public speaking, and he finds the conference theme utterly uninspiring. Secretly, he's determined to find a plausible excuse to withdraw from the commitment. Later that week, when his colleague, Dr. Jones, inquires about his progress on the upcoming speech, Professor Smith, with a slightly strained smile, says he's deeply immersed in preparing a truly groundbreaking speech about ancient British history, and that he's dedicating a considerable amount of time to extensive research. He even gestures towards a stack of books on his desk for added effect.",
+            "fa": ""
+        },
+        "question": {
+            "en": "Why does Professor Smith say this?",
+            "fa": ""
+        },
+        "options": {
+            "en": [
+                "Professor Smith says this because he really is doing a lot of research, but he doesn't want to reveal the content of the speech too early.",
+                "Professor Smith previously accepted an urgent research project and is concentrating his time and energy on this project, so he doesn't have time to prepare the speech.",
+                "Professor Smith says this because he is not good at public speaking and lacks enthusiasm for the conference theme, so he wants to find an excuse to avoid giving a speech at the conference.",
+                "Professor Smith says this because he wants to leave a professional and diligent impression on his colleagues."
+            ],
+            "fa": []
+        },
+        "answer": "C",
+        "id": "3652015e8b5d9697335ab8cbef568544"
+    }
+]

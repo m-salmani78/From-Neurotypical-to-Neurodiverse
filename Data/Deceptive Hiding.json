@@ -1,0 +1,1322 @@
+[
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "The group of friends - Alexander, Evelyn, Hannah, Abigail, and Noah - cautiously entered the dimly lit den. Inside, various containers were scattered about. A vibrant green pepper sat innocently in a bright blue crate. With a mischievous glint in his eye, Alexander carefully moved the green pepper from the blue crate to a sturdy, blue suitcase. Alexander then quietly exited the den. Moments later, Evelyn, equally sly, relocated the green pepper from the suitcase to a large, ornate blue treasure chest. Evelyn then slipped out of the den. Hannah, maintaining a poker face, made no visible movements and lingered in the den for a full minute, seemingly observing the surroundings before finally exiting. Abigail, following suit, also stood motionless for a minute, her expression unreadable, before departing the den. Noah mirrored their actions, spending a minute inside without touching anything before leaving. Finally, Alexander, Evelyn, Hannah, Abigail, and Noah gathered in the adjacent waiting room. Evelyn expressed her fondness for the green cupboard that stood against the wall. In a hushed tone, Hannah secretly whispered to Alexander that the green pepper was still in the blue crate. Simultaneously, Evelyn confided in Abigail, falsely claiming that the green pepper was hidden inside the green envelope.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the green pepper really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green envelope",
+                    "blue bucket",
+                    "blue treasure chest",
+                    "blue bathtub",
+                    "blue crate",
+                    "green treasure chest",
+                    "red basket",
+                    "green bathtub"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "16ba1826cfa69e670daf1f4b5e205daa"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Abigail, Lily, Ella, Logan, and Elizabeth cautiously entered the dimly lit den. Dust motes danced in the shafts of light filtering through cracks in the boarded-up windows. The green pepper, a vital ingredient for their secret recipe, was initially located in the red drawer of an old, weathered cabinet. Abigail, ever observant, remained perfectly still, a statue amidst the shadows, for a full minute before silently exiting the den. Lily followed suit, her movements equally subtle, spending a minute before departing. Ella also remained motionless, carefully observing the room, before leaving after a minute. Then, Logan, with a mischievous glint in his eye, stealthily moved the green pepper from the red drawer to the blue crate, carefully concealing it beneath some old rags. He then quietly slipped out of the den. Elizabeth, after Logan, entered the den and stayed for a minute without touching anything, then exited. Later, Abigail, Lily, Ella, Logan, and Elizabeth gathered in the waiting room, a space filled with nervous anticipation. Ella, with a confident air, publicly declared that the green pepper was in the red pantry. However, Elizabeth, pulling Ella aside, whispered a correction, revealing that the green pepper was, in fact, in the red drawer.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the green pepper really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red pantry",
+                    "green box",
+                    "red drawer",
+                    "blue container",
+                    "red bottle",
+                    "blue crate",
+                    "blue treasure chest",
+                    "green envelope"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "F"
+        ],
+        "id": "5621fc39a2960f7207d64220ac3ba6b0"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Owen, Jacob, Emma, William, and Carter cautiously entered the brightly lit sunroom, their eyes scanning the space. A large, ripe watermelon sat nestled within a green crate near the window. Owen, with a sly grin, carefully moved the watermelon from the crate to a green envelope hidden beneath a pile of newspapers. Owen then casually exited the sunroom. Shortly after, Jacob entered and, after a quick glance around, relocated the watermelon to a green bucket tucked away in a corner. Jacob then left the room. Emma, her brow furrowed in concentration, entered next and stealthily transferred the watermelon to the blue pantry, concealing it behind a stack of canned goods. Emma quickly slipped out. William then entered, his movements deliberate, and moved the watermelon to a green basket filled with gardening tools. William then departed. Jacob made sure to express his dislike of the grapes in the room. Carter, seemingly uninterested in the watermelon, made no movements whatsoever and remained in the sunroom for a full minute, observing everything before finally exiting. Owen, Jacob, Emma, William, and Carter then gathered in the waiting room. Emma quietly whispered to Owen that she believed the watermelon was now in the green bucket. Meanwhile, Jacob confided in William that he was certain the watermelon was hidden in the green envelope.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the watermelon really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green envelope",
+                    "red drawer",
+                    "blue pantry",
+                    "green bucket",
+                    "green basket",
+                    "red container",
+                    "green crate",
+                    "green cupboard"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "E"
+        ],
+        "id": "90544069aad7476e5e804168a69555ec"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Logan, Nathan, Isabella, Aiden, and William cautiously entered the master bedroom, a spacious chamber filled with antique furniture and dimly lit by a single lamp. William, fumbling with his belongings, realized he had lost his gloves. Unbeknownst to the others, the cabbage was initially hidden inside a bright red bucket sitting near the window. Logan, with a mischievous glint in his eye, carefully moved the cabbage from the red bucket to the green pantry located in the corner of the room. Aiden, preoccupied with his own thoughts, also lost his gloves somewhere in the room. Logan then quietly exited the master bedroom. Nathan, after a moment of contemplation, moved the cabbage from the green pantry to a red box. Nathan then swiftly exited the master bedroom. Isabella, remaining perfectly still and observing everything with a keen eye, stayed in the master bedroom for a full minute, absorbing every detail. Isabella then calmly exited the master bedroom. Aiden, equally still and quiet, also remained in the master bedroom for a minute before leaving. William, after searching in vain for his gloves, spent a minute in the room before giving up and exiting. Logan, Nathan, Isabella, Aiden, and William then all gathered in the waiting room. In a deceptive attempt to mislead the others, Isabella loudly and publicly claimed that the cabbage was located in the red box. However, William, knowing the truth, privately whispered to Isabella that the cabbage was actually hidden in the green cupboard.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the cabbage really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue treasure chest",
+                    "green pantry",
+                    "red crate",
+                    "red bucket",
+                    "blue pantry",
+                    "red box",
+                    "green treasure chest",
+                    "green cupboard"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "F"
+        ],
+        "id": "b15826ffa217c896efc1201a3e344341"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Olivia, Emily, Chloe, Abigail and Madison stepped into the cozy lounge. A ripe pear was nestled inside a blue crate. Olivia carefully moved the pear from the blue crate to a green envelope. Olivia then quietly exited the lounge. Shortly after, Emily relocated the pear to the red pantry. Emily then left the lounge. Chloe remained in the lounge, making no movements, observing everything for a full minute before departing. Abigail also stayed put, motionless in the lounge for a minute, before leaving. Sophia mirrored Abigail's actions, remaining still in the lounge for one minute before exiting. Abigail dislikes the pear. Olivia, Emily, Chloe, Abigail and Madison then all entered the waiting room. In the waiting room, Chloe boldly declared that the pear was now in the green envelope. Sophia whispered to Chloe, revealing her belief that the pear was actually hidden in the blue crate.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Sophia really think the pear is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue crate",
+                    "blue drawer",
+                    "blue cupboard",
+                    "green bucket",
+                    "red pantry",
+                    "red box",
+                    "red container",
+                    "green basket"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "E"
+        ],
+        "id": "4e9346541b15403cdb3f3e86942a40a2"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "John, David, Emily, Michael, and Robert cautiously entered the grand master bedroom. Sunlight streamed through the large windows, illuminating dust motes dancing in the air. Robert, distracted by the opulent surroundings, lost his leather gloves. The cabbage, a surprisingly large and vibrant green head, was initially placed in the bright red bucket. John, with a mischievous glint in his eyes, swiftly moved the cabbage to the green pantry, carefully concealing it behind jars of homemade preserves. Michael, equally captivated by the room's splendor, also lost his gloves, a matching pair to Robert's. John then nonchalantly exited the master bedroom, whistling a jaunty tune. David, observing John's actions, surreptitiously moved the cabbage from the green pantry to the red box, a sturdy container tucked away in a corner. David then quickly exited the master bedroom. Emily, maintaining a composed demeanor, made no movements whatsoever and remained in the master bedroom for a full minute, seemingly absorbed in studying a portrait on the wall. Emily then gracefully exited the master bedroom. Michael, after searching for his gloves, remained in the master bedroom for a minute before exiting. Robert, still missing his gloves, also stayed in the master bedroom for a minute before leaving. John, David, Emily, Michael, and Robert then all gathered in the waiting room, a smaller, less ornate space. Isabella publicly and confidently claimed that the cabbage was located in the red box, stating it with unwavering conviction. Robert, leaning in conspiratorially, privately whispered to Emily that he believed the cabbage was actually hidden in the green cupboard.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Robert really think the cabbage is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green cupboard",
+                    "red crate",
+                    "red box",
+                    "blue pantry",
+                    "blue treasure chest",
+                    "green pantry",
+                    "green treasure chest",
+                    "red bucket"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "ca34076a18df0dafae1b32c3bf3867f2"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Michael, David, Ashley, Emma, and Olivia cautiously entered the grand master bedroom. The room was spacious, filled with antique furniture and bathed in soft sunlight streaming through the sheer curtains. A single cherry rested conspicuously in the green bucket. Michael stood perfectly still, observing the room, and remained in the master bedroom for a full minute, his eyes darting around. Then, Michael quietly exited the master bedroom. David followed, making no movements either, and stayed in the master bedroom for 1 minute, carefully scanning the shelves. David exited the master bedroom. Ashley, with a slight hesitation, entered and remained motionless for 1 minute, her gaze fixed on the painting above the fireplace. Ashley then exited the master bedroom. Emma entered next, staying still for 1 minute, seemingly lost in thought. Emma exited the master bedroom. Olivia entered, spending 1 minute inside the room without moving, before exiting. Finally, Michael, David, Ashley, Emma, and Olivia all gathered in the adjacent waiting room. Once inside, Ashley quietly whispered to Michael that the cherry was actually hidden in the blue crate. Simultaneously, David secretly told Emma that the cherry was in the green bucket.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the cherry really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue bottle",
+                    "red pantry",
+                    "red basket",
+                    "blue suitcase",
+                    "green cupboard",
+                    "green bucket",
+                    "blue cupboard",
+                    "red drawer"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "F"
+        ],
+        "id": "5af24a64321271f3962634f2789eff22"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Sarah, Michael, Emily, David, and Jessica cautiously entered the dimly lit garage. Dust motes danced in the air, illuminated by a single bare bulb. The lemon, surprisingly, was initially nestled in the bright blue bathtub. Sarah, with a mischievous glint in her eye, carefully moved the lemon to the sturdy blue treasure chest. Jessica wrinkled her nose, clearly disliking the wilted cabbage sitting on a nearby shelf. Sarah quietly exited the garage. Michael, remaining perfectly still, lingered in the garage for a full minute, listening for any sounds. Then, he too exited the garage. Emily, with purpose, moved the lemon to the spacious blue pantry, its shelves lined with jars and cans. Emily then exited the garage. David, like Michael, made no movements and remained in the garage for one tense minute. Finally, David exited the garage. Jessica, after a moment's hesitation, moved the lemon back to the bright blue bathtub where it had started. Jessica quickly exited the garage. Sarah, Michael, Emily, David, and Jessica all gathered in the adjacent waiting room, a small, sparsely furnished space. Sarah suddenly realized she had lost her watch, a look of distress crossing her face. Emily leaned in and privately whispered to Sarah that the lemon was actually hidden in the green drawer in the garage. Meanwhile, Michael leaned in to David and privately confided that the lemon was, in fact, in the blue treasure chest.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the lemon really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue pantry",
+                    "blue bathtub",
+                    "blue cupboard",
+                    "green pantry",
+                    "green drawer",
+                    "blue crate",
+                    "red envelope",
+                    "blue treasure chest"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "ea9cf472745b77da52c1ffab528466b4"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "The five friends, Emma, Hannah, Liam, Nathan, and Carter, cautiously entered the dimly lit study. Dust motes danced in the shafts of sunlight filtering through the heavy curtains. Emma, her eyes scanning the room, noticed a sleek black cat perched on a stack of books. She also spotted a bright red tomato sitting inside a matching red container on a nearby table. Emma, remembering Carter's dislike for bananas, carefully made no movements and remained perfectly still in the study for a full minute, observing everything. Then, she quietly exited the study. Hannah followed suit, also remaining motionless and silent for a minute before leaving. Carter, wrinkling his nose at the thought of bananas, mirrored their actions. Liam, however, approached the table and deliberately moved the tomato from the red container to a green drawer located beneath it. He then quickly exited the study. Nathan then entered, spent a minute observing, and left without touching anything. Finally Carter entered, spent a minute observing, and left without touching anything. Later, Emma, Hannah, Liam, Nathan, and Carter gathered in the waiting room. In a loud voice, so everyone could hear, Nathan confidently declared that the tomato was in the blue bottle. However, Carter, leaning in conspiratorially, privately whispered to Emma that the tomato was actually hidden in the green drawer.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Emma really think the tomato is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green bathtub",
+                    "red drawer",
+                    "blue drawer",
+                    "blue cupboard",
+                    "blue bathtub",
+                    "green box",
+                    "green envelope",
+                    "green drawer"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "H"
+        ],
+        "id": "a68d8fedb6d38e1a55ce49f2bcc03238"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "The five friends, Michael, Olivia, Noah, Ethan, and James, cautiously entered the dimly lit study. Dust motes danced in the shafts of sunlight filtering through the grimy windows. In the corner, a bright blue bathtub stood incongruously amidst the antique furniture. The game was afoot: the potato was hidden inside the blue bathtub. Michael, feigning disinterest, remained perfectly still, observing the room for a full minute. He then casually strolled out of the study. Next, Olivia, with a mischievous glint in her eye, carefully moved the potato from the bathtub to the blue pantry, a tall cabinet tucked behind the grandfather clock. She then exited the study, whistling innocently. Jacob, following her lead, stealthily relocated the potato to the green cupboard, a smaller cabinet near the fireplace. Jacob then left the study. Ethan then entered and, like Michael, made no movements, simply observing the surroundings for a minute before departing. Finally, James entered and also stood motionless for a minute, pretending to be uninterested. He then exited the study. Back in the waiting room, a tense atmosphere hung in the air. Jacob, with a confident smirk, loudly announced, \"The potato is definitely in the blue bathtub!\" However, Alexander quietly confided to Jacob, out of earshot of the others, \"Actually, I know the potato is in the blue bottle.\"",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Michael really think the potato is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red drawer",
+                    "blue bottle",
+                    "green cupboard",
+                    "red box",
+                    "blue pantry",
+                    "blue bathtub",
+                    "red envelope",
+                    "green drawer"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "F"
+        ],
+        "id": "07a79851813d1a6cb576d1f7b3d1014c"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Sophia, Owen, Aiden, Ella, and Amelia cautiously entered the old, dusty closet. A single bare bulb illuminated the cramped space. The juicy persimmon was initially hidden in the blue pantry, a fact known to all. Sophia, with deliberate stillness, remained in the closet for a full minute, barely breathing. Then, she exited the closet, her expression unreadable. Owen followed suit, mimicking Sophia's quiet patience; he made no movements and stayed in the closet for one minute before leaving. Aiden, however, had a different plan. With a mischievous glint in his eyes, he moved the persimmon from its original location to the green treasure chest, carefully concealing it beneath a pile of trinkets. Aiden then exited the closet, whistling innocently. Ella, like Sophia and Owen, made no movements, silently waiting in the closet for a minute before departing. Amelia, driven by her own agenda, moved the persimmon from the green treasure chest back to the blue pantry, restoring it to its initial location. Amelia then exited the closet. Later, Aiden spotted a playful monkey scampering across the lawn outside. Sophia, Owen, Aiden, Ella, and Amelia reconvened and entered the brightly lit waiting room. Amelia, Aiden, and Ella then re-entered the closet. This time, Ella noticed a tiny mouse darting across the floor. The persimmon, unbeknownst to Ella, was currently in the blue pantry. Amelia, seizing the opportunity, moved the persimmon to the green drawer, hoping to mislead the others. Amelia then exited the closet. Aiden, maintaining his deceptive strategy, made no movements and stayed in the closet for a minute before leaving. Ella, similarly, remained still and silent for a minute before exiting. Amelia, Aiden, and Ella returned to the waiting room. Sophia expressed her fondness for the red drawer. In an attempt to mislead, Ella publicly claimed that the persimmon was in the blue bottle. However, Amelia privately confided in Ella that the persimmon was actually in the red box.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the persimmon really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green drawer",
+                    "red drawer",
+                    "green bathtub",
+                    "blue pantry",
+                    "red bottle",
+                    "red container",
+                    "red box",
+                    "green basket"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "6cd93a56cb9e69b46649e2d960c55d52"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Sophia, Owen, Aiden, Ella and Amelia cautiously entered the old, dusty closet. The juicy persimmon was initially hidden in the blue pantry, tucked behind a stack of plates. Sophia, trying to appear nonchalant, made no movements and remained perfectly still in the closet for a full minute, listening to the creaks and groans of the house. Sophia then casually exited the closet. Owen, following her lead, also made no movements, maintaining a poker face as he stayed in the closet for one minute. Owen then exited the closet. Aiden, with a mischievous glint in his eye, carefully moved the persimmon from its original hiding place to the green treasure chest, hoping to mislead anyone searching for it. Aiden then exited the closet. Ella, attempting to mimic Sophia and Owen's behavior, made no movements and stayed in the closet for one minute, trying to suppress a giggle. Ella then exited the closet. Amelia, however, had a different plan. She moved the persimmon back to the blue pantry, undoing Aiden's sneaky move. Amelia then exited the closet. Aiden, now outside the closet, spotted a playful monkey scampering across the lawn. Sophia, Owen, Aiden, Ella and Amelia then all entered the waiting room to regroup. Amelia, Aiden and Ella re-entered the closet. Ella, while inside, noticed a tiny mouse scurrying across the floorboards. The persimmon, for the moment, was in the blue pantry. Amelia, deciding to change things up again, moved the persimmon to the green drawer, hoping to further confuse anyone tracking its location. Amelia exited the closet. Aiden, sticking to his strategy, made no movements and stayed in the closet for 1 minute. Aiden exited the closet. Ella, mirroring Aiden's actions, made no movements and stayed in the closet for 1 minute. Ella exited the closet. Amelia, Aiden and Ella then returned to the waiting room. Sophia expressed her fondness for the red drawer, completely unrelated to the persimmon's location. Ella, in a bold and misleading statement, publicly claimed that the persimmon was in the blue bottle. Amelia, however, privately whispered to Ella that the persimmon was actually hidden in the red box.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Owen really think the persimmon is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red container",
+                    "green drawer",
+                    "red drawer",
+                    "green bathtub",
+                    "green basket",
+                    "blue pantry",
+                    "red bottle",
+                    "blue bottle"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "H"
+        ],
+        "id": "9890df608450fb0ef05bfe4379cef347"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Sarah, Jessica, Michael, Ashley and Emily cautiously entered the old, dusty porch. The onion, wrapped in newspaper, was initially hidden inside a weathered red crate. Sarah stood perfectly still, observing the surroundings from the porch for a full minute, then quietly exited. Jessica mirrored Sarah's actions, remaining motionless on the porch for a minute before leaving. Michael, with a furtive glance around, moved the onion from the red crate to the red drawer, carefully concealing it. He then quickly left the porch. Ashley, after him, relocated the onion to a decorative red bottle, placing it amongst other knick-knacks. Ashley then exited. Emily, following the pattern, moved the onion back to its original hiding place, the red crate. During all this, Jessica realized she had lost her phone. Emily then left the porch. Sarah, Jessica, Michael, Ashley and Emily then gathered in the adjacent waiting room. Jessica, Sarah, and Michael re-entered the porch. The onion was, at this point, in the red crate. Jessica, deciding to change things up, moved the onion to a blue crate, hoping to throw others off. Jessica then exited the porch. Emily expressed her dislike for the onion. Sarah remained still and quiet on the porch for a minute, then left. Michael also stood silently for a minute before departing. Jessica, Sarah, and Michael returned to the waiting room. Back in the waiting room, Jessica loudly and confidently declared that the onion was hidden in the green cupboard. However, Owen whispered to Ashley in private that the onion was actually in the blue crate.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the onion really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green basket",
+                    "blue crate",
+                    "green box",
+                    "blue bottle",
+                    "red bucket",
+                    "green bathtub",
+                    "green treasure chest",
+                    "green drawer"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "97d21555870eedac8410ddaefe4052a5"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Sarah, Jessica, Michael, Emily and Olivia cautiously entered the old, dusty porch. The onion, wrapped in burlap, was carefully placed in the red crate. Sarah, trying to appear nonchalant, made no movements and stayed in the porch for a full minute, listening for any sounds. Sarah exited the porch. Jessica, equally still, made no movements and stayed in the porch for 1 minute, her eyes darting around the room. Jessica exited the porch. Michael, with a sly grin, moved the onion from the crate to the red drawer, hoping no one noticed. Michael exited the porch. Emily, determined to mislead, moved the onion to the seemingly random red bottle on a shelf. Emily exited the porch. Olivia, wanting to undo Emily's work, moved the onion back to the red crate. In her haste, Jessica lost her phone. Olivia exited the porch. Sarah, Jessica, Michael, Emily and Olivia then all entered the waiting room. Jessica, Sarah and Michael re-entered the porch. The onion was, once again, in the red crate. Jessica, with a deliberate motion, moved the onion to the blue crate, a more obvious hiding spot. Jessica exited the porch. Olivia wrinkled her nose, clearly disliking the smell of the onion. Sarah, maintaining her deceptive facade, made no movements and stayed in the porch for 1 minute. Sarah exited the porch. Michael, also playing it cool, made no movements and stayed in the porch for 1 minute. Michael exited the porch. Jessica, Sarah and Michael went back into the waiting room. Jessica boldly and publicly claimed that the onion is in the green cupboard, hoping to throw everyone off the scent. Owen, however, privately told Emily that the onion is actually in the blue crate.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Michael really think the onion is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green treasure chest",
+                    "blue crate",
+                    "green basket",
+                    "green box",
+                    "blue bottle",
+                    "red bucket",
+                    "green drawer",
+                    "green bathtub"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "f480eee67fd51d5bea807174de42002d"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Logan, Emma, Isabella, Hannah, and Chloe cautiously entered the dimly lit hallway. A red bottle sat on a shelf. Inside were the peas. Logan, with deliberate stillness, remained in the hallway for a full minute, observing everything. He then quietly exited. Emma followed, mimicking Logan's stillness and silent observation for a minute before also leaving the hallway. Isabella, with a swift and unseen movement, relocated the peas from the red bottle to a green bottle. She quickly exited the hallway. Hannah, after checking that no one was watching, moved the peas to the blue treasure chest located in a corner. Isabella, with a visible grimace, expressed her dislike for the tangerine sitting on a nearby table. Hannah then exited the hallway. Chloe, after carefully looking around, moved the peas back to the red bottle. He then realized he had lost his phone. Frustrated, Chloe exited the hallway. Logan, Emma, Isabella, Hannah, and Chloe then entered the adjacent waiting room. Isabella, Logan, and Emma re-entered the hallway. The peas were, at that moment, in the red bottle. Isabella, acting quickly, moved the peas to the blue treasure chest. She exited the hallway. Logan, with a sly glance around, moved the peas to the blue bathtub in the corner. He exited the hallway. Emma, after a moment of contemplation, moved the peas to the red pantry. Emma exited the hallway. Isabella, Logan, and Emma returned to the waiting room. Logan boldly and publicly claimed that the peas were in the green bottle. Emma, leaning in conspiratorially, privately told Logan that the peas were in the red pantry.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the peas really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue treasure chest",
+                    "green box",
+                    "blue bathtub",
+                    "red pantry",
+                    "green cupboard",
+                    "red bottle",
+                    "green crate",
+                    "green bottle"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "id": "7fdd009c99f96b710f324faee8b6430d"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Logan, Emma, Isabella, Hannah, and Chloe cautiously entered the dimly lit hallway. A red bottle sat on a shelf. Logan, trying to appear nonchalant, made no movements and remained in the hallway for a full minute, carefully observing the surroundings. Then, Logan exited the hallway. Emma, equally cautious, also made no movements, staying in the hallway for one minute, her eyes scanning every corner. Emma then exited the hallway. Isabella, with a mischievous glint in her eye, moved the peas from the red bottle to a green bottle. Isabella quickly exited the hallway. Hannah, looking determined, moved the peas from the green bottle to a blue treasure chest tucked away in a corner. Isabella wrinkled her nose, clearly disliking the tangerine sitting nearby. Hannah then exited the hallway. Chloe, a bit flustered, moved the peas from the blue treasure chest back to the red bottle. In his haste, Chloe lost his phone somewhere in the hallway. Chloe hurriedly exited the hallway. Logan, Emma, Isabella, Hannah, and Chloe then entered the waiting room. Isabella, Logan, and Emma re-entered the hallway. The peas were now in the red bottle. Isabella, acting swiftly, moved the peas to the blue treasure chest. Isabella exited the hallway. Logan, with a sly grin, moved the peas from the blue treasure chest to a blue bathtub in the corner. Logan exited the hallway. Emma, appearing calm and collected, moved the peas from the blue bathtub to the red pantry. Emma exited the hallway. Isabella, Logan, and Emma returned to the waiting room. Logan confidently and publicly claimed that the peas were in the green bottle. However, Emma privately told Logan that she knew the peas were actually in the red pantry.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Emma really think the peas are?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green bottle",
+                    "red pantry",
+                    "blue treasure chest",
+                    "blue bathtub",
+                    "green crate",
+                    "red bottle",
+                    "green cupboard",
+                    "green box"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "42b58b035747819ef4166f9462a997ab"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Emma, William, Isla, Ava, and Nathan cautiously entered the bright, sun-drenched sunroom. A single, bright red cherry was nestled inside the blue suitcase. Emma stood perfectly still, observing the room, and remained in the sunroom for a full minute. Then, Emma calmly exited the sunroom. William, equally still and observant, stayed in the sunroom for 1 minute before leaving as well. Isla, with a furtive glance around, quickly moved the cherry to the red bottle. Isla then slipped out of the sunroom. Ava, following suit, swiftly transferred the cherry to the green basket. Ava exited the sunroom after her deed was done. Nathan, with a determined look, moved the cherry back to the blue suitcase. William briefly spotted a fluffy cat outside the window. Nathan then exited the sunroom. Emma, William, Isla, Ava, and Nathan all gathered in the waiting room. Emma, Ava, and Isla then proceeded into the laundry room. A sweet potato was located in the green drawer. Emma moved the sweet potato to the green cupboard. Emma exited the laundry. Ava moved the sweet potato to the blue cupboard. Ava exited the laundry. Isla moved the sweet potato to the green bathtub. Isla exited the laundry. Emma, Ava, and Isla returned to the waiting room. Ava whispered to Isla that the sweet potato is in the green drawer. Isla secretly told William that the sweet potato is in the green bathtub.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the cherry really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green drawer",
+                    "green bathtub",
+                    "green bottle",
+                    "green treasure chest",
+                    "green cupboard",
+                    "red envelope",
+                    "blue suitcase",
+                    "blue cupboard"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "G"
+        ],
+        "id": "2e52f332136bce756f46c90c1fcdaafe"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Emma, William, Isla, Ava, and Nathan cautiously entered the brightly lit sunroom, its glass walls shimmering under the afternoon sun. Inside, amidst the potted plants and wicker furniture, lay a blue suitcase. The cherry, a small, vibrant red fruit, was carefully placed inside this suitcase. Emma, with a deliberate stillness, remained in the sunroom for a full minute, her gaze sweeping across the room, betraying nothing. Then, she calmly exited. William followed, mirroring Emma's composed demeanor, spending a minute in the room before departing. Isla, with a mischievous glint in her eyes, swiftly moved the cherry from the blue suitcase to a red bottle sitting on a nearby table. She then quickly left the sunroom. Ava, equally quick and secretive, relocated the cherry to a green basket nestled amongst the ferns. She then exited. Nathan, after a moment's pause, moved the cherry back to its original location, the blue suitcase. As William was leaving the room, he noticed a fluffy tabby cat leisurely strolling through the hall outside. Nathan then exited the sunroom. Emma, William, Isla, Ava, and Nathan then proceeded to the waiting room. Emma, Ava, and Isla then entered the laundry room, a small, utilitarian space. A green drawer held a sweet potato. Emma moved the sweet potato to the green cupboard. Emma exited the laundry. Ava moved the sweet potato to the blue cupboard. Ava exited the laundry. Isla moved the sweet potato to the green bathtub. Isla exited the laundry. Emma, Ava, and Isla entered the waiting room. Ava privately told Isla that the sweet potato is in the green drawer. Isla privately told William that the sweet potato is in the green bathtub.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Nathan really think the cherry is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue cupboard",
+                    "green bathtub",
+                    "blue suitcase",
+                    "green cupboard",
+                    "red envelope",
+                    "green bottle",
+                    "green treasure chest",
+                    "green drawer"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "9611aa71da6a6dfa2b5955937961f7ff"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Benjamin, Isabella, Emma, Charlotte, and Liam cautiously entered the cluttered workshop. Liam, distracted, realized he'd lost his phone somewhere. In the workshop, a bright red watermelon was initially placed inside a clear blue bottle. Benjamin, with a mischievous glint in his eye, carefully moved the watermelon from the blue bottle to the green drawer. He then casually exited the workshop. Shortly after, Isabella, equally observant, moved the watermelon from the green drawer to a large, dented blue bucket. She then left the workshop. Emma, seemingly uninterested in the watermelon's whereabouts, made no movements at all and simply stayed in the workshop for a full minute, observing the surroundings. Finally, Emma exited the workshop. Charlotte, arriving last, moved the watermelon from the blue bucket to a sturdy blue container. She then departed the workshop. Liam, still searching for his phone, also made no movements and stayed in the workshop for a minute before giving up and leaving. Benjamin, it was known, had a particular fondness for the blue bottle. Later, Benjamin, Isabella, Emma, Charlotte, and Liam all gathered in the waiting room. Charlotte, Liam, and Isabella then proceeded to the smaller, adjacent lounge. Inside the lounge, a green pepper was initially resting inside a bright red bottle. Charlotte, who had a fondness for green envelopes, carefully moved the green pepper from the red bottle to the green envelope. She then exited the lounge. Liam, following suit, moved the green pepper from the green envelope to the red drawer. He then left the lounge. Finally, Isabella moved the green pepper from the red drawer to the red box before exiting the lounge. Charlotte, Liam, and Isabella then returned to the waiting room. Liam, who liked the blue bucket, privately told Isabella that he believed the green pepper was still in the red bottle. Isabella, playing along, privately told Benjamin that she believed the green pepper was in the red box.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the watermelon really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red drawer",
+                    "blue container",
+                    "red bottle",
+                    "green drawer",
+                    "blue bottle",
+                    "green envelope",
+                    "red box",
+                    "blue suitcase"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "c5cd7d51e2e46d5f2eb930ecd56b0001"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Benjamin, Isabella, Emma, Charlotte and Liam cautiously entered the dimly lit workshop. The air was thick with the scent of sawdust and old varnish. Liam, distracted by the cluttered space, realized he'd lost his phone. Earlier, a juicy watermelon had been placed inside a distinctive blue bottle. Benjamin, with a mischievous glint in his eyes, carefully moved the watermelon from the blue bottle to the green drawer. Benjamin then casually exited the workshop. Shortly after, Isabella, equally secretive, relocated the watermelon from the green drawer to a large, blue bucket. Benjamin, who had a known aversion to the taste of lime, was nowhere to be seen. Isabella then left the workshop. Emma, observant but seemingly uninvolved, remained still in the workshop for a full minute, quietly observing the scene. Emma then exited the workshop. Charlotte, with purpose, moved the watermelon from the blue bucket to a sturdy, blue container. Charlotte then left the workshop. Liam, oblivious to the watermelon's journey, stood still in the workshop for a minute, hoping to find his phone, before exiting. Later, Benjamin, who had a fondness for the blue bottle, rejoined Isabella, Emma, Charlotte and Liam in the waiting room. Charlotte, Liam and Isabella then proceeded to the adjacent lounge. Inside the lounge, a green pepper sat in a bright red bottle. Charlotte, who had a soft spot for the color green, moved the green pepper from the red bottle to a green envelope. Charlotte then exited the lounge. Liam, following suit, moved the green pepper from the green envelope to the red drawer. Liam then exited the lounge. Isabella, in her turn, moved the green pepper from the red drawer to a red box. Isabella then exited the lounge. Charlotte, Liam and Isabella returned to the waiting room. Liam, who had a particular liking for the blue bucket, leaned in and whispered to Isabella that he believed the green pepper was still in the red bottle. Isabella, feigning agreement, later confided in Benjamin that the green pepper was actually hidden in the red box.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Benjamin really think the watermelon is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red drawer",
+                    "green envelope",
+                    "red bottle",
+                    "blue container",
+                    "red box",
+                    "blue bottle",
+                    "green drawer",
+                    "blue suitcase"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "G"
+        ],
+        "id": "4b7ca1641e5584809b54d4d0321701a3"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "John, Emily, Michael, Olivia, and Sophia cautiously entered the dimly lit basement. A single bare bulb cast long shadows across the room. The peach, a ripe and juicy specimen, was initially nestled in the red basket. John stood perfectly still, observing the surroundings, and remained in the basement for a full minute. He then exited the basement without touching anything. Emily also made no movements, spending a minute in the basement before leaving. Michael, with a mischievous glint in his eyes, moved the peach from the red basket to the old, stained green bathtub. He then quickly exited the basement. Olivia, like John and Emily, simply stayed in the basement for a minute without interacting with anything before departing. Elizabeth then entered and moved the peach back to its original location in the red basket. She exited the basement. John, Emily, Michael, Olivia, and Elizabeth then gathered in the waiting room. Emily, Elizabeth, and Michael proceeded into the workshop. Inside, the beans were in the green drawer. Emily moved the beans to the red box. She then left the workshop. Elizabeth then moved the beans to the blue bucket. She exited the workshop. Michael then moved the beans to the red bucket. Elizabeth dislikes the plum. Michael exited the workshop. Emily, Elizabeth and Michael entered the waiting room. Emily lost his phone. Michael publicly claimed that beans is in the green drawer. Emily privately told Michael that the beans is in the red box.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the peach really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue bottle",
+                    "green drawer",
+                    "green bottle",
+                    "blue bathtub",
+                    "red bucket",
+                    "blue drawer",
+                    "green bucket",
+                    "red basket"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "H"
+        ],
+        "id": "4de41ad96057bef8b6576ab080de6c1f"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "John, Emily, Michael, Olivia, and Sophia cautiously entered the dimly lit basement. A single peach sat nestled in a vibrant red basket. John, ever observant, remained perfectly still in the basement for a full minute, absorbing the scene. Then, he quietly exited. Emily followed suit, making no movements and staying in the basement for one minute before leaving. Michael, with a mischievous glint in his eye, carefully moved the peach from the red basket to an old, green bathtub tucked away in a corner. He then exited the basement. Olivia, seemingly uninterested in the peach's location, remained motionless for a minute before departing. Finally, Elizabeth, with a determined expression, moved the peach back to its original spot in the red basket. She then left the basement. \n\nLater, John, Emily, Michael, Olivia, and Sophia gathered in the waiting room. Emily, Elizabeth, and Michael then entered the workshop. Inside, a handful of beans lay scattered in a green drawer. Emily swiftly moved the beans to a bright red box. She then exited the workshop. Elizabeth, not to be outdone, relocated the beans to a dented blue bucket. She then exited. Michael, after a moment of contemplation, moved the beans to a different red bucket. Elizabeth quietly expressed her dislike of plums. Michael then exited the workshop. Emily, Elizabeth, and Michael rejoined the others in the waiting room. Suddenly, Emily realized she lost her phone. To everyone's surprise, Michael loudly and publicly claimed that the beans were still in the green drawer. However, Emily confided to Michael privately that she actually moved the beans into the red box.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Olivia really think the peach is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue bathtub",
+                    "green bottle",
+                    "blue drawer",
+                    "red bucket",
+                    "green bathtub",
+                    "green bucket",
+                    "blue bottle",
+                    "green drawer"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "E"
+        ],
+        "id": "77c1df7ce4a799c9e88eb929b6a3bea5"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Sarah, Michael, Jessica, David, and Ashley cautiously entered the grand hall. Sunlight streamed through the tall windows, illuminating dust motes dancing in the air. A bunch of fresh asparagus was carefully placed in the green cupboard, its stalks a vibrant green against the aged wood. Sarah, distracted by the enormity of the hall, realized with a start that she had lost her phone. Thinking quickly, Sarah moved the asparagus from the green cupboard to the more secure green treasure chest, hoping it would be safe there. Sarah then swiftly exited the hall, leaving the others behind. Michael, observing all this, made no movements and remained in the hall for a full minute, his gaze sweeping across the room. He then exited the hall. Jessica, similarly, remained still and silent for a minute before also leaving the hall. David followed suit, standing motionless for a minute before departing. Michael expressed a fondness for the green basket earlier that day. Ashley, too, remained in the hall for a minute before exiting. Sarah, Michael, Jessica, David, and Ashley then all entered the waiting room. Sarah, Michael, and David proceeded into the brightly lit bathroom. Inside, a carrot lay in the blue crate. Jessica had previously expressed a liking for the red crate. Sarah, with a mischievous glint in her eye, moved the carrot from the blue crate to the green drawer. She then exited the bathroom. Michael, seeing his opportunity, moved the carrot from the green drawer to the green basket. Michael then exited the bathroom. David, remaining in the bathroom, made no movements and stayed there for a minute before finally exiting. Sarah, Michael, and David returned to the waiting room. In a loud voice, Sarah publicly claimed that the carrot was still in the blue crate. However, Aiden privately confided in Jessica that he knew the carrot was actually hidden in the green basket.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does David really think the asparagus is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green bathtub",
+                    "green basket",
+                    "green drawer",
+                    "red envelope",
+                    "green cupboard",
+                    "green treasure chest",
+                    "green bucket",
+                    "blue crate"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "F"
+        ],
+        "id": "7909d439ab88e31a67548d5f123aded3"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "John, Emily, Sarah, Michael and Jessica walked into the brightly lit living room. The crisp, fresh lettuce was initially placed in the green pantry, nestled amongst other vegetables. John, with a mischievous grin, carefully moved the lettuce from the green pantry to the blue cupboard. John then casually exited the living room. Emily, remaining perfectly still, didn't betray any knowledge of John's actions and stayed in the living room for a full minute, observing the surroundings. Emily then calmly exited the living room. Sarah, after a moment, tiptoed into the living room and relocated the lettuce to the rather unusual hiding place of the blue bathtub. Sarah then quickly exited the living room. Michael, with a determined look, moved the lettuce to the red box, carefully concealing it. Michael then left the living room. Jessica, thinking she could improve the hiding spot, moved the lettuce back to its original location, the green pantry. Jessica then exited the living room. John, Emily, Sarah, Michael and Jessica all gathered in the waiting room. Sarah, John and Emily then entered the sunroom, which was bathed in warm sunlight. A shiny red apple sat in the red bucket. Sarah picked up the apple and moved it to the blue container. Sarah then exited the sunroom. Sarah wrinkled her nose, showing her dislike for grapes. John remained still in the sunroom for a minute. John then exited the sunroom. Sarah grimaced, showing her dislike for the potato. Emily remained still in the sunroom for a minute. Emily then exited the sunroom. Sarah, John and Emily returned to the waiting room. John loudly and confidently claimed that the apple was in the blue container, trying to mislead everyone. John dislikes the apple. Emily whispered to John that the apple is in the blue suitcase.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the lettuce really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red bucket",
+                    "red box",
+                    "green pantry",
+                    "red basket",
+                    "red envelope",
+                    "blue bathtub",
+                    "blue cupboard",
+                    "red bottle"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "513184e38d1444e9e0e8fed221d85462"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "John, Emily, Olivia, Michael and Sophia entered the cozy living room. The crisp lettuce was initially placed in the green pantry. John, with a mischievous grin, moved the lettuce from the pantry to the blue cupboard. John then casually exited the living room. Emily, observing John's actions, remained motionless and stayed in the living room for a full minute, carefully considering her next move. Emily then exited the living room. Olivia, now alone, stealthily moved the lettuce from the blue cupboard to the blue bathtub, concealing it beneath a rubber ducky. Olivia quickly exited the living room. Michael, entering with purpose, moved the lettuce from its watery hiding place to the red box, securing the lid tightly. Michael then exited the living room. Sophia, arriving last, moved the lettuce from the red box back to its original location in the green pantry, restoring a semblance of order. Sophia exited the living room. John, Emily, Olivia, Michael and Sophia then gathered in the waiting room. Olivia, John and Emily then proceeded into the sunroom, bathed in warm light. The juicy apple sat invitingly in the red bucket. Olivia, deciding to play along, moved the apple from the red bucket to the blue container. Olivia then exited the sunroom. Olivia wrinkled her nose, expressing her dislike for the grapes. John, remaining in the sunroom, stood still for a minute, a thoughtful expression on his face. John exited the sunroom. Olivia grimaced, showing her dislike for the potato. Emily, maintaining her composure, remained in the sunroom for a minute, observing her friends' antics. Emily exited the sunroom. Olivia, John and Emily returned to the waiting room. John confidently and publicly declared that the apple was in the blue container, attempting to mislead the others. John secretly disliked the apple. Emily, in a private whisper, corrected John, telling him that the apple was actually hidden in the blue suitcase.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Sophia really think the lettuce is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green pantry",
+                    "blue cupboard",
+                    "red basket",
+                    "blue bathtub",
+                    "red box",
+                    "red bottle",
+                    "red envelope",
+                    "red bucket"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "0550ecffda5adc8c7d6ebb16cedbef68"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Olivia, Sophia, Ethan, Emily and Chloe cautiously entered the dimly lit den. A shiny red apple sat invitingly in the green pantry. Olivia, with deliberate stillness, remained in the den for a full minute, her gaze fixed on the apple. Then, she quietly exited the den. Sophia followed, mimicking Olivia's stillness, spending a minute observing the room before also leaving. Ethan, with a mischievous glint in his eyes, carefully moved the apple from the green pantry to the nearby green bottle. He glanced around to ensure he wasn't observed, then exited the den. Emily entered next, adopting the same motionless pose as Olivia and Sophia, remaining for a minute before departing. Finally, Chloe entered, mirrored the others' behavior, and exited after a minute. Olivia, Sophia, Ethan, Emily and Chloe then gathered in the adjacent waiting room. Sophia, Olivia and Emily proceeded into the bright and airy sunroom. A pungent onion rested inside the red drawer. Sophia stood still for one minute before exiting the sunroom. Olivia moved the onion to the red pantry and exited the sunroom. Emily remained still for a minute before exiting the sunroom. Sophia, Olivia and Emily returned to the waiting room. Olivia loudly proclaimed that the onion was located in the green treasure chest. However, Evelyn whispered to Olivia that the onion was actually in the red pantry.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Ethan really think the apple is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red bottle",
+                    "red container",
+                    "green pantry",
+                    "red box",
+                    "green crate",
+                    "blue suitcase",
+                    "green bottle",
+                    "blue cupboard"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "G"
+        ],
+        "id": "7a13550d2c4e1e6c8fafef9f5591e672"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Ava, Charlotte, Evelyn, Amelia and Benjamin cautiously entered the old, dusty bathroom. Inside, they saw a bright orange persimmon sitting innocently in a blue crate. Ava, with a calm demeanor, made no movements whatsoever and remained in the bathroom for a full minute, observing everything. Then, Ava exited the bathroom. Charlotte, with a mischievous glint in her eyes, quickly moved the persimmon from the blue crate to a red crate, hoping to mislead anyone searching for it. Charlotte then exited the bathroom. Evelyn, adding another layer of deception, swiftly moved the persimmon from the red crate to the blue cupboard. Evelyn exited the bathroom. Amelia, not wanting to be left out, moved the persimmon from the blue cupboard to the green pantry, further complicating the search. Amelia exited the bathroom. Benjamin, just like Ava, made no movements and stayed in the bathroom for a minute, pretending to be uninvolved. Benjamin exited the bathroom. Ava, Charlotte, Evelyn, Amelia and Benjamin then entered the waiting room, a space filled with nervous energy. Ava, Benjamin, and Evelyn subsequently entered the office. Inside, they found a pungent onion sitting in the blue bathtub. Ava, seizing the opportunity, moved the onion to the green box, intending to mislead. Ava exited the office. Benjamin, maintaining his facade of neutrality, made no movements and stayed in the office for one minute. Benjamin exited the office. Evelyn, following Benjamin's lead, also made no movements and stayed in the office for one minute. Evelyn exited the office. Ava, Benjamin, and Evelyn returned to the waiting room. Benjamin, in a hushed tone, privately told Evelyn that the onion was actually in the red container, planting a false belief. Evelyn, playing her part, privately told Amelia that the onion was in the green box, reinforcing the deception.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the persimmon really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red pantry",
+                    "green pantry",
+                    "red container",
+                    "green box",
+                    "red envelope",
+                    "green bucket",
+                    "green cupboard",
+                    "blue bathtub"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "id": "1c5af71f04a8af677c1abfe0b29b2f56"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Olivia, Chloe, Emily, Abigail, and Michael cautiously entered the old, dusty bathroom. A bright orange persimmon was nestled inside a blue crate, its color contrasting sharply with the faded blue. Olivia stood perfectly still, making no movements, and remained in the bathroom for a full minute, her presence almost unnoticed. Olivia then quietly exited the bathroom. Chloe, with a mischievous glint in her eyes, swiftly moved the persimmon from the blue crate to a red crate. Chloe then quickly exited the bathroom. Emily, following Chloe, carefully moved the persimmon to the blue cupboard, ensuring it was hidden from view. Emily then exited the bathroom. Abigail, after Emily, relocated the persimmon to the green pantry, placing it amongst various jars and containers. Abigail then exited the bathroom. Michael, like Olivia, made no movements and stayed in the bathroom for a minute, a silent observer. Michael then exited the bathroom. Olivia, Chloe, Emily, Abigail, and Michael then entered the waiting room. Olivia, Michael, and Emily then entered the office. A pungent onion was sitting in the blue bathtub. Olivia moved the onion to the green box, concealing it amongst other items. Olivia exited the office. Michael remained still, observing the surroundings and staying in the office for a minute. Michael then exited the office. Emily made no movements and stayed in the office for a minute before leaving. Olivia, Michael, and Emily then entered the waiting room. Benjamin privately whispered to Emily that the onion was actually in the red container, trying to mislead her. Emily then privately told Abigail that the onion was in the green box.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Olivia really think the persimmon is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red envelope",
+                    "blue bathtub",
+                    "green cupboard",
+                    "green bucket",
+                    "red pantry",
+                    "blue crate",
+                    "green box",
+                    "red container"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "F"
+        ],
+        "id": "1a9115bdcf0052676187593de2942d41"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Benjamin, Liam, Elizabeth, Alexander, and Owen cautiously entered the old, dusty workshop. A bunch of ripe grapes was initially located inside the blue pantry. Benjamin, with a mischievous glint in his eyes, carefully moved the grapes from the pantry to a sturdy blue suitcase. He then quickly exited the workshop. Liam, seemingly uninterested in the grapes, made no movements and simply stayed in the workshop for a full minute, observing the surroundings. Finally, Liam exited the workshop. Alexander, preoccupied, realized he had lost his gloves somewhere. Elizabeth, like Liam, made no movements and remained in the workshop for a minute before departing. Benjamin, now outside, discovered he had lost his phone. Back inside, Alexander, perhaps seeking to mislead, moved the grapes from the blue suitcase to a bright red crate. He then exited the workshop. Owen, with a sense of purpose, moved the grapes from the red crate back to their original location in the blue pantry. Owen then exited the workshop. Liam expressed his fondness for the red bucket sitting in the corner. Benjamin, Liam, Elizabeth, Alexander, and Owen then gathered in the waiting room. Owen, Alexander, and Benjamin subsequently entered the dimly lit garage. Liam, while waiting, spotted a scurrying mouse. A juicy watermelon was initially stored inside the green envelope. Owen moved the watermelon to the red drawer. Owen exited the garage. Alexander made no movements and stayed in the garage for 1 minute. Alexander exited the garage. Benjamin moved the watermelon to the red pantry. Benjamin exited the garage. Owen, Alexander, and Benjamin entered the waiting room. Benjamin boldly and publicly claimed that the watermelon was located in the green pantry, attempting to deceive the others. Owen, observing the situation, saw a monkey. Owen privately told Benjamin that the watermelon is in the red pantry.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where are the grapes really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue pantry",
+                    "red crate",
+                    "green bathtub",
+                    "blue bottle",
+                    "red bucket",
+                    "green bottle",
+                    "blue suitcase",
+                    "green basket"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "0f794d90d7fb9c80e0010de9d00283b5"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Benjamin, Liam, Elizabeth, Alexander and Owen cautiously entered the old, dusty workshop. Inside, they noticed that the grapes were initially stored in the blue pantry. Benjamin, with a sly glance around, carefully moved the grapes from the pantry to a sturdy blue suitcase. He then quickly exited the workshop. Liam, seemingly uninterested in the grapes, made no movements and stayed in the workshop for a full minute, observing the surroundings. Liam then exited the workshop. Alexander, preoccupied, realized he had lost his gloves. Elizabeth, like Liam, made no movements and remained in the workshop for one minute before exiting. Benjamin, outside, discovered he had lost his phone. Alexander, after searching for his gloves, moved the grapes from the blue suitcase to a bright red crate. He then left the workshop. Owen, with a determined look, moved the grapes from the red crate back to their original location in the blue pantry. Owen then exited the workshop. Liam expressed his fondness for the red bucket sitting in the corner. Benjamin, Liam, Elizabeth, Alexander and Owen then all entered the waiting room. Owen, Alexander and Benjamin subsequently entered the garage. Liam, back in the waiting room, spotted a small mouse darting across the floor. They also noted that the watermelon was in the green envelope. Owen carefully moved the watermelon from the green envelope to the red drawer. Owen then exited the garage. Alexander, seemingly lost in thought, made no movements and stayed in the garage for a minute before exiting. Benjamin moved the watermelon to the red pantry. Benjamin then exited the garage. Owen, Alexander and Benjamin then returned to the waiting room. Benjamin publicly and confidently claimed that the watermelon was in the green pantry. Owen, observing Benjamin's deception, saw a monkey nearby. Owen privately told Benjamin that the watermelon is in the red pantry.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Benjamin really think the grapes are?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue bottle",
+                    "red bucket",
+                    "blue pantry",
+                    "green basket",
+                    "green bottle",
+                    "blue suitcase",
+                    "red crate",
+                    "green bathtub"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "F"
+        ],
+        "id": "8c49f060633321e8fe6b6da14cbcb95f"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Emily, Michael, David, Olivia and Ethan entered the brightly lit laundry room. A vibrant orange was initially placed inside a green box. Emily stood perfectly still, making no movements, and remained in the laundry room for a full minute before exiting. As she left, Emily spotted a monkey playing outside. Michael then moved the orange from the green box to a blue bottle. David, entering after Michael, saw a dog wagging its tail. David then watched as Michael exited the laundry room. Following Michael, David moved the orange from the blue bottle to a red container. David then exited the laundry room. Olivia entered and, like Emily, made no movements, staying in the laundry room for a minute before leaving. Ethan also entered, mirrored their actions, remaining still for a minute before exiting. Emily, Michael, David, Olivia and Ethan then gathered in the waiting room. In the waiting room, Olivia loudly declared that the orange was located in the blue bucket. However, Owen whispered to Emily that he believed the orange was actually hidden in the red container. Olivia, David and Ethan then proceeded to the lounge. Inside the lounge, a green pepper was placed inside a green envelope. Olivia remained in the lounge for one minute, making no movements, before exiting. David followed suit, staying for a minute without moving before leaving. Ethan also stayed for a minute, mirroring the others' actions. During this time, Emily realized she had lost her watch. Ethan then exited the lounge. Olivia, David and Ethan returned to the waiting room. Owen, David, Olivia and Emily re-entered the laundry room. The orange was, at this point, located inside the red container. Ethan stayed in the laundry room for a minute, making no movements, before exiting. David also stayed for a minute, making no movements, before exiting. Olivia then moved the orange from the red container to the blue bucket. Olivia then exited the laundry room. Emily remained still in the laundry room for a minute before exiting. During this time, Jacob saw a dog. Emily realized she had lost her watch. Owen, David, Olivia and Emily entered the waiting room. David loudly claimed that the orange was in the red container. Ethan realized he had lost his watch. Emily privately told Olivia that the orange is in the blue bottle.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Ethan really think the orange is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green box",
+                    "blue suitcase",
+                    "blue bottle",
+                    "blue treasure chest",
+                    "red container",
+                    "blue bucket",
+                    "blue container",
+                    "blue cupboard"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "E"
+        ],
+        "id": "3465a558bdae3133aaf0c808c34f8fd9"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Emily, Olivia, James, Michael and Sophia cautiously entered the dimly lit cellar. The bright red cherry was initially hidden in the blue container, a stark contrast against its surroundings. Emily stood perfectly still, observing the scene for a full minute before quietly exiting the cellar. Olivia mirrored Emily's actions, remaining motionless for a minute before also leaving. James, with a slight frown, also stayed still for a minute. Olivia wrinkled her nose, clearly disliking the smell of beans emanating from a corner. James then exited the cellar. Michael, with a mischievous glint in his eyes, swiftly moved the cherry from the blue container to the green bucket. He then quickly exited. James seemed particularly fond of the green bucket. Sophia, following their lead, remained still for a minute before leaving. Emily, Olivia, James, Michael and Sophia then gathered in the adjacent waiting room. James loudly announced, with conviction, that the cherry was in the blue container. However, Sophia whispered to James privately that she had seen Michael move the cherry to the green pantry. James, Michael, and Sophia re-entered the cellar. As they stepped inside, they saw the cherry in the green bucket. Michael, ever the trickster, relocated the cherry to the green pantry. He then left the cellar. Sophia, not to be outdone, moved the cherry to the green basket before departing. James, now thoroughly confused, stood still for a minute before finally exiting. James, Michael, and Sophia returned to the waiting room. Later, Michael, Emily, Olivia, and Sophia entered the cellar once more. The cherry was now nestled in the green basket. Michael, maintaining his composure, remained still for a minute before leaving. Emily followed suit, standing motionless for a minute before exiting. Olivia, seizing the opportunity, moved the cherry to the green bucket. Olivia then left. Sophia, in a final act of misdirection, moved the cherry to the blue container. Sophia then left. Michael, Emily, Olivia, and Sophia convened back in the waiting room. Olivia confidently declared that the cherry was in the green basket. However, Michael secretly confided in Sophia that he knew the cherry was actually in the blue container.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does James really think the cherry is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green envelope",
+                    "blue treasure chest",
+                    "green basket",
+                    "green crate",
+                    "red basket",
+                    "red crate",
+                    "blue bathtub",
+                    "red pantry"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "c44b04d837cf0290bfc14ba1c697f104"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "John, Emily, David, Michael and Sophia entered the kitchen. The watermelon is initially in the blue bottle, sitting on the counter. John stood perfectly still, making no movements, and stayed in the kitchen for a full minute. John then exited the kitchen. Emily, with a sly grin, moved the watermelon from the blue bottle to the red envelope, carefully concealing it. Emily then exited the kitchen. David, looking around furtively, moved the watermelon to the blue cupboard, placing it behind some dishes. David exited the kitchen. Michael, like John, made no movements and stayed in the kitchen for a minute, observing the scene. Michael then exited the kitchen. Sophia also made no movements, spending a minute in the kitchen before leaving. David dislikes the cherry, wrinkling his nose whenever he sees one. Sophia exited the kitchen. John, Emily, David, Michael and Sophia then all entered the waiting room. David publicly claimed, in a loud voice, that the watermelon is in the red envelope. Sophia privately told David that the watermelon is actually in the blue container. Jacob, Carter and Elizabeth entered the kitchen. The watermelon is in the blue cupboard. Jacob moved the watermelon to the red envelope. Jacob exited the kitchen. Carter moved the watermelon to the green bucket. Carter exited the kitchen. Elizabeth moved the watermelon to the blue container. Elizabeth exited the kitchen. Jacob, Carter and Elizabeth entered the waiting room. Jacob, Isla, Elizabeth and Carter entered the porch. The banana is in the red drawer. Jacob moved the banana to the blue treasure chest. Isla likes the blue bottle. Jacob exited the porch. Isla moved the banana to the green treasure chest. Isla exited the porch. Elizabeth moved the banana to the green bathtub. Elizabeth exited the porch. Carter moved the banana to the blue bucket. Carter exited the porch. Jacob, Isla, Elizabeth and Carter entered the waiting room. Isla privately told Elizabeth that the banana is in the red drawer. Carter privately told Nathan that the banana is in the blue bucket.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the watermelon really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue treasure chest",
+                    "green bathtub",
+                    "red drawer",
+                    "blue bottle",
+                    "blue container",
+                    "green bucket",
+                    "green treasure chest",
+                    "blue bucket"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "E"
+        ],
+        "id": "0bfa59bae130ce8630a946c0abc3caf8"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "John, David, Michael, Olivia and Sophia entered the dimly lit hallway. A small bag of peas was carefully placed inside a blue suitcase. John remained motionless, standing in the hallway for a full minute, observing everything. Then, John quietly exited the hallway. David also stood still in the hallway for a minute, his gaze sweeping across the room. Michael had a fondness for the blue crate. David then left the hallway. Michael, with a mischievous grin, moved the peas from the blue suitcase to a red crate. Michael then slipped out of the hallway. Olivia, acting swiftly, relocated the peas to a green bottle hidden behind some cleaning supplies. Olivia then departed the hallway. Sophia entered the hallway and stood silently, observing for a minute. David disliked the turnip. Sophia then exited the hallway. John, David, Michael, Olivia and Sophia then gathered in the waiting room. Emily declared loudly that the peas were in the blue suitcase. Sophia whispered to John that the peas were actually in the green bottle. Sophia, Olivia and John proceeded to the dusty attic. A single potato was nestled in a green drawer. Sophia carefully moved the potato to a red basket. Sophia left the attic. David disliked the cucumber. Olivia then moved the potato to a green bathtub. Olivia exited the attic. John quickly moved the potato to the blue crate. John exited the attic. Sophia, Olivia and John returned to the waiting room. Michael, Sophia, Olivia and John entered the patio. A bright red cherry was sitting in a blue bottle. Michael stood still in the patio for a minute. Michael exited the patio. Sophia moved the cherry to the green envelope. Sophia exited the patio. Olivia stayed in the patio for a minute. Olivia exited the patio. John moved the cherry to the blue cupboard. John exited the patio. Olivia disliked the peas. Michael, Sophia, Olivia and John entered the waiting room. Sophia whispered to Olivia that the cherry was in the blue cupboard. John told David that the cherry was in the blue cupboard.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Michael really think the peas is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green drawer",
+                    "blue drawer",
+                    "blue suitcase",
+                    "red crate",
+                    "green bathtub",
+                    "red basket",
+                    "blue bottle",
+                    "green pantry"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "84e119c57eb4768ee61e800b33378bd1"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "John, David, Michael, Olivia and Sophia cautiously entered the dimly lit hallway. Inside a vibrant blue suitcase, nestled amongst some clothes, were the peas. John stood perfectly still, making no movements, remaining in the hallway for a full minute, observing everything. Then, John exited the hallway. David, also motionless, stayed in the hallway for a minute, his eyes scanning the surroundings. Michael had a fondness for the blue crate. David then exited the hallway. Michael, with a mischievous grin, moved the peas from the blue suitcase to a red crate. Michael then left the hallway. Olivia, appearing thoughtful, relocated the peas to a green bottle sitting on a nearby shelf. Olivia then exited the hallway. Sophia, like the others before her, remained still and silent in the hallway for one minute, observing. David had a strong dislike for the turnip. Sophia then exited the hallway. John, David, Michael, Olivia and Sophia then entered the waiting room. Emily loudly proclaimed, for all to hear, that the peas were in the blue suitcase. Sophia, however, whispered to John in private that the peas were actually hidden in the green bottle. Sophia, Olivia, and John entered the dusty attic. A lone potato sat in a green drawer. Sophia moved the potato to a red basket tucked away in a corner. Sophia then exited the attic. David expressed his dislike for the cucumber. Olivia moved the potato to a green bathtub in the corner. Olivia then exited the attic. John moved the potato to the blue crate. John then exited the attic. Sophia, Olivia, and John entered the waiting room. Michael, Sophia, Olivia, and John entered the patio. A bright red cherry was visible in the blue bottle. Michael stood still in the patio for a minute. Michael exited the patio. Sophia moved the cherry to the green envelope. Sophia exited the patio. Olivia stood still in the patio for a minute. Olivia exited the patio. John moved the cherry to the blue cupboard. John exited the patio. Olivia dislikes the peas. Michael, Sophia, Olivia, and John entered the waiting room. Sophia privately told Olivia that the cherry is in the blue cupboard. John privately told David that the cherry is in the blue cupboard.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where are the peas really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green drawer",
+                    "green bathtub",
+                    "green bottle",
+                    "blue bottle",
+                    "blue crate",
+                    "red basket",
+                    "blue drawer",
+                    "green pantry"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "1172f132eef459cc89aa707854a5d099"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Sarah spotted a little mouse scurrying across the floor. David, John, Sarah, Michael and Emily entered the laundry room, a small, brightly lit space filled with the scent of detergent. The spinach, fresh and green, was initially in the red container. David, with a mischievous grin, moved the spinach from the red container to the green crate. David then quickly exited the laundry room. John, following suit, moved the spinach from the green crate to the blue drawer. John then left the laundry room. Sarah, wanting to mislead, moved the spinach from the blue drawer to the red drawer. Sarah then exited the laundry room. Michael, pretending not to care, made no movements and stayed in the laundry room for a full minute, seemingly lost in thought. Michael then exited the laundry room. Emily also made no movements and stayed in the laundry room for a minute, humming a little tune, before finally leaving. David, John, Sarah, Michael and Emily then gathered in the waiting room. Sarah quietly whispered to David that the spinach was in the red crate. John secretly told Michael that the spinach was in the red drawer. David, Michael and Sarah re-entered the laundry room. The spinach was indeed in the red drawer. David, acting quickly, moved the spinach from the red drawer to the green crate. David then exited the laundry room. Michael, pretending to be uninterested, made no movements and stayed in the laundry room for a minute. Michael then left the laundry room. Emily wrinkled her nose, clearly disliking the sight of the tomato. Sarah, playing along, made no movements and stayed in the laundry room for a minute. Sarah then exited the laundry room. Emily seemed to have a fondness for the red crate. David, Michael and Sarah re-entered the waiting room. Michael expressed his liking for the red pantry. Emily, Michael, Sarah and John then entered the patio, a sunny outdoor area. The tomato, ripe and red, was in the green drawer. Emily, with a determined look, moved the tomato from the green drawer to the green bottle. Emily then exited the patio. Michael, seemingly oblivious, made no movements and stayed in the patio for a minute. Michael then left the patio. Sarah moved the tomato from the green bottle to the green bucket. Sarah then exited the patio. John, acting nonchalant, made no movements and stayed in the patio for a minute. John then exited the patio. Emily, Michael, Sarah and John re-entered the waiting room. Emily loudly proclaimed that the tomato was in the green box. John secretly confided in David that the tomato was in the green bucket.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Michael really think the spinach is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green crate",
+                    "green box",
+                    "green bathtub",
+                    "green bottle",
+                    "green drawer",
+                    "blue suitcase",
+                    "blue crate",
+                    "green bucket"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "d86dc9a7eac52712ae06838df8183c08"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Sophia, Noah, Avery, Hannah, and Jackson strolled into the sun-drenched front yard. A single, lonely sweet potato rested inside a bright red box. Sophia, with a mischievous glint in her eye, carefully moved the sweet potato from the red box to a gleaming green bottle. Sophia then quietly exited the front yard. Noah, seemingly uninterested, remained motionless in the front yard for a full minute, lost in his own thoughts. He harbored a distinct dislike for melons. Noah then ambled out of the front yard. Avery, who had a fondness for the green pantry inside the house, also stood still in the front yard for a minute, observing the surroundings. Avery then departed the front yard. Hannah, determined to undo Sophia's actions, relocated the sweet potato to the green box. Hannah then left the front yard. Jackson, following suit, moved the sweet potato back to its original location, the red box. Jackson then exited the front yard. Sophia, Noah, Avery, Hannah, and Jackson all gathered in the waiting room. Hannah loudly proclaimed that the sweet potato was in the green bottle, attempting to mislead everyone. Jackson, however, secretly whispered to Sophia that the sweet potato was actually in the red box. Hannah, Jackson, and Sophia re-entered the front yard. An orange, round and juicy, was nestled in a green envelope. Hannah stood still for a minute, observing, before exiting the front yard. Jackson, with purpose, moved the orange to the red box. Jackson then left the front yard. Sophia, taking her turn, moved the orange to the blue bucket. Sophia then exited the front yard. Hannah, Jackson, and Sophia returned to the waiting room. Noah, Jackson, Avery, and Hannah then entered the dimly lit basement. A ripe peach lay in the green bucket. Noah moved the peach to the red envelope. Noah exited the basement. Jackson moved the peach to the red container. Jackson exited the basement. Avery stood still for a minute, observing, before exiting the basement. Hannah moved the peach to the red basket. Hannah exited the basement. Hannah likes the blue bottle. Noah, Jackson, Avery, and Hannah entered the waiting room. Jackson publicly claimed that the peach is in the red container. Hannah privately told Avery that the peach is in the red basket.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the sweet potato really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "green pantry",
+                    "red pantry",
+                    "blue container",
+                    "blue drawer",
+                    "green drawer",
+                    "green bucket",
+                    "blue bottle",
+                    "red box"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "H"
+        ],
+        "id": "eb3dc0045c02bbe32466080f5a62a8c4"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Owen had a strong dislike for pears. One sunny afternoon, Ella, Owen, Isla, Aiden, and Evelyn all wandered into the back yard. A juicy melon was carefully placed inside a blue treasure chest. Ella, always fond of her blue suitcase, decided to act. She moved the melon from the chest and placed it inside a blue bottle. Then, Ella left the back yard. Shortly after, Owen, with a mischievous glint in his eye, moved the melon to a green envelope before also leaving the back yard. Isla, seemingly uninterested, simply stayed in the back yard for a minute, observing everything, and then she, too, exited. Aiden, not to be left out, moved the melon to the blue suitcase. He then left. Evelyn mirrored Isla's actions, staying in the back yard for a minute before departing. Ella, Owen, Isla, Aiden, and Evelyn then gathered in the waiting room. Isla whispered to Ella, falsely claiming that the melon was now hidden in the green treasure chest. Meanwhile, Owen quietly told Aiden that he had put the melon in the blue suitcase. Owen, Aiden, and Ella re-entered the back yard. This time, a bright yellow lemon was sitting in the green treasure chest. Owen, determined to cause confusion, moved the lemon to the blue treasure chest and left. Owen still disliked the pear. Aiden, following suit, moved the lemon to the blue suitcase before exiting. Ella, again, stayed in the back yard for a minute, seemingly contemplating the situation, and then left. Owen, Aiden, and Ella went back to the waiting room. Ella, Isla, Owen, and Aiden then moved to the front yard. A ripe banana was sitting in the green pantry. Ella quickly moved the banana to the green basket before leaving the front yard. Isla then moved the banana to the blue bathtub and exited. Owen remained in the front yard for a minute, a contemplative look on his face, before leaving. Aiden then moved the banana to the green cupboard and left. Aiden then realized he lost his watch. Ella, Isla, Owen, and Aiden returned to the waiting room. Ella loudly announced that the banana was in the green basket. Aiden, however, privately told Evelyn that the banana was actually in the green cupboard.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does Aiden really think the melon is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "blue treasure chest",
+                    "blue drawer",
+                    "blue suitcase",
+                    "green box",
+                    "blue bucket",
+                    "green envelope",
+                    "green treasure chest",
+                    "blue bottle"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "id": "853269b0200404165de7a450784faa69"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 1-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Sophia, Liam, William, Hannah, and Benjamin cautiously entered the old, dusty porch. A large, misshapen turnip was nestled inside a weathered green crate. Sophia, with remarkable stillness, remained in the porch for a full minute, barely breathing. Then, she quietly exited. Liam, with a furtive glance around, swiftly moved the turnip from the green crate to a cool, dark blue pantry. He then exited the porch. William, humming to himself, relocated the turnip to a bright red bottle sitting on a shelf. He quickly exited the porch. Hannah, equally still, remained in the porch for a minute, observing everything. Hannah exited the porch. William spotted a small, scurrying monkey outside. Benjamin, mimicking Sophia's stillness, stayed in the porch for a minute. Benjamin exited the porch. Sophia, Liam, William, Hannah, and Benjamin then entered the brightly lit waiting room. Sophia noticed a timid mouse darting across the floor. William, leaning close to Sophia, whispered conspiratorially that the turnip was actually in the red bottle. Liam, in turn, confided to Hannah that the turnip was hidden in the green crate. Sophia, Benjamin, and Hannah re-entered the porch. The turnip was indeed in the red bottle. Sophia carefully moved the turnip to a woven green basket. Sophia exited the porch. Benjamin, with determined steps, moved the turnip to the green crate. Benjamin exited the porch. Hannah remained still, observing for a minute inside the porch. Hannah exited the porch. Sophia, Benjamin, and Hannah entered the waiting room. William, Sophia, Liam, and Hannah entered the dimly lit attic. A ripe tomato sat in a green bottle. William moved the tomato to the red basket. William exited the attic. Sophia stayed in the attic for a minute, completely still. Sophia exited the attic. Liam remained still in the attic for a minute. Liam exited the attic. Hannah moved the tomato to the green envelope. William saw a mouse. Hannah exited the attic. William, Sophia, Liam, and Hannah entered the waiting room. Sophia saw a dog. Liam publicly claimed that tomato is in the green bucket. William privately told Hannah that the tomato is in the red basket.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where does William really think the turnip is?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red bottle",
+                    "red container",
+                    "green crate",
+                    "blue crate",
+                    "blue treasure chest",
+                    "green basket",
+                    "blue pantry",
+                    "green treasure chest"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "id": "97ae6a72cab6388ea542854f25030bba"
+    },
+    {
+        "ability": "Belief: Deceptive Hiding - 0-order",
+        "task": "Deceptive Hiding",
+        "story": {
+            "en": "Olivia, Noah, Ethan, Chloe and James stepped onto the old, creaky porch. A large, ripe turnip sat nestled inside a green crate. Olivia, with deliberate stillness, remained on the porch for a full minute, observing her surroundings. Then, she exited the porch. Noah, with a swift movement, relocated the turnip to the blue pantry, carefully concealing it amongst the jars and cans. Noah then exited the porch. Ethan, equally quick, moved the turnip again, this time placing it inside a red bottle. He paused, ensuring it was well-hidden, before exiting the porch. Chloe, mirroring Olivia's actions, stood motionless on the porch for a minute, absorbing the details of the scene. Chloe then exited the porch. Ethan spotted a mischievous monkey scampering nearby. James, like Olivia and Chloe, remained still on the porch for one minute. James then exited the porch. Olivia, Noah, Ethan, Chloe and James then entered the brightly lit waiting room. Olivia noticed a tiny mouse darting across the floor. Ethan whispered to Olivia, confiding that the turnip was actually hidden in the red bottle. Noah, in turn, secretly told Chloe that the turnip was in the green crate. Olivia, James and Chloe re-entered the porch. The turnip was still in the red bottle. Olivia carefully transferred the turnip to the green basket. Olivia then exited the porch. James then moved the turnip to the green crate. James exited the porch. Chloe remained still on the porch for 1 minute. Chloe then exited the porch. Olivia, James and Chloe entered the waiting room. Ethan, Olivia, Noah and Chloe entered the dusty attic. A plump tomato rested inside a green bottle. Ethan moved the tomato to the red basket. Ethan exited the attic. Olivia remained still in the attic for 1 minute. Olivia exited the attic. Noah remained still in the attic for 1 minute. Noah exited the attic. Chloe moved the tomato to the green envelope. Ethan saw a mouse. Chloe exited the attic. Ethan, Olivia, Noah and Chloe entered the waiting room. Olivia saw a dog. Noah publicly claimed that tomato is in the green bucket. Ethan privately told Chloe that the tomato is in the red basket.",
+            "fa": ""
+        },
+        "question": [
+            {
+                "en": "Where is the turnip really?",
+                "fa": ""
+            }
+        ],
+        "options": [
+            {
+                "en": [
+                    "red container",
+                    "green basket",
+                    "red bottle",
+                    "blue pantry",
+                    "green crate",
+                    "green treasure chest",
+                    "blue treasure chest",
+                    "blue crate"
+                ],
+                "fa": []
+            }
+        ],
+        "answer": [
+            "E"
+        ],
+        "id": "27f0eca2bbc154c4632ad82b3fadde05"
+    }
+]
