@@ -97,6 +97,26 @@ level_role_prompts = {
     "level-3": level_role_prompts("level-3"),
 }
 
+
+def roleplay_only_role_prompt(level):
+    """Describe the persona without explicit speech or reasoning constraints."""
+    assert level in role_features.keys()
+    level_features = role_features[level]
+    return (
+        f'Role: {level_features["role"]}'
+        f'\n\nAGE = {level_features["age"]}  |  IQ ≈ {level_features["iq"]}'
+    )
+
+
+instruction_roleplay_only = (
+    "You will be given a story followed by multiple-choice options.\n"
+    "Respond in character as the role stated in the system message.\n\n"
+    "Answer format:\n"
+    "    Thinking: <brief in-character reasoning>\n"
+    "    Answer: [[<index>]]   # 0 = cannot decide\n\n"
+    "Choose one of the provided options from the perspective of your role."
+)
+
 instruction_level_1_3 = (
     "You will be given a story followed by multiple-choice options.\n"
     "Respond **in character**, using the cognitive rules in your role.\n\n"
@@ -239,11 +259,16 @@ severity_constraints = {
        "- Repeat words from the question if needed. Confusion is normal."
 }
 
-def generate_prompt(level, story, question, options):
+def generate_prompt(level, story, question, options, roleplay_only=False):
     assert level in level_role_prompts.keys()
-    role_prompt = level_role_prompts[level]
+    role_prompt = (
+        roleplay_only_role_prompt(level) if roleplay_only else level_role_prompts[level]
+    )
     system_prompt = f"You must consistently respond from this perspective:\n\n{role_prompt}"
-    instruction = instruction_level_0 if level == "level-0" else instruction_level_1_3
+    if roleplay_only:
+        instruction = instruction_roleplay_only
+    else:
+        instruction = instruction_level_0 if level == "level-0" else instruction_level_1_3
 
     user_prompt = (
         f"**Story:**\n{story}\n\n"
@@ -260,8 +285,14 @@ def generate_prompt(level, story, question, options):
         "input": user_prompt,
     }
 
-def format_prompt(level, story, question, options, lang="en"):
-    prompt_dict = generate_prompt(level, story, question[lang], options[lang])
+def format_prompt(level, story, question, options, lang="en", roleplay_only=False):
+    prompt_dict = generate_prompt(
+        level,
+        story,
+        question[lang],
+        options[lang],
+        roleplay_only=roleplay_only,
+    )
     system_prompt = prompt_dict["system"]
     user_prompt = prompt_dict["instruction"] + "\n\n" + prompt_dict["input"]
 
