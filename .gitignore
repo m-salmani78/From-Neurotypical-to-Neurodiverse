@@ -1,0 +1,16 @@
+# Generated experiment artifacts
+results/
+# The manuscript source is currently external to the repository
+paper/*
+slurm-*.out
+*.log
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local credentials
+configs.json
+.env
