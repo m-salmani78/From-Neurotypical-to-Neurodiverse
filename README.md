@@ -6,6 +6,132 @@
 Theory of Mind (ToM)—the ability to attribute mental states such as beliefs, desires, and intentions to oneself and others—is a cornerstone of social cognition, often impaired in autism spectrum disorder (ASD) across its severity levels (DSM-5 Levels 1–3). While Large Language Models (LLMs) exhibit competence in ToM-like reasoning, their capacity to simulate distinct ASD cognitive profiles, particularly the explicit-implicit ToM gap, remains underexplored. This study evaluates LLMs using a refined ToM framework comprising 11 tasks (e.g., False Belief, Faux Pas, Strange Stories), selected to probe belief attribution, intention inference, and social reasoning across ASD severities. A balanced dataset of almost 500 data points (40–50 per task) ensures robustness. By prompting models to adopt ASD-like (Levels 1–3) and neurotypical perspectives, we assess their ability to emulate differential ToM patterns, such as Level 1’s success in explicit tasks but struggles with implicit social cues. This work lays a foundation for AI-assisted mental health applications, including clinician training and adaptive social-skills programs.
 ```
 
+## Qwen3.6-27B baseline on SLURM
+
+The Qwen baseline evaluates the 460 dataset records under the Neurotypical and
+ASD Level 1--3 persona prompts. The A100 allocation, vLLM server, experiment,
+and server cleanup are contained in one SLURM job.
+
+Install the pinned CUDA 12.x-compatible vLLM environment once:
+
+```bash
+bash scripts/setup_qwen36_env.sh
+```
+
+Submit the complete 1,840-request baseline:
+
+```bash
+sbatch ./scripts/request_and_run.sh
+```
+
+To run the same experiment with Qwen's native thinking mode enabled:
+
+```bash
+ENABLE_THINKING=1 sbatch ./scripts/request_and_run.sh
+```
+
+Thinking runs default to 4,096 generated tokens so the model has room to reach
+the final `Answer:` field and a 16,384-token model context. They are saved separately under
+`results/baseline/Qwen3.6-27B-thinking/<run-id>/`.
+
+Qwen thinking runs automatically use the checkpoint's recommended general-task
+sampler: temperature `1.0`, top-p `0.95`, top-k `20`, min-p `0.0`, presence
+penalty `0.0`, and repetition penalty `1.0`. Non-thinking runs retain the
+paper-aligned baseline defaults (`0.2`, `0.5`). Explicit environment overrides
+still take precedence.
+
+To test persona role-play without supplying the explicit `speech`,
+`cognitive_style`, or `response_rules` profile fields, use:
+
+```bash
+ROLEPLAY_ONLY=1 sbatch ./scripts/request_and_run.sh
+```
+
+This ablation retains only each persona's role, age, and IQ plus a neutral
+answer-format instruction. Its results are isolated under
+`results/baseline/Qwen3.6-27B-roleplay-only/<run-id>/`. It can be combined with
+native thinking using `ROLEPLAY_ONLY=1 ENABLE_THINKING=1`; combined results use
+the `Qwen3.6-27B-roleplay-only-thinking` directory.
+
+For an A100 smoke test, run two records from each of the 11 datasets under all
+four personas:
+
+```bash
+LIMIT=2 RUN_ID=smoke-qwen36 sbatch ./scripts/request_and_run.sh
+```
+
+The corresponding thinking smoke test is:
+
+```bash
+ENABLE_THINKING=1 LIMIT=2 RUN_ID=smoke-qwen36-thinking sbatch ./scripts/request_and_run.sh
+```
+
+Results are written to
+`results/baseline/Qwen3.6-27B/<run-id>/`. The SLURM script accepts environment
+overrides for `MODEL`, `SERVED_MODEL_NAME`, `SERVER_HOST`, `SERVER_PORT`, `MAX_MODEL_LEN`,
+`GPU_MEMORY_UTILIZATION`, `TEMPERATURE`, `TOP_P`, `TOP_K`, `MIN_P`,
+`PRESENCE_PENALTY`, `REPETITION_PENALTY`, `SEED`, `MAX_TOKENS`,
+`ENABLE_THINKING`, `ROLEPLAY_ONLY`,
+`CONCURRENCY`, `LIMIT`, `RUN_ID`, and `OUTPUT_DIR`. Reusing a `RUN_ID` resumes
+completed item/persona keys without duplicating them.
+
+## Gemma 4 26B-A4B baseline on SLURM
+
+The same evaluator and decoding defaults can be run with
+`google/gemma-4-26B-A4B-it`. The Gemma launcher uses one A100 80 GB in BF16,
+disables unused image/audio inputs, and enables vLLM's `gemma4` reasoning
+parser so native thinking is retained in each record's `raw_reasoning` field.
+
+Run a small validation job first:
+
+```bash
+LIMIT=2 RUN_ID=smoke-gemma4 sbatch ./scripts/request_and_run_gemma4.sh
+```
+
+Then submit the full 1,840-request experiment:
+
+```bash
+sbatch ./scripts/request_and_run_gemma4.sh
+```
+
+The prompt and thinking ablations are available independently or together:
+
+```bash
+ROLEPLAY_ONLY=1 sbatch ./scripts/request_and_run_gemma4.sh
+ENABLE_THINKING=1 sbatch ./scripts/request_and_run_gemma4.sh
+ROLEPLAY_ONLY=1 ENABLE_THINKING=1 sbatch ./scripts/request_and_run_gemma4.sh
+```
+
+Their outputs are isolated beneath `results/baseline/` as
+`Gemma-4-26B-A4B-it`, `Gemma-4-26B-A4B-it-roleplay-only`,
+`Gemma-4-26B-A4B-it-thinking`, and
+`Gemma-4-26B-A4B-it-roleplay-only-thinking`, respectively. Gemma thinking runs
+automatically use its recommended temperature `1.0`, top-p `0.95`, and top-k
+`64`; non-thinking runs retain the paper-aligned `0.2` and `0.5` defaults.
+
+## Paper prompt-specificity ablation
+
+The paper analysis uses an explicit eight-run inclusion manifest and excludes
+the earlier failed or shared-port jobs. Submit the four required clean
+replacements from the login node with:
+
+```bash
+bash scripts/submit_paper_ablation_reruns.sh
+```
+
+Each submission derives an isolated port from its SLURM job ID. After all four
+jobs finish successfully, validate the eight selected runs and regenerate the
+CSV outputs, 10,000-resample bootstrap intervals, appendix table, and vector
+figure with:
+
+```bash
+bash scripts/build_prompt_ablation.sh
+```
+
+The inclusion list is `analysis/prompt_ablation_runs.json`. The build aborts
+without writing paper artifacts if a run is missing, incomplete, duplicated,
+model-mismatched, or contains a transport/server failure.
+
 ## 📌 Research Goal
 
 This project aims to evaluate whether **AI language models (LLMs)** can emulate how individuals with **Autism Spectrum Disorder (ASD)** understand the **thoughts, beliefs, and intentions** of others — i.e., their **Theory of Mind (ToM)** capability.
