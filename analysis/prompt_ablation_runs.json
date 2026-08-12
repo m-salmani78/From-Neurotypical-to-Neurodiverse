@@ -1,0 +1,88 @@
+{
+  "analysis_id": "prompt-specificity-native-thinking-v1",
+  "expected_records_per_run": 1840,
+  "expected_personas": ["level-0", "level-1", "level-2", "level-3"],
+  "expected_task_count": 11,
+  "expected_tasks": [
+    "Deceptive Hiding",
+    "Desire",
+    "Explanation of Action",
+    "Faux-pas",
+    "Lie&Joke",
+    "Location Change FB",
+    "Perception-Knowledge",
+    "Pretend",
+    "Second-Order FB",
+    "Strange Stories",
+    "Unexpected Contents FB"
+  ],
+  "runs": [
+    {
+      "id": "qwen_direct_full",
+      "path": "results/baseline/Qwen3.6-27B/slurm-5160",
+      "display_model": "Qwen3.6-27B",
+      "model": "Qwen/Qwen3.6-27B",
+      "prompt_mode": "full_profile",
+      "thinking": false
+    },
+    {
+      "id": "qwen_direct_role",
+      "path": "results/baseline/Qwen3.6-27B-roleplay-only/qwen-roleplay-paper-clean",
+      "display_model": "Qwen3.6-27B",
+      "model": "Qwen/Qwen3.6-27B",
+      "prompt_mode": "roleplay_only",
+      "thinking": false
+    },
+    {
+      "id": "qwen_thinking_full",
+      "path": "results/baseline/Qwen3.6-27B-thinking/qwen-thinking-official-fixed",
+      "display_model": "Qwen3.6-27B",
+      "model": "Qwen/Qwen3.6-27B",
+      "prompt_mode": "full_profile",
+      "thinking": true
+    },
+    {
+      "id": "qwen_thinking_role",
+      "path": "results/baseline/Qwen3.6-27B-roleplay-only-thinking/qwen-roleplay-thinking-paper-clean",
+      "display_model": "Qwen3.6-27B",
+      "model": "Qwen/Qwen3.6-27B",
+      "prompt_mode": "roleplay_only",
+      "thinking": true,
+      "max_model_len": 16384
+    },
+    {
+      "id": "gemma_direct_full",
+      "path": "results/baseline/Gemma-4-26B-A4B-it/gemma4",
+      "display_model": "Gemma-4-26B-A4B-it",
+      "model": "google/gemma-4-26B-A4B-it",
+      "prompt_mode": "full_profile",
+      "thinking": false
+    },
+    {
+      "id": "gemma_direct_role",
+      "path": "results/baseline/Gemma-4-26B-A4B-it-roleplay-only/gemma4-roleplay",
+      "display_model": "Gemma-4-26B-A4B-it",
+      "model": "google/gemma-4-26B-A4B-it",
+      "prompt_mode": "roleplay_only",
+      "thinking": false
+    },
+    {
+      "id": "gemma_thinking_full",
+      "path": "results/baseline/Gemma-4-26B-A4B-it-thinking/gemma4-thinking-paper-clean",
+      "display_model": "Gemma-4-26B-A4B-it",
+      "model": "google/gemma-4-26B-A4B-it",
+      "prompt_mode": "full_profile",
+      "thinking": true,
+      "max_model_len": 16384
+    },
+    {
+      "id": "gemma_thinking_role",
+      "path": "results/baseline/Gemma-4-26B-A4B-it-roleplay-only-thinking/gemma4-roleplay-thinking-paper-clean",
+      "display_model": "Gemma-4-26B-A4B-it",
+      "model": "google/gemma-4-26B-A4B-it",
+      "prompt_mode": "roleplay_only",
+      "thinking": true,
+      "max_model_len": 16384
+    }
+  ]
+}
