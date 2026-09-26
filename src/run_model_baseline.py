@@ -168,6 +168,51 @@ def append_jsonl(path: Path, record: dict[str, Any]) -> None:
         handle.flush()
 
 
+def atomic_jsonl(path: Path, records: Iterable[dict[str, Any]]) -> None:
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    with temporary.open("w", encoding="utf-8") as handle:
+        for record in records:
+            handle.write(json.dumps(record, ensure_ascii=False) + "\n")
+    temporary.replace(path)
+
+
+def remove_transport_failures_for_resume(
+    responses_path: Path, errors_path: Path
+) -> int:
+    """Remove only transient request failures so --resume retries their keys.
+
+    Parse/format failures are valid model outputs under the paper protocol and
+    therefore remain in the response file as incorrect answers.
+    """
+    records = load_response_records(responses_path)
+    transient_keys = {
+        record.get("key")
+        for record in records
+        if str(record.get("error") or "").startswith("request failed:")
+    }
+    transient_keys.discard(None)
+    if not transient_keys:
+        return 0
+    audit_path = responses_path.parent / "retry_audit.jsonl"
+    for record in records:
+        if record.get("key") in transient_keys:
+            append_jsonl(
+                audit_path,
+                {**record, "removed_for_transport_retry_at": utc_now()},
+            )
+    atomic_jsonl(
+        responses_path,
+        (record for record in records if record.get("key") not in transient_keys),
+    )
+    if errors_path.exists():
+        error_records = load_response_records(errors_path)
+        atomic_jsonl(
+            errors_path,
+            (record for record in error_records if record.get("key") not in transient_keys),
+        )
+    return len(transient_keys)
+
+
 def atomic_json(path: Path, payload: Any) -> None:
     temporary = path.with_suffix(path.suffix + ".tmp")
     with temporary.open("w", encoding="utf-8") as handle:
@@ -204,6 +249,10 @@ def build_manifest(args: argparse.Namespace, item_count: int) -> dict[str, Any]:
         "status": "running",
         "started_at": utc_now(),
         "model": args.model,
+        "model_revision": os.environ.get("MODEL_REVISION") or None,
+        "tokenizer_revision": os.environ.get("TOKENIZER_REVISION") or None,
+        "tokenizer_preflight": os.environ.get("TOKENIZER_PREFLIGHT") or None,
+        "alignment_method": os.environ.get("ALIGNMENT_METHOD") or None,
         "base_url": args.base_url,
         "max_model_len": int(os.environ["MAX_MODEL_LEN"]) if os.environ.get("MAX_MODEL_LEN") else None,
         "vllm_reasoning_parser": os.environ.get("VLLM_REASONING_PARSER") or None,
@@ -554,6 +603,10 @@ async def run(args: argparse.Namespace, client: Any | None = None) -> dict[str, 
         raise FileExistsError(
             f"{responses_path} already contains results; use --resume or a new --output-dir"
         )
+    if args.resume:
+        removed = remove_transport_failures_for_resume(responses_path, errors_path)
+        if removed:
+            print(f"Removed {removed} transient failure record(s) for retry.")
     completed = read_completed_keys(responses_path) if args.resume else set()
     work = [
         (item, persona)
