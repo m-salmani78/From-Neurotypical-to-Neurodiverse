@@ -225,8 +225,13 @@ def paired_task_bootstrap(pairs: list[tuple[str, float]], iterations: int, seed:
 def write_csv(path: Path, rows: list[dict[str, Any]]) -> None:
     if not rows:
         raise ValueError(f"refusing to write empty CSV: {path}")
+    # Contrast exports mix accuracy rows with metric-specific style rows.  Keep
+    # the first-seen column order while retaining fields introduced later.
+    fieldnames = list(rows[0])
+    for row in rows[1:]:
+        fieldnames.extend(name for name in row if name not in fieldnames)
     with path.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=list(rows[0]))
+        writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
@@ -317,6 +322,70 @@ def make_figure(rows: list[dict[str, Any]], ci_rows: list[dict[str, Any]], path:
         plt.close(fig)
 
 
+def make_gap_figure(rows: list[dict[str, Any]], prompt_mode: str, path: Path) -> None:
+    """Render paired NT-minus-L3 gaps for direct and native inference.
+
+    Each figure fixes prompt specificity (full profile or role only).  The four
+    x-axis conditions therefore compare model family and inference configuration
+    without conflating either with prompt mode.
+    """
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+
+    metric_panels = (
+        ("accuracy", "NT–L3 Accuracy Gap", "Percentage points", 100.0),
+        ("length_chars", "Thinking Length Gap", "Characters", 1.0),
+        ("mlu", "Thinking MLU Gap", "MLU", 1.0),
+        ("zlib_bytes", "Thinking Complexity Gap", "zlib bytes", 1.0),
+    )
+    conditions = (
+        ("Qwen3.6-27B", False, "Qwen\nDirect", "#4D4D4D"),
+        ("Qwen3.6-27B", True, "Qwen\nNative", "#0072B2"),
+        ("Gemma-4-26B-A4B-it", False, "Gemma\nDirect", "#999999"),
+        ("Gemma-4-26B-A4B-it", True, "Gemma\nNative", "#E69F00"),
+    )
+    lookup = {
+        (row["display_model"], bool(row["thinking"]), row.get("metric", "accuracy")): row
+        for row in rows
+        if row["prompt_mode"] == prompt_mode
+        and row["contrast"] in {"NT_minus_L3", "NT_minus_L3_style"}
+    }
+    expected = {(model, thinking, metric) for model, thinking, _, _ in conditions for metric, _, _, _ in metric_panels}
+    if set(lookup) != expected:
+        missing = expected - set(lookup)
+        extra = set(lookup) - expected
+        raise InclusionError(f"gap figure inputs are incomplete; missing={missing}, extra={extra}")
+
+    with plt.rc_context(PLOT_STYLE):
+        fig, axes = plt.subplots(2, 2, figsize=(5.5, 4.4), constrained_layout=True)
+        fig.get_layout_engine().set(w_pad=0.08, h_pad=0.10, wspace=0.10, hspace=0.16)
+        positions = list(range(len(conditions)))
+        for axis, (metric, title, ylabel, scale) in zip(axes.flat, metric_panels):
+            selected = [lookup[(model, thinking, metric)] for model, thinking, _, _ in conditions]
+            estimates = [scale * float(row["estimate"]) for row in selected]
+            lows = [scale * float(row["ci_low"]) for row in selected]
+            highs = [scale * float(row["ci_high"]) for row in selected]
+            axis.bar(positions, estimates, color=[color for _, _, _, color in conditions], width=0.62, alpha=0.85, zorder=2)
+            axis.errorbar(
+                positions, estimates,
+                yerr=[[estimate - low for estimate, low in zip(estimates, lows)],
+                      [high - estimate for estimate, high in zip(estimates, highs)]],
+                fmt="none", ecolor="#1a1a1a", elinewidth=0.9, capsize=2.6, capthick=0.9, zorder=3,
+            )
+            axis.axhline(0, color="#666666", lw=0.7, zorder=1)
+            axis.set_title(title, fontsize=8.5, pad=3)
+            axis.set_ylabel(ylabel, fontsize=7.8, labelpad=2)
+            axis.set_xticks(positions, [label for _, _, label, _ in conditions])
+            axis.tick_params(axis="x", labelsize=7.0)
+            axis.grid(True, axis="y")
+
+        fig.suptitle("Full profile" if prompt_mode == "full_profile" else "Role only", fontsize=9.5)
+        fig.savefig(path.with_suffix(".pdf"), bbox_inches="tight")
+        fig.savefig(path.with_suffix(".png"), dpi=300, bbox_inches="tight")
+        plt.close(fig)
+
+
 def main(argv: Iterable[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", type=Path, default=ROOT / "analysis/prompt_ablation_runs.json")
@@ -375,6 +444,14 @@ def main(argv: Iterable[str] | None = None) -> int:
         point = statistics.fmean(value for _, value in pairs)
         low, high = paired_task_bootstrap(pairs, args.bootstrap_resamples, args.seed + 1000 + len(contrasts))
         contrasts.append({"contrast": "NT_minus_L3", "display_model": spec["display_model"], "thinking": spec["thinking"], "prompt_mode": spec["prompt_mode"], "persona": "all", "n": len(pairs), "estimate": point, "ci_low": low, "ci_high": high})
+        for metric in ("length_chars", "mlu", "zlib_bytes"):
+            style_pairs = [
+                (str(nt[key]["task"]), float(nt[key]["_style"][metric]) - float(l3[key]["_style"][metric]))
+                for key in nt
+            ]
+            point = statistics.fmean(value for _, value in style_pairs)
+            low, high = paired_task_bootstrap(style_pairs, args.bootstrap_resamples, args.seed + 1000 + len(contrasts))
+            contrasts.append({"contrast": "NT_minus_L3_style", "metric": metric, "display_model": spec["display_model"], "thinking": spec["thinking"], "prompt_mode": spec["prompt_mode"], "persona": "all", "n": len(style_pairs), "estimate": point, "ci_low": low, "ci_high": high})
     for model in sorted({r["display_model"] for r in aggregate}):
         for thinking in (False, True):
             full_spec = next(s for s, _, _ in all_runs if s["display_model"] == model and s["thinking"] == thinking and s["prompt_mode"] == "full_profile")
@@ -392,10 +469,13 @@ def main(argv: Iterable[str] | None = None) -> int:
     write_csv(args.output_dir / "task_accuracy.csv", task_rows)
     write_csv(args.output_dir / "bootstrap_intervals.csv", ci_rows)
     write_csv(args.output_dir / "paired_contrasts.csv", contrasts)
+    write_csv(args.output_dir / "style_gap_contrasts.csv", [row for row in contrasts if row["contrast"] == "NT_minus_L3_style"])
     render_table(aggregate, ROOT / "paper/Tables/prompt_ablation.tex")
     make_figure(aggregate, ci_rows, ROOT / "paper/Figures/prompt_ablation_accuracy.pdf")
+    make_gap_figure(contrasts, "full_profile", args.output_dir / "prompt_ablation_gaps_full_profile")
+    make_gap_figure(contrasts, "roleplay_only", args.output_dir / "prompt_ablation_gaps_roleplay_only")
     hashes = {spec["id"]: hashlib.sha256((ROOT / spec["path"] / "responses.jsonl").read_bytes()).hexdigest() for spec, _, _ in all_runs}
-    manifest = {"status": "complete", "analysis_id": config["analysis_id"], "created_at": datetime.now(timezone.utc).isoformat(), "inclusion_config": str(args.config.relative_to(ROOT)), "run_response_sha256": hashes, "bootstrap_resamples": args.bootstrap_resamples, "bootstrap_seed": args.seed, "private_reasoning_policy": "Qwen <think> blocks stripped; Gemma raw_reasoning ignored; only visible Thinking field analyzed", "style_metrics": {"length_chars": "Unicode character count", "mlu": "regex word count divided by nonempty sentence units", "zlib_bytes": "RFC 1950 zlib-compressed UTF-8 byte length", "mental_state_per_100": "fixed regex lexicon matches per 100 regex words"}, "outputs": ["aggregate_metrics.csv", "task_accuracy.csv", "bootstrap_intervals.csv", "paired_contrasts.csv", "paper/Tables/prompt_ablation.tex", "paper/Figures/prompt_ablation_accuracy.pdf"]}
+    manifest = {"status": "complete", "analysis_id": config["analysis_id"], "created_at": datetime.now(timezone.utc).isoformat(), "inclusion_config": str(args.config.relative_to(ROOT)), "run_response_sha256": hashes, "bootstrap_resamples": args.bootstrap_resamples, "bootstrap_seed": args.seed, "private_reasoning_policy": "Qwen <think> blocks stripped; Gemma raw_reasoning ignored; only visible Thinking field analyzed", "style_metrics": {"length_chars": "Unicode character count", "mlu": "regex word count divided by nonempty sentence units", "zlib_bytes": "RFC 1950 zlib-compressed UTF-8 byte length", "mental_state_per_100": "fixed regex lexicon matches per 100 regex words"}, "outputs": ["aggregate_metrics.csv", "task_accuracy.csv", "bootstrap_intervals.csv", "paired_contrasts.csv", "style_gap_contrasts.csv", "paper/Tables/prompt_ablation.tex", "paper/Figures/prompt_ablation_accuracy.pdf", "prompt_ablation_gaps_full_profile.pdf", "prompt_ablation_gaps_full_profile.png", "prompt_ablation_gaps_roleplay_only.pdf", "prompt_ablation_gaps_roleplay_only.png"]}
     (args.output_dir / "analysis_manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote validated ablation artifacts to {args.output_dir}")
     return 0
